@@ -1,14 +1,3 @@
---[[
- .____                  ________ ___.    _____                           __                
- |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
- |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
- |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
- |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
-         \/          \/         \/    \/                \/     \/     \/                   
-          \_Welcome to LuaObfuscator.com   (Alpha 0.10.9) ~  Much Love, Ferib 
-
-]]--
-
 local Players = game:GetService("Players");
 local player = Players.LocalPlayer;
 local RunService = game:GetService("RunService");
@@ -553,70 +542,62 @@ GuardTab:CreateToggle({Name="GOD Auto Kill ",CurrentValue=false,Callback=functio
 			local weaponFired = ReplicatedStorage:WaitForChild("Local"):WaitForChild("GunSystem"):WaitForChild("Network"):WaitForChild("WeaponFired");
 			local onGunUsed = ReplicatedStorage:WaitForChild("Remotes"):WaitForChild("onGunUsed");
 			while autoHit do
-				repeat
-					task.wait(0.15);
-					local char = player.Character or player.CharacterAdded:Wait();
-					local backpack = player.Backpack;
-					local gun;
-					for _, name in ipairs(permanentGuns) do
+				task.wait(0.15);
+				local char = player.Character or player.CharacterAdded:Wait();
+				local backpack = player.Backpack;
+				local gun;
+				for _, name in ipairs(permanentGuns) do
+					gun = backpack:FindFirstChild(name) or char:FindFirstChild(name);
+					if gun then
+						break;
+					end
+				end
+				if not gun then
+					for _, name in ipairs(customGuns) do
 						gun = backpack:FindFirstChild(name) or char:FindFirstChild(name);
 						if gun then
 							break;
 						end
 					end
-					if not gun then
-						for _, name in ipairs(customGuns) do
-							gun = backpack:FindFirstChild(name) or char:FindFirstChild(name);
-							if gun then
-								break;
+				end
+				if gun then
+					local isMPS5 = (gun.Name == "MPS-5") or (gun.Name == "Golden MPS-5");
+					local root = char:FindFirstChild("HumanoidRootPart");
+					if not root then
+						continue;
+					end
+					for _, plr in pairs(Players:GetPlayers()) do
+						if ((plr ~= player) and (not friendProtection or not player:IsFriendsWith(plr.UserId)) and plr.Character and plr.Character:FindFirstChild("HumanoidRootPart")) then
+							local target = plr.Character;
+							local part = target:FindFirstChild("LeftUpperLeg") or target:FindFirstChild("HumanoidRootPart");
+							local humanoid = target:FindFirstChild("Humanoid");
+							if not (part and humanoid) then
+								continue;
+							end
+							local distance = (root.Position - part.Position).Magnitude;
+							local direction = (part.Position - root.Position).Unit;
+							local shotId = (isMPS5 and math.random(10, 99)) or math.random(100, 999);
+							if isMPS5 then
+								pcall(function()
+									onGunUsed:FireServer();
+								end);
+								local firedArgs = {gun,{root.Position,direction,Vector2.new(0, math.random(20, 50))}};
+								pcall(function()
+									weaponFired:FireServer(unpack(firedArgs));
+								end);
+								local hitArgs = {gun,{p=part.Position,pid=1,part=part,d=distance,maxDist=(distance + 0.1),h=humanoid,m=Enum.Material.Plastic,n=direction,t=tick(),sid=shotId}};
+								pcall(function()
+									weaponHit:FireServer(unpack(hitArgs));
+								end);
+							else
+								local hitArgs = {gun,{p=part.Position,pid=1,part=part,d=999,maxDist=999,h=humanoid,m=Enum.Material.Plastic,n=Vector3.new(0, -1, 0),t=tick(),sid=shotId}};
+								pcall(function()
+									weaponHit:FireServer(unpack(hitArgs));
+								end);
 							end
 						end
 					end
-					if gun then
-						local isMPS5 = (gun.Name == "MPS-5") or (gun.Name == "Golden MPS-5");
-						local root = char:FindFirstChild("HumanoidRootPart");
-						if not root then
-							do
-								break;
-							end
-						end
-						for _, plr in pairs(Players:GetPlayers()) do
-							repeat
-								if ((plr ~= player) and (not friendProtection or not player:IsFriendsWith(plr.UserId)) and plr.Character and plr.Character:FindFirstChild("HumanoidRootPart")) then
-									local target = plr.Character;
-									local part = target:FindFirstChild("LeftUpperLeg") or target:FindFirstChild("HumanoidRootPart");
-									local humanoid = target:FindFirstChild("Humanoid");
-									if not (part and humanoid) then
-										do
-											break;
-										end
-									end
-									local distance = (root.Position - part.Position).Magnitude;
-									local direction = (part.Position - root.Position).Unit;
-									local shotId = (isMPS5 and math.random(10, 99)) or math.random(100, 999);
-									if isMPS5 then
-										pcall(function()
-											onGunUsed:FireServer();
-										end);
-										local firedArgs = {gun,{root.Position,direction,Vector2.new(0, math.random(20, 50))}};
-										pcall(function()
-											weaponFired:FireServer(unpack(firedArgs));
-										end);
-										local hitArgs = {gun,{p=part.Position,pid=1,part=part,d=distance,maxDist=(distance + 0.1),h=humanoid,m=Enum.Material.Plastic,n=direction,t=tick(),sid=shotId}};
-										pcall(function()
-											weaponHit:FireServer(unpack(hitArgs));
-										end);
-									else
-										local hitArgs = {gun,{p=part.Position,pid=1,part=part,d=999,maxDist=999,h=humanoid,m=Enum.Material.Plastic,n=Vector3.new(0, -1, 0),t=tick(),sid=shotId}};
-										pcall(function()
-											weaponHit:FireServer(unpack(hitArgs));
-										end);
-									end
-								end
-							until true 
-						end
-					end
-				until true 
+				end
 			end
 		end);
 	end

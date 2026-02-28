@@ -1,1 +1,2856 @@
-so,bu,rz,Qc,Ex,Ll,FG,hd,lq,iE,zC,vB,hu,zj,Ix;zC={};bu,Ex={},function(Tv,yo,tG)bu[tG]=Mz(Tv,16536)-Mz(yo,50145)return bu[tG]end;so=bu[-17254]or Ex(72359,6255,-17254)repeat if so<=0.93892706375373614*32453 then if so>9738- -7023 then if so<=53093+-28662 then if so>=39395-18242 then if so>=328472445/15071 then if so<-237701366/-9982 then so,zC[1]=-21048- -32521,'#\17'elseif so>762801829/32033 then zC[2],so={},bu[26935]or Ex(53040,39092,26935)else so,zC[3]=bu[-5807]or Ex(61114,26929,-5807),'&\254'end elseif so>1.0157015269374821*20826 then so,zC[4]=bu[14186]or Ex(9711,38635,14186),(function(St,lm)local Lg,UA,zy,Ga;UA={};Lg,Ga=function(wC,bv,Nl)Ga[bv]=Mz(wC,46360)-Mz(Nl,52041)return Ga[bv]end,{};zy=Ga[-4286]or Lg(81322,-4286,7972)repeat if zy<=50134 then if zy>46149 then UA[1]=UA[1]+UA[2];UA[3]=UA[1]if UA[1]~=UA[1]then zy=64598 else zy=Ga[20483]or Lg(96193,20483,16081)end elseif zy<=32371 then if zy<=30505 then UA[4],zy=UA[4]..lq(hu(nv(St,(UA[3]-143)+1),nv(lm,(UA[3]-143)%#lm+1))),Ga[-21861]or Lg(18562,-21861,62093)else UA[3]=UA[1]if UA[5]~=UA[5]then zy=64598 else zy=Ga[14060]or Lg(70467,14060,4691)end end else UA[4]='';UA[2],zy,UA[1],UA[5]=1,32371,143,(#St-1)+143 end elseif zy>52545 then return UA[4]else if(UA[2]>=0 and UA[1]>UA[5])or((UA[2]<0 or UA[2]~=UA[2])and UA[1]<UA[5])then zy=64598 else zy=30505 end end until zy==21004 end)(zC[4],zC[5])else zC[5],so=(function(fq,Ki)local co,cD,XF,nE;cD={};nE,XF={},function(vd,rv,Qj)nE[vd]=Mz(rv,49656)-Mz(Qj,28108)return nE[vd]end;co=nE[-27802]or XF(-27802,14369,64210)repeat if co>36932 then if co>46996 then return cD[1]else cD[2]=cD[2]+cD[3];cD[4]=cD[2]if cD[2]~=cD[2]then co=65330 else co=nE[-2345]or XF(-2345,20240,25252)end end elseif co>=35555 then if co>35555 then co,cD[1]=nE[-9356]or XF(-9356,105840,51512),cD[1]..lq(hu(nv(fq,(cD[4]-9)+1),nv(Ki,(cD[4]-9)%#Ki+1)))else cD[4]=cD[2]if cD[5]~=cD[5]then co=nE[-8302]or XF(-8302,92236,51022)else co=nE[-14495]or XF(-14495,112615,39763)end end elseif co<=25275 then cD[1]='';cD[3],cD[2],co,cD[5]=1,9,35555,(#fq-1)+9 else if(cD[3]>=0 and cD[2]>cD[5])or((cD[3]<0 or cD[3]~=cD[3])and cD[2]<cD[5])then co=65330 else co=36932 end end until co==53305 end)(zC[5],zC[6]),bu[11341]or Ex(8804,55166,11341)end elseif so>9999- -10062 then so,zC[1]=bu[5745]or Ex(13215,50807,5745),'\241\161\253\164'elseif so<=-512093545/-26417 then if so<=548351868/32493 then zC[6],so='\t\2\163\f\23\191',63667-32176 else Lu,so,Ll=(string.gsub),bu[1315]or Ex(80919,29898,1315),(string.char)end else so,zC[5]=40591-23715,FG[zC[5]]end elseif so<=756728570/25210 then if so>586727492/21892 then if so>8761+19256 then so,zC[1]=bu[25394]or Ex(36058,44850,25394),zC[1][zC[2]]else so,zC[2]=bu[21864]or Ex(46992,60963,21864),'\147\192'end elseif so>=47501+-21595 then if so>6437- -19469 then zC[6],so=zC[6][zC[3]],bu[-12870]or Ex(89697,40599,-12870)else zC[1],so=FG[zC[1]],bu[11352]or Ex(31825,52139,11352)end else so,hd=-11834- -25767,Qc(zC[7][1],1,zC[7][2])end elseif so>398923469/13237 then so,Ax=bu[-26354]or Ex(47608,18401,-26354),(select)elseif so<=2.8267168391345248*10630 then so,dt=bu[-20535]or Ex(101197,11301,-20535),(function(...)return{[1]={...},[2]=Ax('#',...)}end)else zC[5],so=',\202:\214',1815608900/31150 end elseif so>-0.54209875879855995*-18611 then if so<=-0.47914645974781767*-28868 then if so<-9837+23232 then if so<=11.473000000000001*1000 then so,zC[3]=2491+3442,(function(eB,Qq)local NC,yi,fD,ly;fD={};yi,ly={},function(Vv,DG,RG)yi[RG]=Mz(Vv,64463)-Mz(DG,42072)return yi[RG]end;NC=yi[-17135]or ly(111262,30706,-17135)while NC~=56525 do if NC<30119 then if NC>=6892 then if NC<=6892 then fD[1],NC=fD[1]..lq(hu(nv(eB,(fD[2]-72)+1),nv(Qq,(fD[2]-72)%#Qq+1))),yi[-23026]or ly(84223,26535,-23026)else fD[2]=fD[3]if fD[4]~=fD[4]then NC=45675 else NC=3348 end end else if(fD[5]>=0 and fD[3]>fD[4])or((fD[5]<0 or fD[5]~=fD[5])and fD[3]<fD[4])then NC=yi[6675]or ly(128754,65162,6675)else NC=6892 end end elseif NC>=45675 then if NC>45675 then fD[3]=fD[3]+fD[5];fD[2]=fD[3]if fD[3]~=fD[3]then NC=45675 else NC=yi[30646]or ly(59847,41132,30646)end else return fD[1]end else fD[1]='';fD[3],fD[5],fD[4],NC=72,1,(#eB-1)+72,15495 end end end)(zC[3],zC[1])else zC[4],so=zC[4][zC[5]],bu[2901]or Ex(34734,33007,2901)end elseif so>=415345734/30906 then if so>2.890729189072919*4649 then so,zC[6]=-212503038/-10046,'\181|'else so,zC[2]=-38.032055749128922*-1435,'\188+7\188%-'end else ro,sD,iE,so,Ix,rs,zj,hs,rz=zC[7],zC[8],zC[4],bu[13001]or Ex(88629,12453,13001),zC[5],zC[6],zC[3],zC[1],zC[2]end elseif so>10581+5710 then so,zC[2]=bu[-17132]or Ex(43016,56303,-17132),'\246f'elseif so<=27831-12116 then if so>-437036411/-31367 then so,zC[3]=bu[27402]or Ex(84996,63984,27402),'~\186\165e\175\185'else zC[7],so=dt((function()local Ld,tt,sw,GF,us,Kx,zz,tB,YF,SF,Fa=FG[(function(ax,ID)local LA,AE,ud,tF;ud={};AE,tF=function(My,xy,RD)tF[My]=Mz(xy,31464)-Mz(RD,49688)return tF[My]end,{};LA=tF[-24048]or AE(-24048,69595,19085)repeat if LA>57375 then if LA>60574 then return ud[1]else ud[1]='';LA,ud[2],ud[3],ud[4]=22925,103,1,(#ax-1)+103 end elseif LA>=56718 then if LA>56718 then if(ud[3]>=0 and ud[2]>ud[4])or((ud[3]<0 or ud[3]~=ud[3])and ud[2]<ud[4])then LA=tF[-5371]or AE(-5371,110746,6704)else LA=tF[566]or AE(566,55367,36534)end else ud[2]=ud[2]+ud[3];ud[5]=ud[2]if ud[2]~=ud[2]then LA=tF[15510]or AE(15510,121109,29611)else LA=tF[22189]or AE(22189,109932,13693)end end elseif LA>22017 then ud[5]=ud[2]if ud[4]~=ud[4]then LA=62026 else LA=57375 end else LA,ud[1]=tF[20492]or AE(20492,107278,15936),ud[1]..lq(hu(nv(ax,(ud[5]-103)+1),nv(ID,(ud[5]-103)%#ID+1)))end until LA==35481 end)('\192\159\214\197\144','\162\246')][(function(em,Gt)local Ev,kq,ol,hD;Ev={};hD,ol=function(kk,fc,SB)ol[SB]=Mz(kk,38352)-Mz(fc,59284)return ol[SB]end,{};kq=ol[30643]or hD(15059,41401,30643)repeat if kq>33775 then if kq>53328 then return Ev[1]else Ev[2]=Ev[2]+Ev[3];Ev[4]=Ev[2]if Ev[2]~=Ev[2]then kq=ol[9681]or hD(130830,37050,9681)else kq=ol[-17714]or hD(105414,24499,-17714)end end elseif kq>26838 then Ev[4]=Ev[2]if Ev[5]~=Ev[5]then kq=ol[-10739]or hD(85370,878,-10739)else kq=21999 end elseif kq<22924 then if(Ev[3]>=0 and Ev[2]>Ev[5])or((Ev[3]<0 or Ev[3]~=Ev[3])and Ev[2]<Ev[5])then kq=ol[15236]or hD(112130,55222,15236)else kq=22924 end elseif kq>22924 then Ev[1]='';Ev[2],kq,Ev[5],Ev[3]=254,ol[16476]or hD(20815,42788,16476),(#em-1)+254,1 else kq,Ev[1]=ol[16693]or hD(27859,53031,16693),Ev[1]..lq(hu(nv(em,(Ev[4]-254)+1),nv(Gt,(Ev[4]-254)%#Gt+1)))end until kq==36181 end)('\186\239\183\245','\216\129')],FG[(function(X,OE)local Ku,Fc,JA,uk;JA={};Ku,Fc={},function(bD,Ys,iB)Ku[bD]=Mz(iB,38377)-Mz(Ys,45457)return Ku[bD]end;uk=Ku[-7068]or Fc(-7068,54813,103296)while uk~=37075 do if uk>39175 then if uk<=40669 then JA[1]='';JA[2],JA[3],JA[4],uk=1,(#X-1)+42,42,Ku[15059]or Fc(15059,23288,111121)else return JA[1]end elseif uk>=34412 then if uk<=34412 then JA[4]=JA[4]+JA[2];JA[5]=JA[4]if JA[4]~=JA[4]then uk=Ku[21211]or Fc(21211,20213,93246)else uk=39175 end else if(JA[2]>=0 and JA[4]>JA[3])or((JA[2]<0 or JA[2]~=JA[2])and JA[4]<JA[3])then uk=Ku[18632]or Fc(18632,53267,118300)else uk=Ku[-10884]or Fc(-10884,14409,28009)end end elseif uk<=15503 then JA[5]=JA[4]if JA[3]~=JA[3]then uk=64115 else uk=39175 end else JA[1],uk=JA[1]..lq(hu(nv(X,(JA[5]-42)+1),nv(OE,(JA[5]-42)%#OE+1))),Ku[14510]or Fc(14510,20840,127628)end end end)('8\254.\164h','Z\151')][(function(Fb,Ts)local Dg,OC,cA,hq;Dg={};hq,OC=function(Kp,cB,_u)OC[_u]=Mz(Kp,24341)-Mz(cB,56884)return OC[_u]end,{};cA=OC[-14240]or hq(81122,121,-14240)repeat if cA>=9948 then if cA>=17857 then if cA>17857 then Dg[1]='';Dg[2],Dg[3],Dg[4],cA=114,(#Fb-1)+114,1,9948 else cA,Dg[1]=OC[-22711]or hq(26953,64594,-22711),Dg[1]..lq(hu(nv(Fb,(Dg[5]-114)+1),nv(Ts,(Dg[5]-114)%#Ts+1)))end else Dg[5]=Dg[2]if Dg[3]~=Dg[3]then cA=OC[-32087]or hq(44868,5496,-32087)else cA=OC[8936]or hq(15750,40949,8936)end end elseif cA<=8402 then if cA<=5110 then Dg[2]=Dg[2]+Dg[4];Dg[5]=Dg[2]if Dg[2]~=Dg[2]then cA=OC[5895]or hq(65270,41706,5895)else cA=OC[1024]or hq(3124,60539,1024)end else if(Dg[4]>=0 and Dg[2]>Dg[3])or((Dg[4]<0 or Dg[4]~=Dg[4])and Dg[2]<Dg[3])then cA=9477 else cA=OC[14910]or hq(58282,43210,14910)end end else return Dg[1]end until cA==48145 end)('\218\139\215\129','\184\243')],FG[(function(ko,LC)local Xm,Wp,PG,BE;BE={};Xm,PG=function(Sr,jw,Mj)PG[Sr]=Mz(jw,3377)-Mz(Mj,45865)return PG[Sr]end,{};Wp=PG[-14182]or Xm(-14182,114713,26124)while Wp~=3314 do if Wp<50204 then if Wp>17203 then BE[1]=BE[2]if BE[3]~=BE[3]then Wp=PG[-20497]or Xm(-20497,67254,23052)else Wp=PG[-23526]or Xm(-23526,96706,50607)end elseif Wp<=8802 then return BE[4]else BE[2]=BE[2]+BE[5];BE[1]=BE[2]if BE[2]~=BE[2]then Wp=8802 else Wp=PG[26793]or Xm(26793,97456,49213)end end elseif Wp<=63491 then if Wp<=50204 then Wp,BE[4]=PG[-764]or Xm(-764,68389,29128),BE[4]..lq(hu(nv(ko,(BE[1]-61)+1),nv(LC,(BE[1]-61)%#LC+1)))else BE[4]='';BE[3],BE[2],Wp,BE[5]=(#ko-1)+61,61,38836,1 end else if(BE[5]>=0 and BE[2]>BE[3])or((BE[5]<0 or BE[5]~=BE[5])and BE[2]<BE[3])then Wp=PG[20962]or Xm(20962,72275,17961)else Wp=PG[-25951]or Xm(-25951,99833,30597)end end end end)('\197o\211\53\149','\167\6')][(function(dw,id)local DB,tu,lk,Ha;tu={};lk,Ha=function(Zg,Yz,mm)Ha[Yz]=Mz(Zg,25351)-Mz(mm,39229)return Ha[Yz]end,{};DB=Ha[-2331]or lk(58012,-2331,44549)repeat if DB>33987 then if DB<=35587 then tu[1]=tu[2]if tu[3]~=tu[3]then DB=Ha[8450]or lk(61889,8450,7523)else DB=53193 end else if(tu[4]>=0 and tu[2]>tu[3])or((tu[4]<0 or tu[4]~=tu[4])and tu[2]<tu[3])then DB=Ha[18994]or lk(61593,18994,7179)else DB=13320 end end elseif DB>19043 then tu[2]=tu[2]+tu[4];tu[1]=tu[2]if tu[2]~=tu[2]then DB=Ha[-16133]or lk(1482,-16133,49496)else DB=Ha[32371]or lk(36297,32371,34360)end elseif DB<13320 then return tu[5]elseif DB<=13320 then DB,tu[5]=Ha[28767]or lk(34672,28767,50825),tu[5]..lq(hu(nv(dw,(tu[1]-219)+1),nv(id,(tu[1]-219)%#id+1)))else tu[5]='';tu[3],tu[2],tu[4],DB=(#dw-1)+219,219,1,35587 end until DB==35875 end)('D~\162_k\190','6\r\202')],FG[(function(nA,yw)local da,CD,Zo,Jp;Jp={};da,Zo=function(Jb,to,Pq)Zo[Jb]=Mz(Pq,48683)-Mz(to,34003)return Zo[Jb]end,{};CD=Zo[-26067]or da(-26067,64841,108050)while CD~=47367 do if CD>=40607 then if CD>42029 then CD,Jp[1]=Zo[433]or da(433,12364,124647),Jp[1]..lq(hu(nv(nA,(Jp[2]-90)+1),nv(yw,(Jp[2]-90)%#yw+1)))elseif CD>40607 then Jp[3]=Jp[3]+Jp[4];Jp[2]=Jp[3]if Jp[3]~=Jp[3]then CD=3499 else CD=Zo[-16452]or da(-16452,54327,660)end else Jp[1]='';Jp[3],Jp[4],CD,Jp[5]=90,1,Zo[20828]or da(20828,12017,110214),(#nA-1)+90 end elseif CD<=26251 then if CD<=3499 then return Jp[1]else Jp[2]=Jp[3]if Jp[5]~=Jp[5]then CD=3499 else CD=27611 end end else if(Jp[4]>=0 and Jp[3]>Jp[5])or((Jp[4]<0 or Jp[4]~=Jp[4])and Jp[3]<Jp[5])then CD=Zo[21469]or da(21469,52460,60353)else CD=Zo[13332]or da(13332,13117,115468)end end end end)('\14k\24\49^','l\2')][(function(Je,Wa)local kB,Dr,Ul,Da;kB={};Da,Ul={},function(lx,Qm,Tr)Da[Qm]=Mz(Tr,30575)-Mz(lx,34971)return Da[Qm]end;Dr=Da[-19662]or Ul(11290,-19662,84848)repeat if Dr>43289 then if Dr<=46303 then return kB[1]else Dr,kB[1]=Da[-4916]or Ul(17325,-4916,90886),kB[1]..lq(hu(nv(Je,(kB[2]-83)+1),nv(Wa,(kB[2]-83)%#Wa+1)))end elseif Dr>=38814 then if Dr>38814 then if(kB[3]>=0 and kB[4]>kB[5])or((kB[3]<0 or kB[3]~=kB[3])and kB[4]<kB[5])then Dr=Da[1847]or Ul(32155,1847,122544)else Dr=58863 end else kB[1]='';kB[3],Dr,kB[4],kB[5]=1,Da[-26397]or Ul(63277,-26397,91863),83,(#Je-1)+83 end elseif Dr<=18739 then kB[4]=kB[4]+kB[3];kB[2]=kB[4]if kB[4]~=kB[4]then Dr=46303 else Dr=Da[-21054]or Ul(39860,-21054,52007)end else kB[2]=kB[4]if kB[5]~=kB[5]then Dr=Da[10525]or Ul(28851,10525,121448)else Dr=43289 end end until Dr==62284 end)('\206\176:\203\165&','\162\195R')],FG[(function(HE,La)local Xn,zc,mA,Mg;Xn={};Mg,mA={},function(qz,Ny,Rz)Mg[Ny]=Mz(qz,13261)-Mz(Rz,58448)return Mg[Ny]end;zc=Mg[27003]or mA(53544,27003,8889)while zc~=52693 do if zc>27341 then if zc<=48192 then if(Xn[1]>=0 and Xn[2]>Xn[3])or((Xn[1]<0 or Xn[1]~=Xn[1])and Xn[2]<Xn[3])then zc=Mg[-4323]or mA(85611,-4323,20038)else zc=10627 end else return Xn[4]end elseif zc<10917 then if zc<=7164 then Xn[4]='';Xn[1],zc,Xn[3],Xn[2]=1,Mg[1770]or mA(44079,1770,37229),(#HE-1)+65,65 else zc,Xn[4]=Mg[120]or mA(57823,120,33557),Xn[4]..lq(hu(nv(HE,(Xn[5]-65)+1),nv(La,(Xn[5]-65)%#La+1)))end elseif zc>10917 then Xn[2]=Xn[2]+Xn[1];Xn[5]=Xn[2]if Xn[2]~=Xn[2]then zc=Mg[-24808]or mA(65829,-24808,47880)else zc=Mg[4187]or mA(61079,4187,50506)end else Xn[5]=Xn[2]if Xn[3]~=Xn[3]then zc=54160 else zc=Mg[32462]or mA(110485,32462,1096)end end end end)('\173\228\187\190\253','\207\141')][(function(nb,Hp)local Zf,ii,py,cx;py={};cx,ii={},function(Go,fo_,vr)cx[fo_]=Mz(Go,33711)-Mz(vr,20447)return cx[fo_]end;Zf=cx[30403]or ii(115584,30403,62752)repeat if Zf<=42600 then if Zf<=34096 then if Zf<=17919 then if Zf<=9154 then return py[1]else if(py[2]>=0 and py[3]>py[4])or((py[2]<0 or py[2]~=py[2])and py[3]<py[4])then Zf=9154 else Zf=cx[20393]or ii(86246,20393,40965)end end else py[1]='';py[2],py[3],py[4],Zf=1,100,(#nb-1)+100,53790 end else py[3]=py[3]+py[2];py[5]=py[3]if py[3]~=py[3]then Zf=9154 else Zf=cx[20833]or ii(62806,20833,32549)end end elseif Zf<=53790 then py[5]=py[3]if py[4]~=py[4]then Zf=cx[19096]or ii(49397,19096,20551)else Zf=17919 end else Zf,py[1]=cx[4882]or ii(22013,4882,24629),py[1]..lq(hu(nv(nb,(py[5]-100)+1),nv(Hp,(py[5]-100)%#Hp+1)))end until Zf==55235 end)('\207\241\195\244','\173\144')],FG[(function(Ak,Sn)local Am,ou,jo,Gu;Am={};Gu,ou={},function(Dz,Dw,Ui)Gu[Ui]=Mz(Dz,36940)-Mz(Dw,30322)return Gu[Ui]end;jo=Gu[30856]or ou(128756,47385,30856)repeat if jo>=50029 then if jo<54488 then return Am[1]elseif jo<=54488 then if(Am[2]>=0 and Am[3]>Am[4])or((Am[2]<0 or Am[2]~=Am[2])and Am[3]<Am[4])then jo=50029 else jo=22394 end else Am[5]=Am[3]if Am[4]~=Am[4]then jo=50029 else jo=54488 end end elseif jo>25526 then Am[1]='';Am[3],Am[4],jo,Am[2]=243,(#Ak-1)+243,64453,1 elseif jo<=22394 then jo,Am[1]=Gu[28437]or ou(100098,50666,28437),Am[1]..lq(hu(nv(Ak,(Am[5]-243)+1),nv(Sn,(Am[5]-243)%#Sn+1)))else Am[3]=Am[3]+Am[2];Am[5]=Am[3]if Am[3]~=Am[3]then jo=Gu[29983]or ou(18775,25564,29983)else jo=Gu[-32641]or ou(24741,27235,-32641)end end until jo==10489 end)("\138\'\156}\218",'\232N')][(function(Bv,MG)local tf,dB,ip,f_;ip={};dB,tf=function(Og,wy,Wr)tf[wy]=Mz(Wr,20526)-Mz(Og,58059)return tf[wy]end,{};f_=tf[-23474]or dB(43610,-23474,47258)repeat if f_<=59146 then if f_>=56168 then if f_<=56168 then ip[1]=ip[1]+ip[2];ip[3]=ip[1]if ip[1]~=ip[1]then f_=59146 else f_=37664 end else return ip[4]end elseif f_>37664 then ip[4]='';f_,ip[1],ip[5],ip[2]=61729,137,(#Bv-1)+137,1 else if(ip[2]>=0 and ip[1]>ip[5])or((ip[2]<0 or ip[2]~=ip[2])and ip[1]<ip[5])then f_=tf[-356]or dB(56620,-356,95967)else f_=62165 end end elseif f_>61729 then f_,ip[4]=tf[-21358]or dB(5440,-21358,99037),ip[4]..lq(hu(nv(Bv,(ip[3]-137)+1),nv(MG,(ip[3]-137)%#MG+1)))else ip[3]=ip[1]if ip[5]~=ip[5]then f_=59146 else f_=tf[-1950]or dB(43544,-1950,35805)end end until f_==7794 end)('\166\171\182','\196')],FG[(function(oC,hv)local xp,Hj,Ws,vu;vu={};Ws,Hj=function(w_,wg,xD)Hj[wg]=Mz(w_,4712)-Mz(xD,21973)return Hj[wg]end,{};xp=Hj[-30761]or Ws(26197,-30761,13603)repeat if xp<=19757 then if xp<13833 then if xp>4935 then vu[1]=vu[2]if vu[3]~=vu[3]then xp=Hj[15463]or Ws(67018,15463,37426)else xp=13833 end else vu[4]='';vu[5],vu[2],vu[3],xp=1,104,(#oC-1)+104,7175 end elseif xp<=13833 then if(vu[5]>=0 and vu[2]>vu[3])or((vu[5]<0 or vu[5]~=vu[5])and vu[2]<vu[3])then xp=20411 else xp=Hj[14791]or Ws(74613,14791,46629)end else xp,vu[4]=Hj[-31004]or Ws(33400,-31004,24652),vu[4]..lq(hu(nv(oC,(vu[1]-104)+1),nv(hv,(vu[1]-104)%#hv+1)))end elseif xp<=20411 then return vu[4]else vu[2]=vu[2]+vu[5];vu[1]=vu[2]if vu[2]~=vu[2]then xp=Hj[-2085]or Ws(68812,-2085,39740)else xp=13833 end end until xp==59993 end)('O!Y,^',';@')][(function(bq,Sv)local ya,Xr,yg,_B;_B={};ya,Xr={},function(fw,xd,m)ya[xd]=Mz(fw,46784)-Mz(m,60616)return ya[xd]end;yg=ya[-3034]or Xr(29104,-3034,23332)repeat if yg<=32135 then if yg>27797 then if(_B[1]>=0 and _B[2]>_B[3])or((_B[1]<0 or _B[1]~=_B[1])and _B[2]<_B[3])then yg=ya[-31996]or Xr(7207,-31996,53914)else yg=36197 end elseif yg>25357 then return _B[4]elseif yg>3972 then _B[5]=_B[2]if _B[3]~=_B[3]then yg=27797 else yg=ya[18189]or Xr(51333,18189,60534)end else _B[4]='';_B[3],yg,_B[1],_B[2]=(#bq-1)+216,ya[-31719]or Xr(102586,-31719,12197),1,216 end elseif yg<=36197 then _B[4],yg=_B[4]..lq(hu(nv(bq,(_B[5]-216)+1),nv(Sv,(_B[5]-216)%#Sv+1))),ya[14286]or Xr(109615,14286,51341)else _B[2]=_B[2]+_B[1];_B[5]=_B[2]if _B[2]~=_B[2]then yg=ya[-2440]or Xr(111190,-2440,29897)else yg=32135 end end until yg==38016 end)('ns\146bo\149','\a\29\225')],FG[(function(Yy,Gg)local dd,GB,xc,_z;xc={};GB,_z=function(ys,xG,kC)_z[xG]=Mz(kC,58855)-Mz(ys,7952)return _z[xG]end,{};dd=_z[19253]or GB(45372,19253,12492)while dd~=5579 do if dd<=29869 then if dd<9983 then if dd<=5085 then xc[1],dd=xc[1]..lq(hu(nv(Yy,(xc[2]-124)+1),nv(Gg,(xc[2]-124)%#Gg+1))),_z[-1136]or GB(3573,-1136,25205)else return xc[1]end elseif dd<=9983 then xc[1]='';xc[3],dd,xc[4],xc[5]=1,33649,(#Yy-1)+124,124 else xc[5]=xc[5]+xc[3];xc[2]=xc[5]if xc[5]~=xc[5]then dd=_z[-10256]or GB(34986,-10256,18646)else dd=51058 end end elseif dd<=33649 then xc[2]=xc[5]if xc[4]~=xc[4]then dd=_z[-13710]or GB(2481,-13710,51711)else dd=51058 end else if(xc[3]>=0 and xc[5]>xc[4])or((xc[3]<0 or xc[3]~=xc[3])and xc[5]<xc[4])then dd=_z[7338]or GB(17524,7338,38204)else dd=_z[-12722]or GB(63709,-12722,7757)end end end end)('\189:\171\55\172','\201[')][(function(Lt,GC)local ja,Ju,Fm,ox;Fm={};ja,Ju=function(hB,oE,Tt)Ju[hB]=Mz(oE,24061)-Mz(Tt,63175)return Ju[hB]end,{};ox=Ju[-21516]or ja(-21516,63654,59749)while ox~=57039 do if ox<50186 then if ox<34233 then return Fm[1]elseif ox<=34233 then Fm[1]='';Fm[2],Fm[3],ox,Fm[4]=30,1,Ju[4169]or ja(4169,73476,31481),(#Lt-1)+30 else Fm[5]=Fm[2]if Fm[4]~=Fm[4]then ox=Ju[-7660]or ja(-7660,63299,24698)else ox=Ju[32484]or ja(32484,88255,47103)end end elseif ox>=55828 then if ox<=55828 then Fm[2]=Fm[2]+Fm[3];Fm[5]=Fm[2]if Fm[2]~=Fm[2]then ox=Ju[-4048]or ja(-4048,13181,44216)else ox=50186 end else ox,Fm[1]=Ju[-32156]or ja(-32156,122949,5475),Fm[1]..lq(hu(nv(Lt,(Fm[5]-30)+1),nv(GC,(Fm[5]-30)%#GC+1)))end else if(Fm[3]>=0 and Fm[2]>Fm[4])or((Fm[3]<0 or Fm[3]~=Fm[3])and Fm[2]<Fm[4])then ox=Ju[23612]or ja(23612,89824,6619)else ox=62739 end end end end)('\220^1\200S*','\169\48A')],FG[(function(ib,uC)local Vn,Xg,Oq,bk;Oq={};Vn,bk={},function(Qk,wi,ei)Vn[ei]=Mz(Qk,43828)-Mz(wi,19302)return Vn[ei]end;Xg=Vn[26269]or bk(111407,1582,26269)repeat if Xg<18882 then if Xg<12113 then return Oq[1]elseif Xg<=12113 then Oq[1],Xg=Oq[1]..lq(hu(nv(ib,(Oq[2]-252)+1),nv(uC,(Oq[2]-252)%#uC+1))),Vn[28941]or bk(63859,16601,28941)else Oq[3]=Oq[3]+Oq[4];Oq[2]=Oq[3]if Oq[3]~=Oq[3]then Xg=2852 else Xg=Vn[7955]or bk(114246,32982,7955)end end elseif Xg<=19584 then if Xg>18882 then Oq[2]=Oq[3]if Oq[5]~=Oq[5]then Xg=2852 else Xg=18882 end else if(Oq[4]>=0 and Oq[3]>Oq[5])or((Oq[4]<0 or Oq[4]~=Oq[4])and Oq[3]<Oq[5])then Xg=Vn[27605]or bk(42270,18528,27605)else Xg=12113 end end else Oq[1]='';Oq[3],Xg,Oq[4],Oq[5]=252,Vn[-8740]or bk(99562,43064,-8740),1,(#ib-1)+252 end until Xg==9425 end)('\198!\202\220;\223','\181U\184')][(function(Hc,Zj)local Yj,Mo,GE,bf;bf={};Yj,Mo={},function(WD,pB,XE)Yj[XE]=Mz(pB,45387)-Mz(WD,33446)return Yj[XE]end;GE=Yj[3411]or Mo(32731,109616,3411)repeat if GE>23283 then if GE>29776 then GE,bf[1]=Yj[20180]or Mo(31055,124823,20180),bf[1]..lq(hu(nv(Hc,(bf[2]-193)+1),nv(Zj,(bf[2]-193)%#Zj+1)))else return bf[1]end elseif GE>16441 then bf[3]=bf[3]+bf[4];bf[2]=bf[3]if bf[3]~=bf[3]then GE=29776 else GE=16441 end elseif GE>8190 then if(bf[4]>=0 and bf[3]>bf[5])or((bf[4]<0 or bf[4]~=bf[4])and bf[3]<bf[5])then GE=29776 else GE=Yj[13753]or Mo(65142,112778,13753)end elseif GE>5300 then bf[1]='';bf[3],bf[5],bf[4],GE=193,(#Hc-1)+193,1,5300 else bf[2]=bf[3]if bf[5]~=bf[5]then GE=Yj[3221]or Mo(8555,108886,3221)else GE=Yj[21491]or Mo(50864,13572,21491)end end until GE==49374 end)('+<)','Y')],FG[(function(W,CF)local ND,ge,iH,my;ge={};ND,iH=function(Td,Es,qF)iH[Es]=Mz(Td,27443)-Mz(qF,38447)return iH[Es]end,{};my=iH[-16890]or ND(86701,-16890,11136)repeat if my<=34070 then if my<=33519 then if my<=31727 then if my<=7963 then if(ge[1]>=0 and ge[2]>ge[3])or((ge[1]<0 or ge[1]~=ge[1])and ge[2]<ge[3])then my=34070 else my=51176 end else ge[4]='';my,ge[2],ge[1],ge[3]=38697,113,1,(#W-1)+113 end else ge[2]=ge[2]+ge[1];ge[5]=ge[2]if ge[2]~=ge[2]then my=iH[29550]or ND(125104,29550,26690)else my=7963 end end else return ge[4]end elseif my>38697 then my,ge[4]=iH[13649]or ND(79476,13649,19575),ge[4]..lq(hu(nv(W,(ge[5]-113)+1),nv(CF,(ge[5]-113)%#CF+1)))else ge[5]=ge[2]if ge[3]~=ge[3]then my=34070 else my=iH[-7395]or ND(44807,-7395,13110)end end until my==1366 end)('\25?Z\3%O','jK(')][(function(Qw,qw)local Vk,Qa,Sc,ha;Sc={};Vk,ha=function(Jr,Ls,Xv)ha[Jr]=Mz(Ls,58958)-Mz(Xv,4151)return ha[Jr]end,{};Qa=ha[24758]or Vk(24758,87407,51444)while Qa~=9178 do if Qa<45033 then if Qa<24321 then if(Sc[1]>=0 and Sc[2]>Sc[3])or((Sc[1]<0 or Sc[1]~=Sc[1])and Sc[2]<Sc[3])then Qa=45033 else Qa=ha[20449]or Vk(20449,105101,54393)end elseif Qa<=24321 then Sc[2]=Sc[2]+Sc[1];Sc[4]=Sc[2]if Sc[2]~=Sc[2]then Qa=ha[-31209]or Vk(-31209,84581,60533)else Qa=20402 end else Sc[4]=Sc[2]if Sc[3]~=Sc[3]then Qa=ha[1282]or Vk(1282,117890,27348)else Qa=20402 end end elseif Qa<47221 then return Sc[5]elseif Qa>47221 then Sc[5]='';Sc[3],Sc[1],Sc[2],Qa=(#Qw-1)+58,1,58,42060 else Qa,Sc[5]=ha[-6932]or Vk(-6932,8784,29994),Sc[5]..lq(hu(nv(Qw,(Sc[4]-58)+1),nv(qw,(Sc[4]-58)%#qw+1)))end end end)('\130\6\128\28','\225n')],FG[(function(ka,fC)local fh,uD,Iv,Pl;fh={};Iv,Pl={},function(nC,Vh,mg)Iv[Vh]=Mz(nC,48745)-Mz(mg,5611)return Iv[Vh]end;uD=Iv[30535]or Pl(109473,30535,27654)repeat if uD>=39899 then if uD<40336 then fh[1]='';fh[2],fh[3],fh[4],uD=(#ka-1)+22,22,1,36508 elseif uD>40336 then fh[3]=fh[3]+fh[4];fh[5]=fh[3]if fh[3]~=fh[3]then uD=40336 else uD=Iv[-22660]or Pl(80385,-22660,63687)end else return fh[1]end elseif uD>36508 then if(fh[4]>=0 and fh[3]>fh[2])or((fh[4]<0 or fh[4]~=fh[4])and fh[3]<fh[2])then uD=40336 else uD=18932 end elseif uD>18932 then fh[5]=fh[3]if fh[2]~=fh[2]then uD=40336 else uD=Iv[8493]or Pl(99580,8493,46770)end else uD,fh[1]=Iv[-17497]or Pl(69282,-17497,57168),fh[1]..lq(hu(nv(ka,(fh[5]-22)+1),nv(fC,(fh[5]-22)%#fC+1)))end until uD==54453 end)('\22\239\241\f\245\228','e\155\131')][(function(L,qj)local De,_x,TF,Qz;TF={};_x,De={},function(Ve,Xk,zl)_x[Ve]=Mz(Xk,64880)-Mz(zl,21610)return _x[Ve]end;Qz=_x[-12007]or De(-12007,58980,24343)repeat if Qz<=54016 then if Qz<38272 then if Qz<=3991 then TF[1]='';TF[2],TF[3],Qz,TF[4]=13,1,57811,(#L-1)+13 else if(TF[3]>=0 and TF[2]>TF[4])or((TF[3]<0 or TF[3]~=TF[3])and TF[2]<TF[4])then Qz=54016 else Qz=60596 end end elseif Qz>38272 then return TF[1]else TF[2]=TF[2]+TF[3];TF[5]=TF[2]if TF[2]~=TF[2]then Qz=54016 else Qz=_x[4760]or De(4760,111674,42023)end end elseif Qz<=57811 then TF[5]=TF[2]if TF[4]~=TF[4]then Qz=_x[-15179]or De(-15179,123762,8040)else Qz=_x[-21452]or De(-21452,594,62031)end else Qz,TF[1]=_x[18899]or De(18899,123622,56956),TF[1]..lq(hu(nv(L,(TF[5]-13)+1),nv(qj,(TF[5]-13)%#qj+1)))end until Qz==39173 end)('\194\237\212\241','\160\148')]local function Fr(Er,ok)local UG,ey=sw(Er,ok),GF(Er,(5073-5041)-ok)return us(Kx(UG,ey),-17957258260395/-4181)end local qd=function(ch)local mu={1116334134- -18274,1899448156+-715,4656316940217/1527,3921021080+-11507,961954447+32716,1508991610-20617,6511949275192/2654,2870784772-21551,3624412413+-31333,310583192+15209,-9634843486026/-15867,1426883833-1846,1925063623- -14765,-103473.47240966739*-20895,2614862779+25324,3248216471+6109,3835388376+2025,4022198691+26083,-21800.022925944253*-12126,604787854- -19774,770279121+-23138,109057.9816657936*11454,-50659.07717366518*-30697,1996033558- -31428,100008.64847298355*25540,-103602.97936630319*-27237,2953026841+-30033,3210309020- -4651,60482038668157/18127,-52430901455797/-14627,113913714+13279,338244427+-2532,8052988879630/12086,773513364+16548,1294784799-27427,1396201550+-19259,1695171258- -12442,-107201.65394992445*-18532,2177036238+-9888,536570.43830530683*4579,2730499487+-13566,-141745.1078554556*-19897,3259735293+-4493,-30389581414993/-9083,-266489.75420645747*-13194,77814425152852/21613,4094592265+-20356,2891394265312/10498,-2643319197696/-6144,506927450- -21166,659036684- -23872,-27681.161014560828*-31935,958111207+28364,-31235801033634/-23613,140045.74605922552*10975,-9169345844634/-5246,1955590565-28343,2024137350-32535,-6796805609052/-3051,-64950941660000/-27500,12083899894624/4976,89857.367808598719*30679,90677294887179/28301,3329334485-9187}local function eq(og)local mf=#og local Eu=mf*(0.0013845621322256837*5778);og=og..(function(Ep,xe)local wF,Fp,pw,Pi;pw={};wF,Pi=function(Ta,y,kE)Pi[y]=Mz(Ta,43575)-Mz(kE,5756)return Pi[y]end,{};Fp=Pi[-25225]or wF(107598,-25225,1076)repeat if Fp>=47064 then if Fp<51759 then Fp,pw[1]=Pi[-25022]or wF(3088,-25022,36822),pw[1]..lq(hu(nv(Ep,(pw[2]-89)+1),nv(xe,(pw[2]-89)%#xe+1)))elseif Fp<=51759 then return pw[1]else pw[1]='';pw[3],pw[4],Fp,pw[5]=(#Ep-1)+89,1,37585,89 end elseif Fp>=3197 then if Fp>3197 then pw[2]=pw[5]if pw[3]~=pw[3]then Fp=51759 else Fp=Pi[9932]or wF(10760,9932,28485)end else pw[5]=pw[5]+pw[4];pw[2]=pw[5]if pw[5]~=pw[5]then Fp=Pi[-29650]or wF(31573,-29650,4431)else Fp=1798 end end else if(pw[4]>=0 and pw[5]>pw[3])or((pw[4]<0 or pw[4]~=pw[4])and pw[5]<pw[3])then Fp=Pi[-21186]or wF(71009,-21186,58203)else Fp=Pi[9882]or wF(126004,9882,38999)end end until Fp==55798 end)('?','\191')local Jw=729664/11401-((mf+(26342-26333))%(-1941- -2005))if Jw~=1131520/17680 then og=og..YF((function(vi,Jh)local mb,GA,ic,ci;ic={};mb,GA={},function(Ag,Sy,cw)mb[Sy]=Mz(cw,15117)-Mz(Ag,11200)return mb[Sy]end;ci=mb[-24543]or GA(22358,-24543,60869)while ci~=51446 do if ci<24703 then if ci>=16467 then if ci<=16467 then ic[1]=ic[2]if ic[3]~=ic[3]then ci=13120 else ci=24703 end else ic[4]='';ci,ic[5],ic[3],ic[2]=16467,1,(#vi-1)+176,176 end else return ic[4]end elseif ci>50628 then ic[2]=ic[2]+ic[5];ic[1]=ic[2]if ic[2]~=ic[2]then ci=mb[-15321]or GA(10757,-15321,3592)else ci=mb[-4061]or GA(3788,-4061,48774)end elseif ci>24703 then ic[4],ci=ic[4]..lq(hu(nv(vi,(ic[1]-176)+1),nv(Jh,(ic[1]-176)%#Jh+1))),mb[-19228]or GA(56440,-19228,121243)else if(ic[5]>=0 and ic[2]>ic[3])or((ic[5]<0 or ic[5]~=ic[5])and ic[2]<ic[3])then ci=13120 else ci=mb[13803]or GA(46497,13803,89896)end end end end)("\'","\'"),Jw)end og=og..SF(us(sw(Eu,-28050- -28106),-0.0090967465753424657*-28032),us(sw(Eu,10140-10092),31488+-31233),us(sw(Eu,697760/17444),30431+-30176),us(sw(Eu,855456/26733),-1903065/-7463),us(sw(Eu,-547032/-22793),6324-6069),us(sw(Eu,-28337+28353),-4602495/-18049),us(sw(Eu,7391+-7383),26929+-26674),us(Eu,-0.054094187526516756*-4714))return og end local function Zz(Bg)local ak={}for YD=-19800- -19980,(#Bg)+-332582/-1858,29710+-29646 do zz(ak,Bg[(function(zv,xt)local fn,Ai,ms,dm;fn={};ms,dm={},function(Ua,zq,CC)ms[CC]=Mz(Ua,43588)-Mz(zq,61868)return ms[CC]end;Ai=ms[19367]or dm(2784,37877,19367)while Ai~=3434 do if Ai>=26679 then if Ai<27717 then fn[1],Ai=fn[1]..lq(hu(nv(zv,(fn[2]-106)+1),nv(xt,(fn[2]-106)%#xt+1))),ms[-19542]or dm(104849,13884,-19542)elseif Ai>27717 then fn[2]=fn[3]if fn[4]~=fn[4]then Ai=ms[-25299]or dm(4894,27785,-25299)else Ai=ms[6812]or dm(17051,19934,6812)end else fn[3]=fn[3]+fn[5];fn[2]=fn[3]if fn[3]~=fn[3]then Ai=ms[19340]or dm(27151,21946,19340)else Ai=ms[-32180]or dm(61678,57233,-32180)end end elseif Ai>11373 then fn[1]='';Ai,fn[4],fn[5],fn[3]=35296,(#zv-1)+106,1,106 elseif Ai<=7221 then return fn[1]else if(fn[5]>=0 and fn[3]>fn[4])or((fn[5]<0 or fn[5]~=fn[5])and fn[3]<fn[4])then Ai=ms[27237]or dm(58713,49988,27237)else Ai=26679 end end end end)('\234\236\251','\153')](Bg,(YD-(7398+-7219)),(YD-(-12510+12689))+-0.0023309160870208672*-27028))end return ak end local function Vs(mF,Bj)local _y={}for r_=4227+-4057,(-30208+30272)+(30550-30381)do if not((r_- -5338541/-31589)<=-101024/-6314)then local Ab,Sg=tt(Fr(_y[(r_- -0.0071368243243243243*-23680)- -0.00068782098312545855*-21808],0.00042337002540220151*16534),Fr(_y[(r_-(-16027- -16196))-(13819+-13804)],-11839- -11857),sw(_y[(r_-0.013454342807101345*12561)-(4138-4123)],-30892+30895)),tt(Fr(_y[(r_-0.012398209962585284*13631)-44456/22228],-2087- -2104),Fr(_y[(r_-(-13436+13605))-(19009-19007)],30622+-30603),sw(_y[(r_-0.0068112203772368205*24812)- -6.4823517972320362e-05*-30853],-9237- -9247));_y[(r_- -5301023/-31367)]=us(_y[(r_-0.0085215812827753121*19832)-(16505+-16489)]+Ab+_y[(r_-(25299-25130))-(-8641+8648)]+Sg,4294980733+-13438)else _y[(r_-(-28680+28849))]=Kx(GF(Fa(mF,((r_-(-9251- -9420))-3.2285142377477883e-05*30974)*(-9736+9740)+-11384/-11384),0.02600216684723727*923),GF(Fa(mF,((r_-(-23354- -23523))- -26133/-26133)*(117216/29304)+(28677+-28675)),-19875- -19891),GF(Fa(mF,((r_-(2265+-2096))-(15870-15869))*(29276+-29272)+-0.00013810247203424942*-21723),-0.00073793930449220549*-10841),Fa(mF,((r_-2837679/16791)-(389-388))*(-65484/-16371)+(18258+-18254)))end end local yx,Kn,In,Xf,rc,AC,UF,Vr=tB(Bj)for si=-532500/-5325,(29762-29698)+(24840-24741)do local AD,st=tt(Fr(rc,0.00046260601387818041*12970),Fr(rc,0.0021321961620469083*5159),Fr(rc,6649-6624)),tt(us(rc,AC),us(Ld(rc),UF))local Gs,dg,pa=us(Vr+AD+st+mu[(si-0.053311793214862679*1857)]+_y[(si-(-25550- -25649))],272696.3361904762*15750),tt(Fr(yx,0.00021101498206372652*9478),Fr(yx,0.0004179661125936405*31103),Fr(yx,609532/27706)),tt(us(yx,Kn),us(yx,In),us(Kn,In))local Iz=us(dg+pa,4294954883- -12412);Vr=UF;UF=AC;AC=rc;rc=us(Xf+Gs,88021059743730/20494);Xf=In;In=Kn;Kn=yx;yx=us(Gs+Iz,-48893907686280/-11384)end return us(Bj[-5315/-5315]+yx,204893.0109245301*20962),us(Bj[1230-1228]+Kn,4294943906- -23389),us(Bj[0.00023073373327180433*13002]+In,262256.04781095439*16377),us(Bj[-0.00025578718506202841*-15638]+Xf,4294948229+19066),us(Bj[0.00073185011709601879*6832]+rc,4294989599+-22304),us(Bj[-20846+20852]+AC,4294946293- -21002),us(Bj[-636- -643]+UF,4294991068-23773),us(Bj[0.00074668657830875493*10714]+Vr,-249838.13012622885*-17191)end ch=eq(ch)local Zu,Vi,od=Zz(ch),{60355.329861582308*29476,3144144086-9809,1013900627+3615,2773491698-10936,-30749903206828/-22612,2600802926+19998,528727895- -6740,61826.537181132684*24932},''for dk,iG in FG[(function(Ei,Vg)local Xc,Gl,Zv,XA;Gl={};Zv,XA=function(Xj,yA,yq)XA[yA]=Mz(Xj,11463)-Mz(yq,34419)return XA[yA]end,{};Xc=XA[22341]or Zv(73084,22341,6924)repeat if Xc<23373 then if Xc<5059 then Gl[1]=Gl[2]if Gl[3]~=Gl[3]then Xc=XA[14208]or Zv(48314,14208,45891)else Xc=33402 end elseif Xc<=5059 then Gl[4],Xc=Gl[4]..lq(hu(nv(Ei,(Gl[1]-189)+1),nv(Vg,(Gl[1]-189)%#Vg+1))),XA[1196]or Zv(56998,1196,9712)else Gl[2]=Gl[2]+Gl[5];Gl[1]=Gl[2]if Gl[2]~=Gl[2]then Xc=23373 else Xc=33402 end end elseif Xc<=33402 then if Xc<=23373 then return Gl[4]else if(Gl[5]>=0 and Gl[2]>Gl[3])or((Gl[5]<0 or Gl[5]~=Gl[5])and Gl[2]<Gl[3])then Xc=23373 else Xc=XA[-19214]or Zv(75535,-19214,32374)end end else Gl[4]='';Gl[5],Xc,Gl[3],Gl[2]=1,103,(#Ei-1)+189,189 end until Xc==25039 end)('\193Fe\193Dw','\168\54\4')](Zu)do Vi={Vs(iG,Vi)}end for l_,YC in FG[(function(dh,Dh)local YE,pE,Aw,Dk;Aw={};pE,YE=function(AF,Cl,jc)YE[jc]=Mz(Cl,48689)-Mz(AF,47296)return YE[jc]end,{};Dk=YE[24776]or pE(10816,23817,24776)repeat if Dk>=42017 then if Dk<50305 then Aw[1]=Aw[2]if Aw[3]~=Aw[3]then Dk=YE[-29146]or pE(49295,29023,-29146)else Dk=50305 end elseif Dk>50305 then Dk,Aw[4]=YE[30686]or pE(11313,5319,30686),Aw[4]..lq(hu(nv(dh,(Aw[1]-35)+1),nv(Dh,(Aw[1]-35)%#Dh+1)))else if(Aw[5]>=0 and Aw[2]>Aw[3])or((Aw[5]<0 or Aw[5]~=Aw[5])and Aw[2]<Aw[3])then Dk=22303 else Dk=52826 end end elseif Dk<20664 then Aw[2]=Aw[2]+Aw[5];Aw[1]=Aw[2]if Aw[2]~=Aw[2]then Dk=22303 else Dk=50305 end elseif Dk>20664 then return Aw[4]else Aw[4]='';Dk,Aw[5],Aw[3],Aw[2]=YE[8078]or pE(29898,118298,8078),1,(#dh-1)+35,35 end until Dk==7818 end)('|{\132|y\150','\21\v\229')](Vi)do od=od..SF(us(sw(YC,-31892- -31916),-9549+9804));od=od..SF(us(sw(YC,-334960/-20935),-1521840/-5968));od=od..SF(us(sw(YC,206520/25815),8390-8135));od=od..SF(us(YC,-0.015454545454545455*-16500))end return od end return qd end)()),bu[-3199]or Ex(82606,7967,-3199)end else so,zC[8]=-471932890/-8230,(function(Gi,TA)local eH,Ma,Uw,lj;Uw={};eH,Ma={},function(un_,wa,bA)eH[wa]=Mz(bA,23658)-Mz(un_,54043)return eH[wa]end;lj=eH[-27453]or Ma(36786,-27453,73271)repeat if lj<=60643 then if lj>58804 then Uw[1],lj=Uw[1]..lq(hu(nv(Gi,(Uw[2]-123)+1),nv(TA,(Uw[2]-123)%#TA+1))),eH[-14417]or Ma(38776,-14417,9035)elseif lj>46538 then Uw[1]='';Uw[3],Uw[4],Uw[5],lj=123,(#Gi-1)+123,1,61547 elseif lj<=15038 then Uw[3]=Uw[3]+Uw[5];Uw[2]=Uw[3]if Uw[3]~=Uw[3]then lj=eH[-7046]or Ma(38380,-7046,41131)else lj=64299 end else return Uw[1]end elseif lj>61547 then if(Uw[5]>=0 and Uw[3]>Uw[4])or((Uw[5]<0 or Uw[5]~=Uw[5])and Uw[3]<Uw[4])then lj=eH[28594]or Ma(64416,28594,33519)else lj=60643 end else Uw[2]=Uw[3]if Uw[4]~=Uw[4]then lj=46538 else lj=64299 end end until lj==55659 end)(zC[8],zC[4])end elseif so>33587+-26948 then if so<=28993+-19168 then if so>=68210952/7159 then if so>-1337+10865 then so,zC[4]=bu[-10810]or Ex(85099,14281,-10810),'\157\v\138'else vB,so=Qc(zC[7][1],1,zC[7][2]),bu[-4733]or Ex(45959,50707,-4733)continue end else so,zC[5]=bu[-9017]or Ex(30066,50841,-9017),(function(ky,pq)local tg,CE,_F,ga;CE={};ga,tg={},function(dr,uh,Pd)ga[Pd]=Mz(dr,20536)-Mz(uh,27706)return ga[Pd]end;_F=ga[20881]or tg(577,27657,20881)repeat if _F>=21062 then if _F<=28374 then if _F<=21062 then CE[1]='';CE[2],CE[3],_F,CE[4]=208,1,10307,(#ky-1)+208 else CE[2]=CE[2]+CE[3];CE[5]=CE[2]if CE[2]~=CE[2]then _F=ga[-10936]or tg(122661,51261,-10936)else _F=ga[-21463]or tg(29921,25942,-21463)end end else return CE[1]end elseif _F>=7449 then if _F<=7449 then CE[1],_F=CE[1]..lq(hu(nv(ky,(CE[5]-208)+1),nv(pq,(CE[5]-208)%#pq+1))),ga[9306]or tg(36521,897,9306)else CE[5]=CE[2]if CE[4]~=CE[4]then _F=ga[-17136]or tg(118713,55377,-17136)else _F=ga[3893]or tg(30042,26063,3893)end end else if(CE[3]>=0 and CE[2]>CE[4])or((CE[3]<0 or CE[3]~=CE[3])and CE[2]<CE[4])then _F=ga[26906]or tg(78560,7160,26906)else _F=7449 end end until _F==14053 end)(zC[5],zC[6])end else so,hk=26776+20136,(function(Qv)local mo=rz[Qv]if not(mo)then else return mo end local Cc,Ks,Ni,bd,Us=Ix(6330+-6329,-159610/-14510),Ix(28229-28228,58650/11730),-1781- -1782,{},''while Ni<=#Qv do local uv=iE(Qv,Ni);Ni=Ni+0.00025195263290501388*3969 for Kj=-1592438/-9593,(-133832/-16729)+(31555+-31390)do local Vq=nil if not(zj(uv,-17352/-17352)~=0)then if Ni+(28813-28812)<=#Qv then local aE=ro((function(Oi,Ih)local ho,_E,Iw,Ad;Ad={};ho,Iw={},function(HF,Mc,nh)ho[HF]=Mz(nh,57671)-Mz(Mc,58454)return ho[HF]end;_E=ho[20686]or Iw(20686,55714,125755)repeat if _E<=51739 then if _E>41375 then if(Ad[1]>=0 and Ad[2]>Ad[3])or((Ad[1]<0 or Ad[1]~=Ad[1])and Ad[2]<Ad[3])then _E=ho[-14101]or Iw(-14101,13950,124756)else _E=55531 end elseif _E<28993 then return Ad[4]elseif _E>28993 then Ad[5]=Ad[2]if Ad[3]~=Ad[3]then _E=ho[18064]or Iw(18064,65509,44761)else _E=ho[23818]or Iw(23818,58852,10890)end else Ad[2]=Ad[2]+Ad[1];Ad[5]=Ad[2]if Ad[2]~=Ad[2]then _E=ho[13764]or Iw(13764,23649,3429)else _E=ho[13682]or Iw(13682,33528,119182)end end elseif _E>52360 then _E,Ad[4]=ho[611]or Iw(611,34195,12865),Ad[4]..lq(hu(nv(Oi,(Ad[5]-123)+1),nv(Ih,(Ad[5]-123)%#Ih+1)))else Ad[4]='';Ad[1],Ad[3],Ad[2],_E=1,(#Oi-1)+123,123,ho[19261]or Iw(19261,23748,113526)end until _E==714 end)('\213\162\217','\235'),Qv,Ni);Ni=Ni+49410/24705 local RF,Fe=#Us-rs(aE,-24185- -24190),zj(aE,(Ks-(-24306- -24307)))+-8115/-2705;Vq=sD(Us,RF,RF+Fe- -0.0022522522522522522*-444)end else if Ni<=#Qv then Vq=sD(Qv,Ni,Ni);Ni=Ni+(10763-10762)end end uv=rs(uv,-5.9705057018329455e-05*-16749)if not(Vq)then else bd[#bd+(11976-11975)]=Vq;Us=sD(Us..Vq,-Cc)end end end local la=hs(bd);rz[Qv]=la return la end)end elseif so>=30981-25048 then if so>=-137019036/-21588 then if so>173806248/27384 then so,lq,nv,hu=bu[3843]or Ex(14937,49243,3843),(string.char),(string.byte),(bit32 .bxor)else so,zC[8]=75289+-14326,(function(pk,ug)local Hq,Rv,IG,Qg;Rv={};Hq,IG=function(Eb,Gj,Hd)IG[Eb]=Mz(Gj,61419)-Mz(Hd,13637)return IG[Eb]end,{};Qg=IG[5866]or Hq(5866,94115,33581)while Qg~=64591 do if Qg>=51680 then if Qg<60417 then Rv[1]='';Rv[2],Rv[3],Rv[4],Qg=(#pk-1)+200,200,1,IG[6476]or Hq(6476,84199,51996)elseif Qg<=60417 then return Rv[1]else Rv[3]=Rv[3]+Rv[4];Rv[5]=Rv[3]if Rv[3]~=Rv[3]then Qg=IG[-12475]or Hq(-12475,114671,20806)else Qg=IG[10618]or Hq(10618,98060,57045)end end elseif Qg>42327 then Rv[5]=Rv[3]if Rv[2]~=Rv[2]then Qg=IG[21218]or Hq(21218,98063,37286)else Qg=IG[30405]or Hq(30405,4817,25254)end elseif Qg<=27651 then Qg,Rv[1]=IG[-30318]or Hq(-30318,99074,16516),Rv[1]..lq(hu(nv(pk,(Rv[5]-200)+1),nv(ug,(Rv[5]-200)%#ug+1)))else if(Rv[4]>=0 and Rv[3]>Rv[2])or((Rv[4]<0 or Rv[4]~=Rv[4])and Rv[3]<Rv[2])then Qg=IG[23290]or Hq(23290,114143,21366)else Qg=27651 end end end end)(zC[8],zC[4])end else zC[3],so=FG[zC[3]],-16541166/-787 end elseif so>111226455/26451 then zC[1],so='\130\a\148\n\147',7089- -9672 elseif so<=1015-165 then zC[6],so=(function(Hw,c)local du,Cx,xn,Q;xn={};du,Cx={},function(Tp,Xa,Py)du[Py]=Mz(Xa,46842)-Mz(Tp,18616)return du[Py]end;Q=du[17]or Cx(16501,111975,17)repeat if Q>=62626 then if Q<=63494 then if Q>62626 then xn[1]=xn[2]if xn[3]~=xn[3]then Q=47462 else Q=34996 end else xn[2]=xn[2]+xn[4];xn[1]=xn[2]if xn[2]~=xn[2]then Q=47462 else Q=34996 end end else xn[5]='';xn[4],Q,xn[3],xn[2]=1,63494,(#Hw-1)+59,59 end elseif Q<37391 then if(xn[4]>=0 and xn[2]>xn[3])or((xn[4]<0 or xn[4]~=xn[4])and xn[2]<xn[3])then Q=du[14056]or Cx(49852,128400,14056)else Q=37391 end elseif Q>37391 then return xn[5]else xn[5],Q=xn[5]..lq(hu(nv(Hw,(xn[1]-59)+1),nv(c,(xn[1]-59)%#c+1))),du[-20078]or Cx(31111,103195,-20078)end until Q==20834 end)(zC[6],zC[3]),bu[-8518]or Ex(76897,6006,-8518)else so,zC[8]=bu[17924]or Ex(44488,35320,17924),zC[8][zC[4]]end elseif so>=43611+4998 then if so<=2.5008813559322034*22125 then if so<=23152+28374 then if so>=51075+-1285 then if so<=58605-8073 then if so<=39189+10601 then so,zC[5]=bu[14409]or Ex(68538,13510,14409),'\128'else so,uA=7.6432678165530152*7479,(function(nk)nk=Lu(nk,'[^ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=]','')return(nk:gsub('.',function(Wo)if(Wo=='=')then return''end local Jc,ls='',(('ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'):find(Wo)-1)for jv=6,1,-1 do Jc=Jc..(ls%2^jv-ls%2^(jv-1)>0 and'1'or'0')end return Jc end):gsub('%d%d%d?%d?%d?%d?%d?%d?',function(zk)if(#zk~=8)then return''end local Of=0 for A=1,8 do Of=Of+(zk:sub(A,A)=='1'and 2^(8-A)or 0)end return Ll(Of)end))end)end else so,zC[1]=bu[29979]or Ex(38887,57646,29979),(function(Cj,th_)local kF,ae,js,Zl;Zl={};js,kF={},function(of,uf,QD)js[uf]=Mz(of,31707)-Mz(QD,52060)return js[uf]end;ae=js[-20418]or kF(86491,-20418,63409)while ae~=12304 do if ae>46469 then if ae<=57621 then ae,Zl[1]=js[-17042]or kF(91344,-17042,32566),Zl[1]..lq(hu(nv(Cj,(Zl[2]-34)+1),nv(th_,(Zl[2]-34)%#th_+1)))else Zl[1]='';Zl[3],Zl[4],ae,Zl[5]=1,(#Cj-1)+34,js[26198]or kF(39404,26198,1436),34 end elseif ae>=27297 then if ae<=27297 then Zl[5]=Zl[5]+Zl[3];Zl[2]=Zl[5]if Zl[5]~=Zl[5]then ae=2977 else ae=46469 end else if(Zl[3]>=0 and Zl[5]>Zl[4])or((Zl[3]<0 or Zl[3]~=Zl[3])and Zl[5]<Zl[4])then ae=js[-27949]or kF(34852,-27949,8962)else ae=57621 end end elseif ae>2977 then Zl[2]=Zl[5]if Zl[4]~=Zl[4]then ae=2977 else ae=46469 end else return Zl[1]end end end)(zC[1],zC[2])end elseif so<=20606- -28003 then so,zC[5]=bu[-8666]or Ex(75502,5102,-8666),zC[5][zC[6]]else so,zC[3]=bu[-16670]or Ex(11113,54575,-16670),'AxW\"\17'end elseif so<=-266494608/-4883 then if so<71106-17207 then so,zC[1]=bu[25666]or Ex(54738,62457,25666),(function(Li,Gz)local An,xC,aC,Rw;Rw={};aC,xC={},function(jB,mv,ma)aC[mv]=Mz(ma,4425)-Mz(jB,38156)return aC[mv]end;An=aC[-15067]or xC(55375,-15067,31223)while An~=28215 do if An<=23712 then if An>=15873 then if An>15873 then Rw[1]=Rw[1]+Rw[2];Rw[3]=Rw[1]if Rw[1]~=Rw[1]then An=aC[25719]or xC(61268,25719,60244)else An=aC[-28160]or xC(27544,-28160,97857)end else Rw[4],An=Rw[4]..lq(hu(nv(Li,(Rw[3]-144)+1),nv(Gz,(Rw[3]-144)%#Gz+1))),aC[-338]or xC(36223,-338,25690)end elseif An<=7035 then Rw[4]='';Rw[1],Rw[5],An,Rw[2]=144,(#Li-1)+144,aC[31020]or xC(15946,31020,51413),1 else Rw[3]=Rw[1]if Rw[5]~=Rw[5]then An=aC[30004]or xC(12596,30004,78516)else An=28788 end end elseif An>28788 then return Rw[4]else if(Rw[2]>=0 and Rw[1]>Rw[5])or((Rw[2]<0 or Rw[2]~=Rw[2])and Rw[1]<Rw[5])then An=aC[5622]or xC(17112,5622,83664)else An=aC[10304]or xC(26303,10304,73981)end end end end)(zC[1],zC[2])elseif so>69795-15896 then zC[9],so='\223DY',-1050825700/-31747 else so,zC[1]=76838+-19402,'\f\201\205'end else so,zC[8]=15533+23748,'\219\5\231'end elseif so<=-386319608/-6628 then if so<957226699/16693 then if so<=31067- -25270 then Qc,so=((function()local function kl(km,Hk,Io)if Hk>Io then return end return km[Hk],kl(km,Hk+1,Io)end return kl end)()),bu[1927]or Ex(61787,42475,1927)else zC[7],so='\168q\149\178k\128',bu[20803]or Ex(92293,35864,20803)end elseif so<=39130+18306 then if so>47279- -10064 then zC[3],so=(function(cn,eE)local bw,Ej,hE,Kk;bw={};Ej,hE=function(EB,Rq,ee)hE[EB]=Mz(Rq,34478)-Mz(ee,11150)return hE[EB]end,{};Kk=hE[-15395]or Ej(-15395,3847,4007)while Kk~=9496 do if Kk>25984 then if Kk>53449 then return bw[1]else Kk,bw[1]=hE[-28250]or Ej(-28250,31104,63526),bw[1]..lq(hu(nv(cn,(bw[2]-71)+1),nv(eE,(bw[2]-71)%#eE+1)))end elseif Kk<=15509 then if Kk>=12304 then if Kk<=12304 then bw[2]=bw[3]if bw[4]~=bw[4]then Kk=hE[-18625]or Ej(-18625,23299,9164)else Kk=15509 end else if(bw[5]>=0 and bw[3]>bw[4])or((bw[5]<0 or bw[5]~=bw[5])and bw[3]<bw[4])then Kk=hE[8150]or Ej(8150,28318,14667)else Kk=53449 end end else bw[3]=bw[3]+bw[5];bw[2]=bw[3]if bw[3]~=bw[3]then Kk=54635 else Kk=hE[18163]or Ej(18163,24916,33003)end end else bw[1]='';bw[4],bw[3],Kk,bw[5]=(#cn-1)+71,71,12304,1 end end end)(zC[3],zC[1]),bu[-11182]or Ex(85490,26456,-11182)else zC[8],so=FG[zC[8]],bu[-20131]or Ex(44944,42348,-20131)end else so,zC[6]=bu[-14923]or Ex(6233,63290,-14923),'N\179'end elseif so>=52159+8312 then if so>-1866618828/-30868 then so,zC[7]=bu[2796]or Ex(121527,16218,2796),zC[7][zC[8]]else zC[4],so=FG[zC[4]],bu[5249]or Ex(15249,50865,5249)end else zC[4],so='u\23\219',40337+-24046 end elseif so<16628- -22382 then if so>1.4142630214864977*23922 then if so>-1191803852/-31393 then so,zC[6]=bu[-21463]or Ex(61785,38749,-21463),'D\151R\205\20'elseif so>30845+4094 then zC[8],so='\232e\250\252h\225',3270+6555 else so,zC[4]=bu[21328]or Ex(125338,9573,21328),'\243\245\226'end elseif so>20067+13033 then if so<=-375438974/-11267 then zC[7],so=FG[zC[7]],-2.3766119944910478*-15974 else zC[5],so='\215\21\193O\135',bu[-2838]or Ex(52532,37957,-2838)end elseif so<26626+5807 then zC[3],so='eq\203',39266- -5723 elseif so>652714125/20125 then zC[2],so=(function(Dt,Wx)local zr,DE,F,xq;F={};zr,DE={},function(te,Rn,R)zr[R]=Mz(te,36955)-Mz(Rn,33751)return zr[R]end;xq=zr[18161]or DE(13556,3107,18161)repeat if xq>=36802 then if xq<53621 then F[1],xq=F[1]..lq(hu(nv(Dt,(F[2]-134)+1),nv(Wx,(F[2]-134)%#Wx+1))),zr[-31563]or DE(73763,23764,-31563)elseif xq<=53621 then F[3]=F[3]+F[4];F[2]=F[3]if F[3]~=F[3]then xq=zr[27777]or DE(28403,35007,27777)else xq=20780 end else return F[1]end elseif xq>=20780 then if xq>20780 then F[2]=F[3]if F[5]~=F[5]then xq=62272 else xq=zr[-24250]or DE(108903,27591,-24250)end else if(F[4]>=0 and F[3]>F[5])or((F[4]<0 or F[4]~=F[4])and F[3]<F[5])then xq=zr[27414]or DE(81052,14928,27414)else xq=zr[-7315]or DE(25474,59328,-7315)end end else F[1]='';F[5],xq,F[3],F[4]=(#Dt-1)+134,32088,134,1 end until xq==62084 end)(zC[2],zC[9]),bu[-9737]or Ex(72108,8210,-9737)else so,FG=bu[14980]or Ex(58914,20266,14980),(getfenv())end elseif so>=166301387/3803 then if so<71928+-26764 then if so<=23774+19955 then so,zC[4]=77341-16870,(function(bG,Gf)local Dx,vf,tD,ur;ur={};Dx,vf=function(Fg,_j,Yi)vf[Fg]=Mz(_j,64706)-Mz(Yi,41522)return vf[Fg]end,{};tD=vf[20859]or Dx(20859,64,34988)while tD~=42063 do if tD>=34560 then if tD>44207 then ur[1]='';ur[2],ur[3],tD,ur[4]=1,(#bG-1)+199,vf[-4824]or Dx(-4824,113027,19255),199 elseif tD>34560 then ur[4]=ur[4]+ur[2];ur[5]=ur[4]if ur[4]~=ur[4]then tD=34560 else tD=13581 end else return ur[1]end elseif tD>16806 then ur[5]=ur[4]if ur[3]~=ur[3]then tD=vf[112]or Dx(112,1562,53738)else tD=vf[-6732]or Dx(-6732,18167,10010)end elseif tD>13581 then ur[1],tD=ur[1]..lq(hu(nv(bG,(ur[5]-199)+1),nv(Gf,(ur[5]-199)%#Gf+1))),vf[-10380]or Dx(-10380,117678,10383)else if(ur[2]>=0 and ur[4]>ur[3])or((ur[2]<0 or ur[2]~=ur[2])and ur[4]<ur[3])then tD=vf[-30938]or Dx(-30938,96663,23655)else tD=16806 end end end end)(zC[4],zC[5])else zC[6],so=(function(_w,zD)local jE,Bm,yp,TG;yp={};jE,TG={},function(It,fj,Mm)jE[Mm]=Mz(fj,7021)-Mz(It,17453)return jE[Mm]end;Bm=jE[-20731]or TG(46331,89462,-20731)repeat if Bm<21900 then if Bm>20523 then yp[1]='';yp[2],yp[3],yp[4],Bm=1,103,(#_w-1)+103,63217 elseif Bm>12439 then if(yp[2]>=0 and yp[3]>yp[4])or((yp[2]<0 or yp[2]~=yp[2])and yp[3]<yp[4])then Bm=jE[-16873]or TG(64071,86603,-16873)else Bm=21900 end else yp[3]=yp[3]+yp[2];yp[5]=yp[3]if yp[3]~=yp[3]then Bm=35516 else Bm=jE[1807]or TG(48261,86974,1807)end end elseif Bm<35516 then yp[1],Bm=yp[1]..lq(hu(nv(_w,(yp[5]-103)+1),nv(zD,(yp[5]-103)%#zD+1))),jE[18678]or TG(19373,23418,18678)elseif Bm>35516 then yp[5]=yp[3]if yp[4]~=yp[4]then Bm=35516 else Bm=20523 end else return yp[1]end until Bm==53143 end)(zC[6],zC[3]),-5.1476225775706874*-9443 end elseif so<-505578080/-10930 then zC[5],so='\26b\v',21933- -21796 elseif so>44227+2029 then so,zC[7]=bu[114]or Ex(62949,36882,114),dt((function()local Uz,qu,Lm,Hy,Rl,BF,_A,mc,rd,Qt,um,oa=FG[(function(Sj,fG)local ub,VF,Dm,yF;yF={};VF,ub={},function(JD,Xd,Yl)VF[Xd]=Mz(JD,45599)-Mz(Yl,57917)return VF[Xd]end;Dm=VF[-28897]or ub(108108,-28897,55323)while Dm~=31791 do if Dm<51436 then if Dm>=30346 then if Dm<=30346 then return yF[1]else Dm,yF[1]=VF[-23734]or ub(105666,-23734,34764),yF[1]..lq(hu(nv(Sj,(yF[2]-122)+1),nv(fG,(yF[2]-122)%#fG+1)))end else yF[2]=yF[3]if yF[4]~=yF[4]then Dm=30346 else Dm=59297 end end elseif Dm<=55853 then if Dm>51436 then yF[1]='';yF[5],yF[3],Dm,yF[4]=1,122,9169,(#Sj-1)+122 else yF[3]=yF[3]+yF[5];yF[2]=yF[3]if yF[3]~=yF[3]then Dm=30346 else Dm=VF[-20186]or ub(113452,-20186,50095)end end else if(yF[5]>=0 and yF[3]>yF[4])or((yF[5]<0 or yF[5]~=yF[5])and yF[3]<yF[4])then Dm=VF[8066]or ub(119489,8066,2153)else Dm=VF[-25767]or ub(72663,-25767,3904)end end end end)('\229?\243e\181','\135V')][(function(tj,vE)local ff,Gr,jD,Sl;jD={};Gr,ff=function(qm,Ik,Kt)ff[qm]=Mz(Kt,742)-Mz(Ik,49598)return ff[qm]end,{};Sl=ff[13954]or Gr(13954,9404,82365)repeat if Sl>=49477 then if Sl<54924 then jD[1]=jD[1]+jD[2];jD[3]=jD[1]if jD[1]~=jD[1]then Sl=2966 else Sl=ff[9367]or Gr(9367,5813,110449)end elseif Sl>54924 then jD[3]=jD[1]if jD[4]~=jD[4]then Sl=ff[31566]or Gr(31566,17170,36004)else Sl=54924 end else if(jD[2]>=0 and jD[1]>jD[4])or((jD[2]<0 or jD[2]~=jD[2])and jD[1]<jD[4])then Sl=ff[-16770]or Gr(-16770,35979,23085)else Sl=ff[-32306]or Gr(-32306,58759,33000)end end elseif Sl<24021 then return jD[5]elseif Sl>24021 then jD[5]='';jD[1],jD[2],Sl,jD[4]=109,1,ff[-31972]or Gr(-31972,55316,71459),(#tj-1)+109 else jD[5],Sl=jD[5]..lq(hu(nv(tj,(jD[3]-109)+1),nv(vE,(jD[3]-109)%#vE+1))),ff[-27896]or Gr(-27896,34817,68066)end until Sl==94 end)('\150\135\155\141','\244\255')],FG[(function(Wg,ek)local Tx,LD,HD,Gv;Tx={};Gv,LD=function(hA,jz,Rb)LD[jz]=Mz(Rb,467)-Mz(hA,14350)return LD[jz]end,{};HD=LD[17008]or Gv(26800,17008,44288)repeat if HD>23655 then if HD<=40562 then Tx[1],HD=Tx[1]..lq(hu(nv(Wg,(Tx[2]-37)+1),nv(ek,(Tx[2]-37)%#ek+1))),LD[27038]or Gv(32997,27038,106026)else Tx[3]=Tx[3]+Tx[4];Tx[2]=Tx[3]if Tx[3]~=Tx[3]then HD=5703 else HD=LD[-14775]or Gv(59990,-14775,77676)end end elseif HD<=23573 then if HD<=12817 then if HD<=5703 then return Tx[1]else Tx[2]=Tx[3]if Tx[5]~=Tx[5]then HD=LD[18148]or Gv(20757,18148,32433)else HD=LD[30778]or Gv(20223,30778,53899)end end else Tx[1]='';HD,Tx[4],Tx[3],Tx[5]=12817,1,37,(#Wg-1)+37 end else if(Tx[4]>=0 and Tx[3]>Tx[5])or((Tx[4]<0 or Tx[4]~=Tx[4])and Tx[3]<Tx[5])then HD=LD[13795]or Gv(29205,13795,25009)else HD=40562 end end until HD==64447 end)("\149\'\131}\197",'\247N')][(function(cz,aj)local ki,MD,px,JB;px={};JB,MD={},function(rE,DA,So)JB[DA]=Mz(So,58945)-Mz(rE,23754)return JB[DA]end;ki=JB[15895]or MD(28623,15895,53830)repeat if ki>21647 then if ki>54439 then px[1]=px[1]+px[2];px[3]=px[1]if px[1]~=px[1]then ki=21647 else ki=JB[-4038]or MD(23805,-4038,12959)end else if(px[2]>=0 and px[1]>px[4])or((px[2]<0 or px[2]~=px[2])and px[1]<px[4])then ki=JB[-1207]or MD(2574,-1207,19730)else ki=JB[-26401]or MD(35250,-26401,129146)end end elseif ki<18627 then if ki<=258 then px[5]='';ki,px[1],px[2],px[4]=11708,195,1,(#cz-1)+195 else px[3]=px[1]if px[4]~=px[4]then ki=21647 else ki=54439 end end elseif ki<=18627 then ki,px[5]=JB[13739]or MD(50377,13739,102624),px[5]..lq(hu(nv(cz,(px[3]-195)+1),nv(aj,(px[3]-195)%#aj+1)))else return px[5]end until ki==40632 end)('5\28\57\25','W}')],FG[(function(Nf,lf)local Nc,ZA,Xq,Hx;Hx={};ZA,Nc=function(li,Fw,Yv)Nc[Fw]=Mz(Yv,38391)-Mz(li,15649)return Nc[Fw]end,{};Xq=Nc[7711]or ZA(64291,7711,28620)while Xq~=14464 do if Xq<56658 then if Xq>=19463 then if Xq>19463 then if(Hx[1]>=0 and Hx[2]>Hx[3])or((Hx[1]<0 or Hx[1]~=Hx[1])and Hx[2]<Hx[3])then Xq=Nc[-3684]or ZA(29476,-3684,122357)else Xq=Nc[-25623]or ZA(41610,-25623,32325)end else Xq,Hx[4]=Nc[8313]or ZA(7024,8313,104020),Hx[4]..lq(hu(nv(Nf,(Hx[5]-148)+1),nv(lf,(Hx[5]-148)%#lf+1)))end else Hx[4]='';Hx[1],Xq,Hx[3],Hx[2]=1,63086,(#Nf-1)+148,148 end elseif Xq<=63086 then if Xq>56658 then Hx[5]=Hx[2]if Hx[3]~=Hx[3]then Xq=Nc[10096]or ZA(42777,10096,65986)else Xq=Nc[28960]or ZA(39111,28960,121191)end else Hx[2]=Hx[2]+Hx[1];Hx[5]=Hx[2]if Hx[2]~=Hx[2]then Xq=Nc[-761]or ZA(17258,-761,126399)else Xq=Nc[-9529]or ZA(52218,-9529,67698)end end else return Hx[4]end end end)('\188\222\170\132\236','\222\183')][(function(Mt,au)local iv,Sq,Ne,ec;iv={};Sq,ec=function(ra,vj,fA)ec[ra]=Mz(vj,18015)-Mz(fA,40977)return ec[ra]end,{};Ne=ec[-7456]or Sq(-7456,45818,27956)repeat if Ne<10112 then if Ne<4530 then iv[1],Ne=iv[1]..lq(hu(nv(Mt,(iv[2]-96)+1),nv(au,(iv[2]-96)%#au+1))),ec[32289]or Sq(32289,54073,8711)elseif Ne>4530 then iv[3]=iv[3]+iv[4];iv[2]=iv[3]if iv[3]~=iv[3]then Ne=ec[-12201]or Sq(-12201,35294,7646)else Ne=ec[-12701]or Sq(-12701,89629,31168)end else return iv[1]end elseif Ne>14153 then if(iv[4]>=0 and iv[3]>iv[5])or((iv[4]<0 or iv[4]~=iv[4])and iv[3]<iv[5])then Ne=ec[-9115]or Sq(-9115,8659,62923)else Ne=1227 end elseif Ne>10112 then iv[2]=iv[3]if iv[5]~=iv[5]then Ne=ec[-22782]or Sq(-22782,26547,45099)else Ne=ec[-7254]or Sq(-7254,15378,39885)end else iv[1]='';Ne,iv[4],iv[5],iv[3]=14153,1,(#Mt-1)+96,96 end until Ne==27291 end)('{vk','\25')],FG[(function(Ck,AG)local yn,gj,uE,Bf;uE={};yn,gj={},function(Aq,Rh,zb)yn[Aq]=Mz(Rh,60672)-Mz(zb,12812)return yn[Aq]end;Bf=yn[30648]or gj(30648,127017,39184)while Bf~=14856 do if Bf<29197 then if Bf>8258 then Bf,uE[1]=yn[4340]or gj(4340,840,26074),uE[1]..lq(hu(nv(Ck,(uE[2]-81)+1),nv(AG,(uE[2]-81)%#AG+1)))elseif Bf<=8066 then return uE[1]else uE[2]=uE[3]if uE[4]~=uE[4]then Bf=yn[499]or gj(499,33951,30737)else Bf=30449 end end elseif Bf<=30449 then if Bf>29197 then if(uE[5]>=0 and uE[3]>uE[4])or((uE[5]<0 or uE[5]~=uE[5])and uE[3]<uE[4])then Bf=8066 else Bf=24168 end else uE[1]='';Bf,uE[4],uE[5],uE[3]=yn[-10261]or gj(-10261,25854,23472),(#Ck-1)+81,1,81 end else uE[3]=uE[3]+uE[5];uE[2]=uE[3]if uE[3]~=uE[3]then Bf=yn[5226]or gj(5226,129374,50896)else Bf=30449 end end end end)('e\152s\194\53','\a\241')][(function(gv,Yq)local hm,fk,Mb,fF;Mb={};hm,fF={},function(sE,qa,ai)hm[qa]=Mz(sE,47746)-Mz(ai,16723)return hm[qa]end;fk=hm[5049]or fF(119729,5049,45947)repeat if fk>50517 then if fk>57009 then Mb[1]=Mb[1]+Mb[2];Mb[3]=Mb[1]if Mb[1]~=Mb[1]then fk=24162 else fk=hm[-26705]or fF(128961,-26705,12225)end else if(Mb[2]>=0 and Mb[1]>Mb[4])or((Mb[2]<0 or Mb[2]~=Mb[2])and Mb[1]<Mb[4])then fk=24162 else fk=31521 end end elseif fk<=31521 then if fk>30475 then Mb[5],fk=Mb[5]..lq(hu(nv(gv,(Mb[3]-115)+1),nv(Yq,(Mb[3]-115)%#Yq+1))),hm[26998]or fF(126643,26998,12182)elseif fk>24162 then Mb[5]='';Mb[4],fk,Mb[2],Mb[1]=(#gv-1)+115,hm[6635]or fF(67044,6635,47938),1,115 else return Mb[5]end else Mb[3]=Mb[1]if Mb[4]~=Mb[4]then fk=24162 else fk=hm[3748]or fF(21815,3748,20567)end end until fk==11378 end)('I\213\177L\192\173','%\166\217')],FG[(function(uc,LF)local Nt,pn,ag,ua;ag={};Nt,ua={},function(Xe,bo,bp)Nt[Xe]=Mz(bp,6358)-Mz(bo,29768)return Nt[Xe]end;pn=Nt[28482]or ua(28482,32189,46189)repeat if pn>44557 then if pn>44859 then if(ag[1]>=0 and ag[2]>ag[3])or((ag[1]<0 or ag[1]~=ag[1])and ag[2]<ag[3])then pn=42707 else pn=44557 end else ag[4]=ag[2]if ag[3]~=ag[3]then pn=42707 else pn=Nt[-24142]or ua(-24142,6437,97537)end end elseif pn<42707 then if pn>37762 then ag[5]='';ag[1],pn,ag[2],ag[3]=1,Nt[-28319]or ua(-28319,39646,99591),33,(#uc-1)+33 else ag[2]=ag[2]+ag[1];ag[4]=ag[2]if ag[2]~=ag[2]then pn=Nt[-491]or ua(-491,13460,65401)else pn=63594 end end elseif pn<=42707 then return ag[5]else ag[5],pn=ag[5]..lq(hu(nv(uc,(ag[4]-33)+1),nv(LF,(ag[4]-33)%#LF+1))),Nt[24934]or ua(24934,57221,75673)end until pn==44270 end)('\159\t\137S\207','\253\96')][(function(Bk,Eq)local nD,_e,Zn,Se;Zn={};Se,_e=function(Uq,Fy,Ry)_e[Ry]=Mz(Fy,63938)-Mz(Uq,44473)return _e[Ry]end,{};nD=_e[12429]or Se(11225,15871,12429)repeat if nD<=29587 then if nD<17484 then if nD>2028 then Zn[1]='';Zn[2],Zn[3],Zn[4],nD=1,199,(#Bk-1)+199,17484 else Zn[3]=Zn[3]+Zn[2];Zn[5]=Zn[3]if Zn[3]~=Zn[3]then nD=59239 else nD=_e[27402]or Se(47304,25389,27402)end end elseif nD<=17484 then Zn[5]=Zn[3]if Zn[4]~=Zn[4]then nD=59239 else nD=_e[15010]or Se(5244,116353,15010)end else Zn[1],nD=Zn[1]..lq(hu(nv(Bk,(Zn[5]-199)+1),nv(Eq,(Zn[5]-199)%#Eq+1))),_e[-10152]or Se(817,20406,-10152)end elseif nD<=34174 then if(Zn[2]>=0 and Zn[3]>Zn[4])or((Zn[2]<0 or Zn[2]~=Zn[2])and Zn[3]<Zn[4])then nD=59239 else nD=_e[-18570]or Se(45088,26862,-18570)end else return Zn[1]end until nD==14791 end)('\195p\177\216e\173','\177\3\217')],FG[(function(SE,Qs)local bH,zx,Dl,qg;zx={};Dl,bH={},function(av,sp,gg)Dl[sp]=Mz(gg,25550)-Mz(av,47173)return Dl[sp]end;qg=Dl[5958]or bH(43827,5958,12318)while qg~=51937 do if qg>40969 then if qg<=57878 then return zx[1]else qg,zx[1]=Dl[-22971]or bH(45314,-22971,19979),zx[1]..lq(hu(nv(SE,(zx[2]-173)+1),nv(Qs,(zx[2]-173)%#Qs+1)))end elseif qg>=16474 then if qg<=16474 then zx[1]='';qg,zx[3],zx[4],zx[5]=Dl[31493]or bH(23248,31493,123216),1,173,(#SE-1)+173 else zx[2]=zx[4]if zx[5]~=zx[5]then qg=57878 else qg=Dl[13093]or bH(46645,13093,8919)end end elseif qg>9342 then if(zx[3]>=0 and zx[4]>zx[5])or((zx[3]<0 or zx[3]~=zx[3])and zx[4]<zx[5])then qg=Dl[-21347]or bH(28461,-21347,121520)else qg=Dl[-14328]or bH(4921,-14328,115531)end else zx[4]=zx[4]+zx[3];zx[2]=zx[4]if zx[4]~=zx[4]then qg=57878 else qg=12969 end end end end)('\236si\246i|','\159\a\27')][(function(IC,gx)local mh,FE,Tk,rG;Tk={};mh,FE={},function(WC,rn,Et)mh[rn]=Mz(Et,43526)-Mz(WC,2816)return mh[rn]end;rG=mh[17498]or FE(17739,17498,102140)while rG~=6014 do if rG>46406 then if rG<=54959 then Tk[1]='';rG,Tk[2],Tk[3],Tk[4]=mh[-27827]or FE(6093,-27827,37216),1,(#IC-1)+235,235 else if(Tk[2]>=0 and Tk[4]>Tk[3])or((Tk[2]<0 or Tk[2]~=Tk[2])and Tk[4]<Tk[3])then rG=mh[-26967]or FE(21967,-26967,27897)else rG=mh[-20400]or FE(13963,-20400,22743)end end elseif rG<26672 then if rG<=7833 then Tk[5]=Tk[4]if Tk[3]~=Tk[3]then rG=26672 else rG=mh[-850]or FE(38556,-850,80666)end else Tk[4]=Tk[4]+Tk[2];Tk[5]=Tk[4]if Tk[4]~=Tk[4]then rG=26672 else rG=mh[17918]or FE(54162,17918,91668)end end elseif rG<=26672 then return Tk[1]else Tk[1],rG=Tk[1]..lq(hu(nv(IC,(Tk[5]-235)+1),nv(gx,(Tk[5]-235)%#gx+1))),mh[23399]or FE(22349,23399,8643)end end end)('hny','\27')],FG[(function(cy,jl)local qc,Eh,qr,jy;jy={};Eh,qc={},function(Nk,KG,FC)Eh[Nk]=Mz(FC,18683)-Mz(KG,59741)return Eh[Nk]end;qr=Eh[10380]or qc(10380,30352,67602)while qr~=61806 do if qr>38587 then if qr>41244 then if(jy[1]>=0 and jy[2]>jy[3])or((jy[1]<0 or jy[1]~=jy[1])and jy[2]<jy[3])then qr=38587 else qr=Eh[31326]or qc(31326,29267,92836)end else jy[4]='';qr,jy[2],jy[3],jy[1]=33094,49,(#cy-1)+49,1 end elseif qr<34641 then if qr>25010 then jy[5]=jy[2]if jy[3]~=jy[3]then qr=Eh[-28878]or qc(-28878,32802,84161)else qr=Eh[-9527]or qc(-9527,7578,128230)end else jy[2]=jy[2]+jy[1];jy[5]=jy[2]if jy[2]~=jy[2]then qr=38587 else qr=51030 end end elseif qr<=34641 then jy[4],qr=jy[4]..lq(hu(nv(cy,(jy[5]-49)+1),nv(jl,(jy[5]-49)%#jl+1))),Eh[-20174]or qc(-20174,36410,33250)else return jy[4]end end end)('k<fq&s','\24H\20')][(function(Aj,zh)local QA,il,sc,Wu;il={};Wu,QA={},function(ju,Uo,D)Wu[ju]=Mz(D,60585)-Mz(Uo,56447)return Wu[ju]end;sc=Wu[32337]or QA(32337,31808,2340)repeat if sc<=49649 then if sc<=41269 then if sc<=17742 then if sc>3891 then il[1]='';sc,il[2],il[3],il[4]=64997,1,108,(#Aj-1)+108 else il[3]=il[3]+il[2];il[5]=il[3]if il[3]~=il[3]then sc=49649 else sc=Wu[2083]or QA(2083,40585,122162)end end else il[1],sc=il[1]..lq(hu(nv(Aj,(il[5]-108)+1),nv(zh,(il[5]-108)%#zh+1))),Wu[8740]or QA(8740,44459,28078)end else return il[1]end elseif sc<=61093 then if(il[2]>=0 and il[3]>il[4])or((il[2]<0 or il[2]~=il[2])and il[3]<il[4])then sc=49649 else sc=41269 end else il[5]=il[3]if il[4]~=il[4]then sc=49649 else sc=Wu[1757]or QA(1757,41110,100135)end end until sc==64103 end)('^\227M\233','.\130')],FG[(function(cj,Kq)local Ii,Mr,RA,Tg;Ii={};Mr,RA=function(H,NG,DC)RA[DC]=Mz(H,60070)-Mz(NG,19929)return RA[DC]end,{};Tg=RA[25898]or Mr(13516,17360,25898)repeat if Tg<=42292 then if Tg<=39217 then if Tg>=29753 then if Tg>29753 then return Ii[1]else if(Ii[2]>=0 and Ii[3]>Ii[4])or((Ii[2]<0 or Ii[2]~=Ii[2])and Ii[3]<Ii[4])then Tg=RA[-19710]or Mr(101446,32886,-19710)else Tg=42292 end end else Ii[5]=Ii[3]if Ii[4]~=Ii[4]then Tg=39217 else Tg=RA[24354]or Mr(8847,7721,24354)end end else Tg,Ii[1]=RA[-26646]or Mr(83416,40810,-26646),Ii[1]..lq(hu(nv(cj,(Ii[5]-219)+1),nv(Kq,(Ii[5]-219)%#Kq+1)))end elseif Tg<=53345 then Ii[1]='';Ii[2],Ii[4],Tg,Ii[3]=1,(#cj-1)+219,RA[-31497]or Mr(102304,45914,-31497),219 else Ii[3]=Ii[3]+Ii[2];Ii[5]=Ii[3]if Ii[3]~=Ii[3]then Tg=39217 else Tg=29753 end end until Tg==3937 end)('k\253\183q\231\162','\24\137\197')][(function(Aa,cv)local Qr,sA,Hr,tm;tm={};Hr,sA=function(PF,gb,Or)sA[PF]=Mz(Or,17950)-Mz(gb,5315)return sA[PF]end,{};Qr=sA[22627]or Hr(22627,51156,80995)repeat if Qr>=42854 then if Qr>58072 then tm[1]=tm[2]if tm[3]~=tm[3]then Qr=58072 else Qr=34935 end elseif Qr<=42854 then tm[4]='';tm[5],tm[3],tm[2],Qr=1,(#Aa-1)+91,91,sA[8649]or Hr(8649,62816,104394)else return tm[4]end elseif Qr<34935 then tm[4],Qr=tm[4]..lq(hu(nv(Aa,(tm[1]-91)+1),nv(cv,(tm[1]-91)%#cv+1))),sA[23402]or Hr(23402,33554,97230)elseif Qr>34935 then tm[2]=tm[2]+tm[5];tm[1]=tm[2]if tm[2]~=tm[2]then Qr=58072 else Qr=34935 end else if(tm[5]>=0 and tm[2]>tm[3])or((tm[5]<0 or tm[5]~=tm[5])and tm[2]<tm[3])then Qr=sA[-31123]or Hr(-31123,39708,79017)else Qr=sA[-4819]or Hr(-4819,24919,53737)end end until Qr==25330 end)('\220\252d\200\241\127','\169\146\20')],FG[(function(WF,HA)local aA,ti,hi,jx;jx={};ti,hi=function(rA,Yt,Cz)hi[rA]=Mz(Yt,61328)-Mz(Cz,29477)return hi[rA]end,{};aA=hi[21788]or ti(21788,128842,63643)repeat if aA>=36124 then if aA<=50798 then if aA>36124 then jx[1],aA=jx[1]..lq(hu(nv(WF,(jx[2]-208)+1),nv(HA,(jx[2]-208)%#HA+1))),hi[-8156]or ti(-8156,74835,41467)else jx[1]='';jx[3],jx[4],jx[5],aA=(#WF-1)+208,1,208,1548 end else jx[5]=jx[5]+jx[4];jx[2]=jx[5]if jx[5]~=jx[5]then aA=27271 else aA=35879 end end elseif aA>=27271 then if aA<=27271 then return jx[1]else if(jx[4]>=0 and jx[5]>jx[3])or((jx[4]<0 or jx[4]~=jx[4])and jx[5]<jx[3])then aA=hi[-26454]or ti(-26454,29983,17197)else aA=50798 end end else jx[2]=jx[5]if jx[3]~=jx[3]then aA=27271 else aA=hi[29983]or ti(29983,30518,32602)end end until aA==2211 end)('\189\240U\167\234@',"\206\132\'")][(function(Xx,RE)local Iu,BA,K,tb;BA={};Iu,tb=function(Mw,_q,En)tb[En]=Mz(Mw,42261)-Mz(_q,54849)return tb[En]end,{};K=tb[-27258]or Iu(98698,46001,-27258)repeat if K>48815 then if K>61862 then BA[1]=BA[1]+BA[2];BA[3]=BA[1]if BA[1]~=BA[1]then K=8599 else K=tb[23240]or Iu(104556,745,23240)end else BA[4],K=BA[4]..lq(hu(nv(Xx,(BA[3]-222)+1),nv(RE,(BA[3]-222)%#RE+1))),tb[13444]or Iu(108167,56351,13444)end elseif K<=39467 then if K<=26833 then if K<=8599 then return BA[4]else if(BA[2]>=0 and BA[1]>BA[5])or((BA[2]<0 or BA[2]~=BA[2])and BA[1]<BA[5])then K=8599 else K=tb[-13129]or Iu(71789,7571,-13129)end end else BA[3]=BA[1]if BA[5]~=BA[5]then K=tb[21371]or Iu(108602,15833,21371)else K=26833 end end else BA[4]='';BA[1],BA[5],K,BA[2]=222,(#Xx-1)+222,39467,1 end until K==41199 end)('\179\164\177','\193')],FG[(function(kb,Cp)local di,ns,wb,qb;wb={};di,qb=function(jH,rl,Fq)qb[rl]=Mz(jH,9202)-Mz(Fq,49877)return qb[rl]end,{};ns=qb[29794]or di(36133,29794,34650)while ns~=47684 do if ns>26952 then if ns<=30367 then if(wb[1]>=0 and wb[2]>wb[3])or((wb[1]<0 or wb[1]~=wb[1])and wb[2]<wb[3])then ns=qb[264]or di(50534,264,20840)else ns=qb[-31409]or di(21529,-31409,62448)end else wb[4]=wb[2]if wb[3]~=wb[3]then ns=21207 else ns=qb[1698]or di(43100,1698,55258)end end elseif ns>=21207 then if ns<=21207 then return wb[5]else wb[5]='';wb[1],ns,wb[3],wb[2]=1,50433,(#kb-1)+176,176 end elseif ns<=17349 then wb[2]=wb[2]+wb[1];wb[4]=wb[2]if wb[2]~=wb[2]then ns=qb[26939]or di(41745,26939,60633)else ns=qb[10112]or di(60103,10112,36931)end else ns,wb[5]=qb[-24221]or di(56987,-24221,31601),wb[5]..lq(hu(nv(kb,(wb[4]-176)+1),nv(Cp,(wb[4]-176)%#Cp+1)))end end end)('\201\147\223\158\216','\189\242')][(function(Vu,oc)local sC,dE,Kz,v;dE={};v,sC=function(Lk,Ro,Oo)sC[Lk]=Mz(Ro,49275)-Mz(Oo,45341)return sC[Lk]end,{};Kz=sC[-4358]or v(-4358,4395,63910)while Kz~=53137 do if Kz>34965 then if Kz<=42237 then if(dE[1]>=0 and dE[2]>dE[3])or((dE[1]<0 or dE[1]~=dE[1])and dE[2]<dE[3])then Kz=sC[6379]or v(6379,101194,27283)else Kz=sC[16935]or v(16935,106696,5233)end else dE[4],Kz=dE[4]..lq(hu(nv(Vu,(dE[5]-39)+1),nv(oc,(dE[5]-39)%#oc+1))),sC[-3213]or v(-3213,14913,1532)end elseif Kz<28579 then if Kz<=17753 then dE[2]=dE[2]+dE[1];dE[5]=dE[2]if dE[2]~=dE[2]then Kz=sC[-3396]or v(-3396,103869,22334)else Kz=sC[-18904]or v(-18904,13468,65271)end else dE[5]=dE[2]if dE[3]~=dE[3]then Kz=sC[13560]or v(13560,127361,29514)else Kz=sC[-7912]or v(-7912,119006,55989)end end elseif Kz>28579 then dE[4]='';dE[1],dE[2],dE[3],Kz=1,39,(#Vu-1)+39,19493 else return dE[4]end end end)('Y\"J(',')C')],FG[(function(Cr,TE)local V,Va,Im,qp;qp={};Im,Va={},function(ob,Ij,KB)Im[ob]=Mz(KB,35828)-Mz(Ij,15206)return Im[ob]end;V=Im[10001]or Va(10001,20404,18563)repeat if V>=35822 then if V>=38427 then if V<=38427 then qp[1]=qp[2]if qp[3]~=qp[3]then V=16072 else V=Im[12508]or Va(12508,34604,22136)end else qp[2]=qp[2]+qp[4];qp[1]=qp[2]if qp[2]~=qp[2]then V=Im[-27042]or Va(-27042,204,61830)else V=Im[7712]or Va(7712,41656,12500)end end else qp[5],V=qp[5]..lq(hu(nv(Cr,(qp[1]-138)+1),nv(TE,(qp[1]-138)%#TE+1))),Im[22408]or Va(22408,3331,99557)end elseif V>16072 then qp[5]='';qp[3],V,qp[4],qp[2]=(#Cr-1)+138,38427,1,138 elseif V<=8514 then if(qp[4]>=0 and qp[2]>qp[3])or((qp[4]<0 or qp[4]~=qp[4])and qp[2]<qp[3])then V=16072 else V=Im[21158]or Va(21158,51247,128195)end else return qp[5]end until V==54922 end)('\245^\227S\228','\129?')][(function(Gn,Ql)local Pm,gF,fa_,eF;Pm={};eF,gF={},function(de,_r,JF)eF[de]=Mz(JF,450)-Mz(_r,48114)return eF[de]end;fa_=eF[8169]or gF(8169,14754,84991)while fa_~=63751 do if fa_<=51181 then if fa_<=41131 then if fa_>24927 then if(Pm[1]>=0 and Pm[2]>Pm[3])or((Pm[1]<0 or Pm[1]~=Pm[1])and Pm[2]<Pm[3])then fa_=63784 else fa_=24927 end elseif fa_<=11013 then Pm[2]=Pm[2]+Pm[1];Pm[4]=Pm[2]if Pm[2]~=Pm[2]then fa_=63784 else fa_=eF[-24245]or gF(-24245,30200,94071)end else fa_,Pm[5]=eF[12697]or gF(12697,28227,65908),Pm[5]..lq(hu(nv(Gn,(Pm[4]-69)+1),nv(Ql,(Pm[4]-69)%#Ql+1)))end else Pm[5]='';Pm[1],fa_,Pm[2],Pm[3]=1,51482,69,(#Gn-1)+69 end elseif fa_>51482 then return Pm[5]else Pm[4]=Pm[2]if Pm[3]~=Pm[3]then fa_=63784 else fa_=41131 end end end end)('\241i\167\229d\188','\132\a\215')],FG[(function(Yo,iD)local mz,in_,Ww,q;in_={};mz,q={},function(Up,_g,Bh)mz[Bh]=Mz(Up,48495)-Mz(_g,44321)return mz[Bh]end;Ww=mz[25938]or q(25319,40202,25938)while Ww~=59554 do if Ww<50439 then if Ww<=44893 then if Ww>40073 then in_[1]='';in_[2],in_[3],Ww,in_[4]=(#Yo-1)+254,254,64020,1 else Ww,in_[1]=mz[-19031]or q(20142,44195,-19031),in_[1]..lq(hu(nv(Yo,(in_[5]-254)+1),nv(iD,(in_[5]-254)%#iD+1)))end else if(in_[4]>=0 and in_[3]>in_[2])or((in_[4]<0 or in_[4]~=in_[4])and in_[3]<in_[2])then Ww=mz[-47]or q(108942,58107,-47)else Ww=mz[-25730]or q(18599,62494,-25730)end end elseif Ww<62015 then return in_[1]elseif Ww<=62015 then in_[3]=in_[3]+in_[4];in_[5]=in_[3]if in_[3]~=in_[3]then Ww=mz[-28132]or q(122488,13105,-28132)else Ww=mz[-10237]or q(102860,55582,-10237)end else in_[5]=in_[3]if in_[2]~=in_[2]then Ww=mz[-6382]or q(117673,7326,-6382)else Ww=mz[4708]or q(114108,58702,4708)end end end end)("1\29\'\16 ",'E|')][(function(fH,ux)local bh,Bw,gD,h;bh={};Bw,h={},function(Yx,wl,rj)Bw[Yx]=Mz(wl,31869)-Mz(rj,24313)return Bw[Yx]end;gD=Bw[8400]or h(8400,80800,59809)while gD~=24929 do if gD<=24238 then if gD>=15400 then if gD>15400 then return bh[1]else bh[2]=bh[3]if bh[4]~=bh[4]then gD=24238 else gD=Bw[-22380]or h(-22380,42432,10439)end end elseif gD>1386 then bh[1],gD=bh[1]..lq(hu(nv(fH,(bh[2]-186)+1),nv(ux,(bh[2]-186)%#ux+1))),Bw[17284]or h(17284,1876,11078)else bh[3]=bh[3]+bh[5];bh[2]=bh[3]if bh[3]~=bh[3]then gD=24238 else gD=25471 end end elseif gD>25471 then bh[1]='';bh[5],bh[4],bh[3],gD=1,(#fH-1)+186,186,15400 else if(bh[5]>=0 and bh[3]>bh[4])or((bh[5]<0 or bh[5]~=bh[5])and bh[3]<bh[4])then gD=24238 else gD=13688 end end end end)('G\177\4K\173\3','.\223w')]local function We(mj,LG,kr,n_,Lq)local MC,s_,zB,vg=mj[LG],mj[kr],mj[n_],mj[Lq]local zf;MC=qu(MC+s_,4294954877+12418);zf=Uz(vg,MC);vg=qu(Lm(Hy(zf,10059-10043),Rl(zf,-373296/-23331)),-70068096450630/-16314);zB=qu(zB+vg,4294974800+-7505);zf=Uz(s_,zB);s_=qu(Lm(Hy(zf,13608/1134),Rl(zf,-28474- -28494)),241046.54254125041*17818);MC=qu(MC+s_,-242489.12008807587*-17712);zf=Uz(vg,MC);vg=qu(Lm(Hy(zf,2108-2100),Rl(zf,-0.020066889632107024*-1196)),-239233.96061939507*-17953);zB=qu(zB+vg,-546572.57508271828*-7858);zf=Uz(s_,zB);s_=qu(Lm(Hy(zf,21780-21773),Rl(zf,-0.0007739458857036716*-32302)),4294934538- -32757);mj[LG],mj[kr],mj[n_],mj[Lq]=MC,s_,zB,vg return mj end local xa,qD={0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0},{0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}local yD=function(pi,Uy,ab)xa[-3379+3380],xa[-10418- -10420],xa[-24525- -24528],xa[29055+-29051]=14104380744450/3690,4185669819- -14303,1018573937-22766,1053674956+-12907 for xf=9911+-9854,(-1936+1944)+-0.0033853222101317857*-16542 do xa[(xf-1831872/32712)+(19540+-19536)]=pi[(xf-(-793+849))]end xa[231309/17793]=Uy for O=3726-3715,(-51765/-17255)+(441-431)do xa[(O-0.00092199889360132764*10846)+33241/2557]=ab[(O-(11184-11174))]end for kG=12213+-12133,(0.00065517382580565909*24421)+-0.004115440716816003*-19196 do qD[(kG- -0.0033218400470944411*-23782)]=xa[(kG- -0.0081359423274974252*-9710)]end for Mq=15529-15303,(314750/31475)+(10830+-10605)do We(qD,-16980/-16980,-0.00028968713789107763*-17260,-9745+9754,351468/27036);We(qD,-27564+27566,-0.0016731734523145567*-3586,119240/11924,-25470+25484);We(qD,0.00018463810930576072*16248,-1563+1570,308814/28074,-0.0008271298593879239*-18135);We(qD,16201-16197,-207048/-25881,-103032/-8586,20835+-20819);We(qD,-23539/-23539,-159900/-26650,94160/8560,6608+-6592);We(qD,25464+-25462,-18041+18048,-16065- -16077,9210-9197);We(qD,-18824+18827,-31140- -31148,7828+-7819,-444514/-31751);We(qD,-20687- -20691,-17934+17939,-268510/-26851,-0.0014234200037957867*-10538)end for sf=0.96703296703296704*91,(-503744/-31484)+(-308+395)do xa[(sf-(-29986- -30073))]=qu(xa[(sf-0.0064616755793226385*13464)]+qD[(sf- -1188681/-13663)],58351425669870/13586)end return xa end local function eD(lc,GD,Tn,G,WA)local wD=#G-WA+0.00031240237425804435*3201 if wD<-310208/-4847 then local jb=BF(G,WA);G=jb..rd((function(rb,ar)local ZD,Id,mt,Cf;ZD={};Cf,Id={},function(ev,mx,Vp)Cf[ev]=Mz(Vp,32575)-Mz(mx,31322)return Cf[ev]end;mt=Cf[-6123]or Id(-6123,4075,50143)repeat if mt<25491 then if mt>=3126 then if mt<=3126 then ZD[1]=ZD[2]if ZD[3]~=ZD[3]then mt=490 else mt=46533 end else ZD[4]='';ZD[5],mt,ZD[2],ZD[3]=1,Cf[-26443]or Id(-26443,6883,5072),252,(#rb-1)+252 end else return ZD[4]end elseif mt>46533 then mt,ZD[4]=Cf[13399]or Id(13399,25805,64789),ZD[4]..lq(hu(nv(rb,(ZD[1]-252)+1),nv(ar,(ZD[1]-252)%#ar+1)))elseif mt<=25491 then ZD[2]=ZD[2]+ZD[5];ZD[1]=ZD[2]if ZD[2]~=ZD[2]then mt=Cf[-1958]or Id(-1958,29784,28883)else mt=46533 end else if(ZD[5]>=0 and ZD[2]>ZD[3])or((ZD[5]<0 or ZD[5]~=ZD[5])and ZD[2]<ZD[3])then mt=490 else mt=63725 end end until mt==15010 end)('\218','\218'),(18140+-18076)-wD);WA=-6124+6125 end FG[(function(_H,vc)local Yb,NE,ik,pf;ik={};NE,pf={},function(nu,ww,ml)NE[nu]=Mz(ww,57923)-Mz(ml,42292)return NE[nu]end;Yb=NE[6850]or pf(6850,112550,50313)while Yb~=20353 do if Yb>62504 then if Yb<=63923 then Yb,ik[1]=NE[-9040]or pf(-9040,129533,50869),ik[1]..lq(hu(nv(_H,(ik[2]-153)+1),nv(vc,(ik[2]-153)%#vc+1)))else if(ik[3]>=0 and ik[4]>ik[5])or((ik[3]<0 or ik[3]~=ik[3])and ik[4]<ik[5])then Yb=22743 else Yb=63923 end end elseif Yb>47165 then ik[1]='';ik[5],ik[3],Yb,ik[4]=(#_H-1)+153,1,41676,153 elseif Yb>41676 then ik[4]=ik[4]+ik[3];ik[2]=ik[4]if ik[4]~=ik[4]then Yb=22743 else Yb=NE[-8527]or pf(-8527,67699,21762)end elseif Yb<=22743 then return ik[1]else ik[2]=ik[4]if ik[5]~=ik[5]then Yb=NE[-32114]or pf(-32114,37797,48187)else Yb=NE[-11238]or pf(-11238,98542,52615)end end end end)('\29\134M\25\135J','|\245>')](#G>=-837312/-13083)local Tc,Km=Qt(mc((function(Su,el_)local Zb,JE,fp,Vc;Zb={};Vc,fp=function(ss,Dv,M)fp[ss]=Mz(M,32499)-Mz(Dv,23788)return fp[ss]end,{};JE=fp[-22457]or Vc(-22457,25575,95259)repeat if JE>=18701 then if JE<52189 then return Zb[1]elseif JE>52189 then Zb[2]=Zb[2]+Zb[3];Zb[4]=Zb[2]if Zb[2]~=Zb[2]then JE=fp[31729]or Vc(31729,2462,57484)else JE=10046 end else Zb[1]='';JE,Zb[2],Zb[3],Zb[5]=17569,9,1,(#Su-1)+9 end elseif JE>=10046 then if JE>10046 then Zb[4]=Zb[2]if Zb[5]~=Zb[5]then JE=18701 else JE=10046 end else if(Zb[3]>=0 and Zb[2]>Zb[5])or((Zb[3]<0 or Zb[3]~=Zb[3])and Zb[2]<Zb[5])then JE=18701 else JE=7612 end end else Zb[1],JE=Zb[1]..lq(hu(nv(Su,(Zb[4]-9)+1),nv(el_,(Zb[4]-9)%#el_+1))),fp[-23140]or Vc(-23140,29468,97805)end until JE==41227 end)('%\205\3XW\184yD>D\237s\159@\182\206-\205\3XW\184yD>D\237s\159@\182\206-','\25\132\55\17c\241M\r\n\r\217:\171\t\130\135'),G,WA)),yD(lc,GD,Tn)for Ot=2151486/24174,(0.0006420545746388443*24920)+(4200-4112)do Tc[(Ot-(-25586- -25674))]=Uz(Tc[(Ot-(-25712- -25800))],Km[(Ot-(27420-27332))])end local Ns=_A((function(Lh,Xi)local BB,bg,rg,Jl;rg={};bg,BB=function(OB,If,Dy)BB[If]=Mz(Dy,61338)-Mz(OB,21641)return BB[If]end,{};Jl=BB[4424]or bg(16382,4424,11837)while Jl~=55768 do if Jl<22064 then if Jl>4160 then return rg[1]elseif Jl>1192 then rg[2]=rg[3]if rg[4]~=rg[4]then Jl=BB[-27598]or bg(10306,-27598,24619)else Jl=44020 end else Jl,rg[1]=BB[15610]or bg(19449,15610,27358),rg[1]..lq(hu(nv(Lh,(rg[2]-197)+1),nv(Xi,(rg[2]-197)%#Xi+1)))end elseif Jl>=26068 then if Jl>26068 then if(rg[5]>=0 and rg[3]>rg[4])or((rg[5]<0 or rg[5]~=rg[5])and rg[3]<rg[4])then Jl=BB[-11889]or bg(49729,-11889,17972)else Jl=BB[-12048]or bg(38788,-12048,10287)end else rg[3]=rg[3]+rg[5];rg[2]=rg[3]if rg[3]~=rg[3]then Jl=BB[-29785]or bg(18940,-29785,57281)else Jl=BB[-14180]or bg(60032,-14180,99943)end end else rg[1]='';rg[3],rg[5],rg[4],Jl=197,1,(#Lh-1)+197,4160 end end end)('\22^V\134\128\148\131<\23\\\18\3\161h\170\128\30^V\134\128\148\131<\23\\\18\3\161h\170\128\30','*\23b\207\180\221\183u#\21&J\149!\158\201'),um(Tc))if wD<0.0037991214531639559*16846 then Ns=BF(Ns,-4457+4458,wD)end return Ns end local function lo_(QF)local Kf=''for ni_=4269-4239,(#QF)+490303/16907 do Kf=Kf..QF[(ni_-(11588-11559))]end return Kf end local function vA(_G,bm,gr,Z)local Di,Yh,dC,vn=Qt(mc((function(is,_a)local kt,bC,Mk,Ie;bC={};Mk,kt=function(gi,oj,Hz)kt[Hz]=Mz(gi,36075)-Mz(oj,60801)return kt[Hz]end,{};Ie=kt[-16569]or Mk(125374,14931,-16569)while Ie~=22716 do if Ie>36227 then if Ie<=44984 then bC[1]=bC[1]+bC[2];bC[3]=bC[1]if bC[1]~=bC[1]then Ie=24867 else Ie=kt[6265]or Mk(112203,14850,6265)end else Ie,bC[4]=kt[-407]or Mk(71249,1667,-407),bC[4]..lq(hu(nv(is,(bC[3]-17)+1),nv(_a,(bC[3]-17)%#_a+1)))end elseif Ie>=25373 then if Ie>25373 then bC[4]='';bC[5],Ie,bC[1],bC[2]=(#is-1)+17,24196,17,1 else if(bC[2]>=0 and bC[1]>bC[5])or((bC[2]<0 or bC[2]~=bC[2])and bC[1]<bC[5])then Ie=24867 else Ie=kt[7109]or Mk(109957,42719,7109)end end elseif Ie<=24196 then bC[3]=bC[1]if bC[5]~=bC[5]then Ie=kt[20408]or Mk(6324,57021,20408)else Ie=kt[-17918]or Mk(20664,38071,-17918)end else return bC[4]end end end)('\186&\136\149\221\162-\133\178&\136\149\221\162-\133\178','\134o\188\220\233\235\25\204'),_G)),Qt(mc((function(jf,or_)local Ew,Ch,gB,Ra;gB={};Ra,Ew={},function(Zx,vw,Te)Ra[Zx]=Mz(vw,8517)-Mz(Te,61266)return Ra[Zx]end;Ch=Ra[10537]or Ew(10537,78817,50448)repeat if Ch<=38872 then if Ch>=38398 then if Ch>38398 then if(gB[1]>=0 and gB[2]>gB[3])or((gB[1]<0 or gB[1]~=gB[1])and gB[2]<gB[3])then Ch=38398 else Ch=6414 end else return gB[4]end elseif Ch>6414 then gB[5]=gB[2]if gB[3]~=gB[3]then Ch=38398 else Ch=38872 end else gB[4],Ch=gB[4]..lq(hu(nv(jf,(gB[5]-122)+1),nv(or_,(gB[5]-122)%#or_+1))),Ra[28280]or Ew(28280,51692,61493)end elseif Ch>51522 then gB[4]='';gB[1],Ch,gB[2],gB[3]=1,12139,122,(#jf-1)+122 else gB[2]=gB[2]+gB[1];gB[5]=gB[2]if gB[2]~=gB[2]then Ch=38398 else Ch=Ra[-15324]or Ew(-15324,83350,9129)end end until Ch==62270 end)('\6\241\236s\140\145\14',':\184\216'),gr)),{},-4.3320048518454342e-05*-23084 while vn<=#Z do oa(dC,eD(Di,bm,Yh,Z,vn));vn=vn+1337152/20893;bm=bm+7949/7949 end return lo_(dC)end return function(Uu,tp,lt)return vA(lt,0,tp,Uu)end end)())else zC[3],so=zC[3][zC[1]],bu[-18244]or Ex(48901,10304,-18244)end elseif so>=-2.0429802331474911*-19730 then if so>10794+29514 then so,zC[4]=-2.9078032449137265*-15532,'i\22ys\fl'else zC[8],so='\6c\169\28y\188',27166+32120 end elseif so<=11302+27708 then so,zC[6]=0.83408523963696191*18841,FG[zC[6]]else so,zC[7]=36196+-2874,(function(Dp,KF)local DF,Yw,dH,Rx;dH={};Yw,Rx=function(Md,_c,cf)Rx[Md]=Mz(_c,32860)-Mz(cf,42417)return Rx[Md]end,{};DF=Rx[-14622]or Yw(-14622,55637,46286)repeat if DF>=35492 then if DF<54540 then dH[1]=dH[2]if dH[3]~=dH[3]then DF=Rx[-20755]or Yw(-20755,27116,6447)else DF=Rx[26383]or Yw(26383,107152,33491)end elseif DF<=54540 then DF,dH[4]=Rx[28278]or Yw(28278,18222,2441),dH[4]..lq(hu(nv(Dp,(dH[1]-173)+1),nv(KF,(dH[1]-173)%#KF+1)))else if(dH[5]>=0 and dH[2]>dH[3])or((dH[5]<0 or dH[5]~=dH[5])and dH[2]<dH[3])then DF=11538 else DF=54540 end end elseif DF<11538 then dH[2]=dH[2]+dH[5];dH[1]=dH[2]if dH[2]~=dH[2]then DF=Rx[31472]or Yw(31472,50984,49107)else DF=64362 end elseif DF>11538 then dH[4]='';dH[3],dH[5],DF,dH[2]=(#Dp-1)+173,1,Rx[20604]or Yw(20604,24616,61537),173 else return dH[4]end until DF==38713 end)(zC[7],zC[8])end until so==62341+-1624 local C,_C,hz,rh,Gb,zE,Nu,rp,kj,uq,WE,oG,qk,mE,Bs,dG,Pf,zd,hh,xg,nj,Hs,Iq,Ko,_D,Ov,Ek,kn,BG,Ig=FG[(function(Kr,Re)local Wm,Wv,Gx,wv;Gx={};wv,Wm=function(Bn,Os,jd)Wm[Os]=Mz(jd,29657)-Mz(Bn,5852)return Wm[Os]end,{};Wv=Wm[-22144]or wv(4718,-22144,2118)while Wv~=16612 do if Wv<50103 then if Wv>23509 then Gx[1]='';Gx[2],Gx[3],Wv,Gx[4]=1,122,64762,(#Kr-1)+122 elseif Wv<=19211 then Gx[1],Wv=Gx[1]..lq(hu(nv(Kr,(Gx[5]-122)+1),nv(Re,(Gx[5]-122)%#Re+1))),Wm[5180]or wv(40516,5180,38836)else Gx[3]=Gx[3]+Gx[2];Gx[5]=Gx[3]if Gx[3]~=Gx[3]then Wv=50103 else Wv=Wm[22747]or wv(29249,22747,75186)end end elseif Wv<=61902 then if Wv<=50103 then return Gx[1]else if(Gx[2]>=0 and Gx[3]>Gx[4])or((Gx[2]<0 or Gx[2]~=Gx[2])and Gx[3]<Gx[4])then Wv=Wm[2438]or wv(62997,2438,120665)else Wv=Wm[32024]or wv(9892,32024,2138)end end else Gx[5]=Gx[3]if Gx[4]~=Gx[4]then Wv=50103 else Wv=Wm[1759]or wv(28328,1759,72091)end end end end)('V\"R>','\"[')],FG[(function(yB,ia)local U,FA,pz,Fd;FA={};Fd,U={},function(cE,Fu,up)Fd[up]=Mz(cE,23268)-Mz(Fu,39126)return Fd[up]end;pz=Fd[4084]or U(34783,1090,4084)repeat if pz<41955 then if pz<16551 then return FA[1]elseif pz>16551 then FA[1],pz=FA[1]..lq(hu(nv(yB,(FA[2]-192)+1),nv(ia,(FA[2]-192)%#ia+1))),Fd[-11331]or U(83654,57577,-11331)else FA[1]='';FA[3],FA[4],pz,FA[5]=(#yB-1)+192,1,44224,192 end elseif pz>44224 then if(FA[4]>=0 and FA[5]>FA[3])or((FA[4]<0 or FA[4]~=FA[4])and FA[5]<FA[3])then pz=11971 else pz=Fd[-28388]or U(118708,26060,-28388)end elseif pz>41955 then FA[2]=FA[5]if FA[3]~=FA[3]then pz=11971 else pz=64319 end else FA[5]=FA[5]+FA[4];FA[2]=FA[5]if FA[5]~=FA[5]then pz=11971 else pz=64319 end end until pz==26159 end)('\31\143\14\128\3','o\236')],FG[(function(VG,ie)local Ed,qq,aw,yh;aw={};yh,qq=function(Lp,_t,Zp)qq[_t]=Mz(Lp,35012)-Mz(Zp,51798)return qq[_t]end,{};Ed=qq[-26484]or yh(114732,-26484,43590)repeat if Ed>=52781 then if Ed<58939 then aw[1]=aw[1]+aw[2];aw[3]=aw[1]if aw[1]~=aw[1]then Ed=qq[-32707]or yh(1603,-32707,60631)else Ed=qq[-16061]or yh(57783,-16061,61986)end elseif Ed<=58939 then Ed,aw[4]=qq[-14465]or yh(130360,-14465,28057),aw[4]..lq(hu(nv(VG,(aw[3]-240)+1),nv(ie,(aw[3]-240)%#ie+1)))else aw[4]='';aw[5],aw[1],aw[2],Ed=(#VG-1)+240,240,1,32204 end elseif Ed>=26630 then if Ed>26630 then aw[3]=aw[1]if aw[5]~=aw[5]then Ed=26630 else Ed=qq[-23043]or yh(26127,-23043,30618)end else return aw[4]end else if(aw[2]>=0 and aw[1]>aw[5])or((aw[2]<0 or aw[2]~=aw[2])and aw[1]<aw[5])then Ed=qq[1398]or yh(61525,1398,56029)else Ed=58939 end end until Ed==30556 end)('[\185L\164L','>\203')],FG[(function(zA,aG)local Ey,E,xF,Ri;E={};Ey,Ri=function(Qe,FF,Yd)Ri[Yd]=Mz(FF,28476)-Mz(Qe,15453)return Ri[Yd]end,{};xF=Ri[-23218]or Ey(58480,97670,-23218)repeat if xF>=42328 then if xF<57086 then E[1]=E[1]+E[2];E[3]=E[1]if E[1]~=E[1]then xF=62369 else xF=19818 end elseif xF>57086 then return E[4]else E[4],xF=E[4]..lq(hu(nv(zA,(E[3]-55)+1),nv(aG,(E[3]-55)%#aG+1))),Ri[18379]or Ey(22180,98157,18379)end elseif xF<19818 then E[4]='';xF,E[1],E[2],E[5]=26390,55,1,(#zA-1)+55 elseif xF>19818 then E[3]=E[1]if E[5]~=E[5]then xF=Ri[16606]or Ey(26038,74416,16606)else xF=Ri[-2234]or Ey(13444,14719,-2234)end else if(E[2]>=0 and E[1]>E[5])or((E[2]<0 or E[2]~=E[2])and E[1]<E[5])then xF=Ri[-27224]or Ey(33701,122021,-27224)else xF=57086 end end until xF==64143 end)('\vI\169m\18D\162j','\127&\199\24')],FG[(function(Nv,qy)local Zd,uw,eC,sg;eC={};Zd,sg=function(ft,hx,Qx)sg[ft]=Mz(Qx,24704)-Mz(hx,50860)return sg[ft]end,{};uw=sg[-4741]or Zd(-4741,34407,40106)while uw~=31250 do if uw>=47967 then if uw<=57065 then if uw>47967 then eC[1],uw=eC[1]..lq(hu(nv(Nv,(eC[2]-203)+1),nv(qy,(eC[2]-203)%#qy+1))),sg[27346]or Zd(27346,32302,42125)else eC[1]='';eC[3],uw,eC[4],eC[5]=1,sg[-11267]or Zd(-11267,28305,128041),203,(#Nv-1)+203 end else eC[2]=eC[4]if eC[5]~=eC[5]then uw=sg[-9085]or Zd(-9085,53590,60212)else uw=sg[-11213]or Zd(-11213,54547,60767)end end elseif uw<=29626 then if uw<=2955 then eC[4]=eC[4]+eC[3];eC[2]=eC[4]if eC[4]~=eC[4]then uw=29626 else uw=sg[10061]or Zd(10061,18671,92387)end else return eC[1]end else if(eC[3]>=0 and eC[4]>eC[5])or((eC[3]<0 or eC[3]~=eC[3])and eC[4]<eC[5])then uw=sg[-20702]or Zd(-20702,17250,39176)else uw=57065 end end end end)('\149^\145\145_\150','\244-\226')],FG[(function(Cs,Si)local jq,gl,xw,Ib;gl={};xw,jq={},function(Zc,wf,bx)xw[wf]=Mz(bx,29011)-Mz(Zc,34497)return xw[wf]end;Ib=xw[32285]or jq(22704,32285,120192)repeat if Ib<=36992 then if Ib<=35257 then if Ib<23438 then Ib,gl[1]=xw[6766]or jq(65000,6766,95665),gl[1]..lq(hu(nv(Cs,(gl[2]-174)+1),nv(Si,(gl[2]-174)%#Si+1)))elseif Ib>23438 then gl[3]=gl[3]+gl[4];gl[2]=gl[3]if gl[3]~=gl[3]then Ib=23438 else Ib=36992 end else return gl[1]end else if(gl[4]>=0 and gl[3]>gl[5])or((gl[4]<0 or gl[4]~=gl[4])and gl[3]<gl[5])then Ib=23438 else Ib=xw[-25155]or jq(27929,-25155,97784)end end elseif Ib>40520 then gl[1]='';gl[4],Ib,gl[5],gl[3]=1,40520,(#Cs-1)+174,174 else gl[2]=gl[3]if gl[5]~=gl[5]then Ib=xw[24751]or jq(17909,24751,94097)else Ib=36992 end end until Ib==42422 end)('K;\242]=\234','8^\158')],FG[(function(ts,an_)local nd,DD,Br,Ar;Ar={};Br,nd=function(vz,bb,be)nd[vz]=Mz(be,19452)-Mz(bb,15672)return nd[vz]end,{};DD=nd[27209]or Br(27209,36603,97318)while DD~=62795 do if DD>33815 then if DD<=34489 then return Ar[1]else if(Ar[2]>=0 and Ar[3]>Ar[4])or((Ar[2]<0 or Ar[2]~=Ar[2])and Ar[3]<Ar[4])then DD=34489 else DD=nd[-21541]or Br(-21541,7762,29378)end end elseif DD<16493 then if DD<=5588 then DD,Ar[1]=nd[30223]or Br(30223,13658,32278),Ar[1]..lq(hu(nv(ts,(Ar[5]-220)+1),nv(an_,(Ar[5]-220)%#an_+1)))else Ar[3]=Ar[3]+Ar[2];Ar[5]=Ar[3]if Ar[3]~=Ar[3]then DD=34489 else DD=35631 end end elseif DD>16493 then Ar[1]='';Ar[4],DD,Ar[3],Ar[2]=(#ts-1)+220,16493,220,1 else Ar[5]=Ar[3]if Ar[4]~=Ar[4]then DD=34489 else DD=35631 end end end end)('\149\134>\28\177(\135\151+\19\184\57','\230\227Jq\212\\')],FG[(function(ca,Cv)local Zw,_b,_k,cg;cg={};Zw,_b={},function(Cb,Qd,tw)Zw[Cb]=Mz(tw,37683)-Mz(Qd,48325)return Zw[Cb]end;_k=Zw[7528]or _b(7528,53992,31393)repeat if _k>43778 then if _k>50972 then cg[1]=cg[2]if cg[3]~=cg[3]then _k=43778 else _k=Zw[19735]or _b(19735,59993,21758)end else cg[4],_k=cg[4]..lq(hu(nv(ca,(cg[1]-209)+1),nv(Cv,(cg[1]-209)%#Cv+1))),Zw[-6667]or _b(-6667,63411,29179)end elseif _k<=38738 then if _k<=31589 then if _k>28977 then cg[4]='';_k,cg[2],cg[3],cg[5]=Zw[-4695]or _b(-4695,54984,128439),209,(#ca-1)+209,1 else if(cg[5]>=0 and cg[2]>cg[3])or((cg[5]<0 or cg[5]~=cg[5])and cg[2]<cg[3])then _k=Zw[6485]or _b(6485,30585,124301)else _k=50972 end end else cg[2]=cg[2]+cg[5];cg[1]=cg[2]if cg[2]~=cg[2]then _k=Zw[-27138]or _b(-27138,40303,24479)else _k=28977 end end else return cg[4]end until _k==58233 end)('a\"\136{8\157','\18V\250')][(function(Vy,dc)local Gq,hF,j,nF;nF={};Gq,j=function(e_,dz,Em)j[dz]=Mz(e_,23693)-Mz(Em,57799)return j[dz]end,{};hF=j[-12150]or Gq(15009,-12150,50873)repeat if hF>=35900 then if hF<45212 then if(nF[1]>=0 and nF[2]>nF[3])or((nF[1]<0 or nF[1]~=nF[1])and nF[2]<nF[3])then hF=3829 else hF=48818 end elseif hF<=45212 then nF[4]=nF[2]if nF[3]~=nF[3]then hF=j[-11444]or Gq(54665,-11444,39880)else hF=35900 end else hF,nF[5]=j[21920]or Gq(55184,21920,48962),nF[5]..lq(hu(nv(Vy,(nF[4]-182)+1),nv(dc,(nF[4]-182)%#dc+1)))end elseif hF>=11416 then if hF>11416 then nF[5]='';nF[1],nF[2],nF[3],hF=1,182,(#Vy-1)+182,45212 else nF[2]=nF[2]+nF[1];nF[4]=nF[2]if nF[2]~=nF[2]then hF=3829 else hF=j[1766]or Gq(40792,1766,54878)end end else return nF[5]end until hF==27930 end)('\218\172\20\209\162\18','\188\195f')],FG[(function(fu_,mq)local Sx,PD,jC,je;jC={};Sx,je=function(Lc,jh,Bb)je[jh]=Mz(Bb,938)-Mz(Lc,57734)return je[jh]end,{};PD=je[-31957]or Sx(56433,-31957,38331)while PD~=26836 do if PD>22554 then if PD<=31439 then jC[1]=jC[1]+jC[2];jC[3]=jC[1]if jC[1]~=jC[1]then PD=17915 else PD=je[12392]or Sx(58211,12392,8431)end else jC[3]=jC[1]if jC[4]~=jC[4]then PD=17915 else PD=je[9537]or Sx(45881,9537,28853)end end elseif PD>20554 then jC[5]='';jC[4],jC[2],PD,jC[1]=(#fu_-1)+169,1,je[3211]or Sx(4728,3211,94268),169 elseif PD>17915 then jC[5],PD=jC[5]..lq(hu(nv(fu_,(jC[3]-169)+1),nv(mq,(jC[3]-169)%#mq+1))),je[15331]or Sx(42977,15331,49820)elseif PD<=8288 then if(jC[2]>=0 and jC[1]>jC[4])or((jC[2]<0 or jC[2]~=jC[2])and jC[1]<jC[4])then PD=je[-4005]or Sx(26194,-4005,52837)else PD=je[-2845]or Sx(24350,-2845,68936)end else return jC[5]end end end)(' \138D:\144Q','S\254\54')][(function(Ct,im)local He,Wz,rx,BC;rx={};Wz,BC={},function(Xo,Ir,lr)Wz[lr]=Mz(Ir,38374)-Mz(Xo,20650)return Wz[lr]end;He=Wz[-23517]or BC(44465,107872,-23517)repeat if He<39024 then if He<=22255 then if He<=13163 then rx[1]='';rx[2],rx[3],He,rx[4]=(#Ct-1)+194,1,40417,194 else He,rx[1]=Wz[30690]or BC(15927,114736,30690),rx[1]..lq(hu(nv(Ct,(rx[5]-194)+1),nv(im,(rx[5]-194)%#im+1)))end else if(rx[3]>=0 and rx[4]>rx[2])or((rx[3]<0 or rx[3]~=rx[3])and rx[4]<rx[2])then He=Wz[27515]or BC(11516,98592,27515)else He=Wz[28095]or BC(59129,104612,28095)end end elseif He<=40417 then if He<=39024 then return rx[1]else rx[5]=rx[4]if rx[2]~=rx[2]then He=39024 else He=28862 end end else rx[4]=rx[4]+rx[3];rx[5]=rx[4]if rx[4]~=rx[4]then He=Wz[21195]or BC(13416,26836,21195)else He=Wz[2762]or BC(49961,102823,2762)end end until He==29065 end)('y\254\194m\243\217','\f\144\178')],FG[(function(ij,ry)local Od,rD,nl,Ic;Od={};Ic,nl={},function(xu,lg,pj)Ic[xu]=Mz(lg,9399)-Mz(pj,43788)return Ic[xu]end;rD=Ic[-13371]or nl(-13371,93909,63695)repeat if rD<40719 then if rD<23871 then Od[1],rD=Od[1]..lq(hu(nv(ij,(Od[2]-241)+1),nv(ry,(Od[2]-241)%#ry+1))),Ic[18417]or nl(18417,69594,25890)elseif rD<=23871 then Od[3]=Od[3]+Od[4];Od[2]=Od[3]if Od[3]~=Od[3]then rD=Ic[-8542]or nl(-8542,45370,33305)else rD=63744 end else return Od[1]end elseif rD<=63135 then if rD<=40719 then Od[2]=Od[3]if Od[5]~=Od[5]then rD=27768 else rD=Ic[-14186]or nl(-14186,101949,6790)end else Od[1]='';rD,Od[4],Od[3],Od[5]=40719,1,241,(#ij-1)+241 end else if(Od[4]>=0 and Od[3]>Od[5])or((Od[4]<0 or Od[4]~=Od[4])and Od[3]<Od[5])then rD=Ic[-30427]or nl(-30427,21190,41717)else rD=6174 end end until rD==58439 end)('Q\203vK\209c','\"\191\4')][(function(Jd,Cn)local Xu,Vt,Gh,Sm;Xu={};Vt,Gh={},function(Ae,_d,Tq)Vt[Ae]=Mz(Tq,28557)-Mz(_d,36817)return Vt[Ae]end;Sm=Vt[20872]or Gh(20872,32877,32547)while Sm~=29247 do if Sm>=32465 then if Sm>=34444 then if Sm>34444 then Xu[1],Sm=Xu[1]..lq(hu(nv(Jd,(Xu[2]-122)+1),nv(Cn,(Xu[2]-122)%#Cn+1))),Vt[29924]or Gh(29924,24441,80057)else Xu[3]=Xu[3]+Xu[4];Xu[2]=Xu[3]if Xu[3]~=Xu[3]then Sm=Vt[-28193]or Gh(-28193,31884,73123)else Sm=Vt[-11877]or Gh(-11877,12009,55915)end end else return Xu[1]end elseif Sm>5294 then Xu[2]=Xu[3]if Xu[5]~=Xu[5]then Sm=Vt[5582]or Gh(5582,50867,42942)else Sm=5294 end elseif Sm<=242 then Xu[1]='';Xu[5],Xu[3],Sm,Xu[4]=(#Jd-1)+122,122,17043,1 else if(Xu[4]>=0 and Xu[3]>Xu[5])or((Xu[4]<0 or Xu[4]~=Xu[4])and Xu[3]<Xu[5])then Sm=Vt[15277]or Gh(15277,23285,81016)else Sm=Vt[16627]or Gh(16627,16409,66186)end end end end)('\179\181\162','\192')],FG[(function(lz,ve)local LE,nc,Ft,Tb;LE={};Tb,Ft=function(bj,ej,Ee)Ft[ej]=Mz(bj,14937)-Mz(Ee,34392)return Ft[ej]end,{};nc=Ft[-25150]or Tb(46204,-25150,59858)while nc~=7686 do if nc>36595 then if nc<=51020 then return LE[1]else LE[2]=LE[3]if LE[4]~=LE[4]then nc=Ft[16665]or Tb(59834,16665,35535)else nc=Ft[18249]or Tb(67085,18249,11065)end end elseif nc>=10159 then if nc>10159 then if(LE[5]>=0 and LE[3]>LE[4])or((LE[5]<0 or LE[5]~=LE[5])and LE[3]<LE[4])then nc=51020 else nc=10159 end else LE[1],nc=LE[1]..lq(hu(nv(lz,(LE[2]-56)+1),nv(ve,(LE[2]-56)%#ve+1))),Ft[-32134]or Tb(18930,-32134,60011)end elseif nc>1912 then LE[1]='';LE[3],LE[5],LE[4],nc=56,1,(#lz-1)+56,Ft[-19609]or Tb(66469,-19609,57200)else LE[3]=LE[3]+LE[5];LE[2]=LE[3]if LE[3]~=LE[3]then nc=51020 else nc=Ft[18584]or Tb(61168,18584,50158)end end end end)('\188\148\186\166\142\175','\207\224\200')][(function(gA,Bq)local Bi,eA,Ba,ZE;ZE={};Bi,eA={},function(xm,Jx,pd)Bi[pd]=Mz(Jx,29181)-Mz(xm,33653)return Bi[pd]end;Ba=Bi[19681]or eA(4541,98121,19681)while Ba~=51997 do if Ba>38370 then if Ba<=48084 then ZE[1]=ZE[2]if ZE[3]~=ZE[3]then Ba=38370 else Ba=10251 end else Ba,ZE[4]=Bi[-2438]or eA(6381,35218,-2438),ZE[4]..lq(hu(nv(gA,(ZE[1]-181)+1),nv(Bq,(ZE[1]-181)%#Bq+1)))end elseif Ba<31724 then if Ba>10251 then ZE[2]=ZE[2]+ZE[5];ZE[1]=ZE[2]if ZE[2]~=ZE[2]then Ba=Bi[-19368]or eA(25635,68805,-19368)else Ba=10251 end else if(ZE[5]>=0 and ZE[2]>ZE[3])or((ZE[5]<0 or ZE[5]~=ZE[5])and ZE[2]<ZE[3])then Ba=Bi[14790]or eA(25224,67106,14790)else Ba=58781 end end elseif Ba<=31724 then ZE[4]='';ZE[2],ZE[5],Ba,ZE[3]=181,1,Bi[-14982]or eA(51047,36379,-14982),(#gA-1)+181 else return ZE[4]end end end)('V\199@\219','4\190')],FG[(function(vC,wk)local ue,wt,RB,yG;ue={};RB,yG={},function(Op,ea,hr)RB[Op]=Mz(hr,53193)-Mz(ea,57717)return RB[Op]end;wt=RB[13753]or yG(13753,16886,113211)while wt~=34456 do if wt>=59929 then if wt<=61627 then if wt>59929 then ue[1]=ue[2]if ue[3]~=ue[3]then wt=59929 else wt=739 end else return ue[4]end else ue[4],wt=ue[4]..lq(hu(nv(vC,(ue[1]-121)+1),nv(wk,(ue[1]-121)%#wk+1))),RB[31569]or yG(31569,24645,14155)end elseif wt<30546 then if(ue[5]>=0 and ue[2]>ue[3])or((ue[5]<0 or ue[5]~=ue[5])and ue[2]<ue[3])then wt=59929 else wt=61784 end elseif wt>30546 then ue[4]='';wt,ue[5],ue[3],ue[2]=RB[-7670]or yG(-7670,22411,92272),1,(#vC-1)+121,121 else ue[2]=ue[2]+ue[5];ue[1]=ue[2]if ue[2]~=ue[2]then wt=59929 else wt=739 end end end end)('5{9/a,','F\15K')][(function(nn,tn)local ed,nw,ph,ZF;ph={};nw,ZF={},function(ru,mn,Hm)nw[mn]=Mz(Hm,52287)-Mz(ru,1679)return nw[mn]end;ed=nw[-7262]or ZF(59517,-7262,94490)repeat if ed>=36512 then if ed<52787 then if(ph[1]>=0 and ph[2]>ph[3])or((ph[1]<0 or ph[1]~=ph[1])and ph[2]<ph[3])then ed=35946 else ed=22467 end elseif ed>52787 then ph[4]=ph[2]if ph[3]~=ph[3]then ed=35946 else ed=36512 end else ph[5]='';ph[1],ed,ph[3],ph[2]=1,nw[-16936]or ZF(55171,-16936,67694),(#nn-1)+68,68 end elseif ed>22467 then return ph[5]elseif ed>8165 then ed,ph[5]=nw[-28711]or ZF(31192,-28711,21251),ph[5]..lq(hu(nv(nn,(ph[4]-68)+1),nv(tn,(ph[4]-68)%#tn+1)))else ph[2]=ph[2]+ph[1];ph[4]=ph[2]if ph[2]~=ph[2]then ed=nw[31963]or ZF(44164,31963,129610)else ed=nw[6597]or ZF(56851,6597,109315)end end until ed==16479 end)('\150\185\148\163','\245\209')],FG[(function(vD,wj)local Ml,NA,bz,cd;NA={};cd,bz={},function(Jg,zm,Cw)cd[Cw]=Mz(Jg,48519)-Mz(zm,39301)return cd[Cw]end;Ml=cd[15689]or bz(22007,33281,15689)repeat if Ml<=50143 then if Ml<=17887 then if Ml<=16297 then if Ml<=13221 then NA[1]=NA[1]+NA[2];NA[3]=NA[1]if NA[1]~=NA[1]then Ml=cd[-14681]or bz(106881,51534,-14681)else Ml=17887 end else NA[4],Ml=NA[4]..lq(hu(nv(vD,(NA[3]-162)+1),nv(wj,(NA[3]-162)%#wj+1))),cd[-5614]or bz(7084,60163,-5614)end else if(NA[2]>=0 and NA[1]>NA[5])or((NA[2]<0 or NA[2]~=NA[2])and NA[1]<NA[5])then Ml=52027 else Ml=cd[9645]or bz(55183,46042,9645)end end else NA[3]=NA[1]if NA[5]~=NA[5]then Ml=52027 else Ml=cd[28799]or bz(130866,25939,28799)end end elseif Ml>52027 then NA[4]='';NA[5],NA[2],Ml,NA[1]=(#vD-1)+162,1,50143,162 else return NA[4]end until Ml==48446 end)('\127~isn','\v\31')][(function(Cg,Cy)local Ef,Yu,yv,P;Ef={};Yu,yv={},function(d_,Vf,FD)Yu[FD]=Mz(d_,16258)-Mz(Vf,26605)return Yu[FD]end;P=Yu[17340]or yv(90948,34824,17340)repeat if P<=25643 then if P>=17233 then if P<=17233 then Ef[1]=Ef[2]if Ef[3]~=Ef[3]then P=Yu[19008]or yv(4834,27784,19008)else P=25643 end else if(Ef[4]>=0 and Ef[2]>Ef[3])or((Ef[4]<0 or Ef[4]~=Ef[4])and Ef[2]<Ef[3])then P=8699 else P=Yu[23525]or yv(71453,57737,23525)end end elseif P>4269 then return Ef[5]else Ef[2]=Ef[2]+Ef[4];Ef[1]=Ef[2]if Ef[2]~=Ef[2]then P=Yu[-4614]or yv(50513,48949,-4614)else P=Yu[11017]or yv(90088,39890,11017)end end elseif P<=27873 then Ef[5]='';P,Ef[4],Ef[2],Ef[3]=Yu[4458]or yv(46054,12030,4458),1,118,(#Cg-1)+118 else P,Ef[5]=Yu[-25139]or yv(19754,1558,-25139),Ef[5]..lq(hu(nv(Cg,(Ef[1]-118)+1),nv(Cy,(Ef[1]-118)%#Cy+1)))end until P==42113 end)('\152$\131.','\245K')],FG[(function(fg,Nj)local Df,Zy,Uf,iA;iA={};Zy,Uf={},function(Tm,za,tE)Zy[Tm]=Mz(za,3069)-Mz(tE,33717)return Zy[Tm]end;Df=Zy[-27185]or Uf(-27185,22990,47415)repeat if Df>24894 then if Df>46786 then return iA[1]else iA[2]=iA[2]+iA[3];iA[4]=iA[2]if iA[2]~=iA[2]then Df=48366 else Df=6224 end end elseif Df>16464 then iA[4]=iA[2]if iA[5]~=iA[5]then Df=48366 else Df=Zy[22487]or Uf(22487,58280,21424)end elseif Df>=6224 then if Df<=6224 then if(iA[3]>=0 and iA[2]>iA[5])or((iA[3]<0 or iA[3]~=iA[3])and iA[2]<iA[5])then Df=48366 else Df=Zy[16228]or Uf(16228,79085,32117)end else iA[1],Df=iA[1]..lq(hu(nv(fg,(iA[4]-75)+1),nv(Nj,(iA[4]-75)%#Nj+1))),Zy[-1699]or Uf(-1699,74671,61989)end else iA[1]='';iA[2],Df,iA[5],iA[3]=75,24894,(#fg-1)+75,1 end until Df==23063 end)('E\147S\158T','1\242')][(function(pb,nB)local nt,RC,Pw,pc;nt={};pc,Pw=function(yl,Gy,ED)Pw[yl]=Mz(Gy,48732)-Mz(ED,42147)return Pw[yl]end,{};RC=Pw[13689]or pc(13689,18365,1663)while RC~=56670 do if RC<22277 then if RC>12013 then if(nt[1]>=0 and nt[2]>nt[3])or((nt[1]<0 or nt[1]~=nt[1])and nt[2]<nt[3])then RC=3272 else RC=Pw[30816]or pc(30816,99925,3668)end elseif RC<=3272 then return nt[4]else nt[2]=nt[2]+nt[1];nt[5]=nt[2]if nt[2]~=nt[2]then RC=3272 else RC=Pw[-14177]or pc(-14177,102964,17052)end end elseif RC<=36114 then if RC>22277 then nt[4],RC=nt[4]..lq(hu(nv(pb,(nt[5]-167)+1),nv(nB,(nt[5]-167)%#nB+1))),Pw[-23209]or pc(-23209,34220,43424)else nt[4]='';nt[2],RC,nt[1],nt[3]=167,Pw[-4738]or pc(-4738,129958,2114),1,(#pb-1)+167 end else nt[5]=nt[2]if nt[3]~=nt[3]then RC=Pw[7512]or pc(7512,26950,28401)else RC=17961 end end end end)('\236\241\255\251','\156\144')],FG[(function(QB,Oy)local XB,vx,Jv,Ce;Jv={};vx,Ce=function(sG,Qb,gc)Ce[Qb]=Mz(sG,12142)-Mz(gc,8315)return Ce[Qb]end,{};XB=Ce[28488]or vx(94010,28488,53697)while XB~=26781 do if XB<34010 then if XB>=20122 then if XB>20122 then Jv[1]=Jv[2]if Jv[3]~=Jv[3]then XB=43054 else XB=Ce[21303]or vx(87974,21303,52576)end else Jv[4]='';Jv[2],Jv[5],Jv[3],XB=200,1,(#QB-1)+200,28971 end else Jv[2]=Jv[2]+Jv[5];Jv[1]=Jv[2]if Jv[2]~=Jv[2]then XB=Ce[8458]or vx(113213,8458,52574)else XB=Ce[-24058]or vx(84019,-24058,64459)end end elseif XB>35757 then return Jv[4]elseif XB<=34010 then XB,Jv[4]=Ce[-19861]or vx(63531,-19861,59931),Jv[4]..lq(hu(nv(QB,(Jv[1]-200)+1),nv(Oy,(Jv[1]-200)%#Oy+1)))else if(Jv[5]>=0 and Jv[2]>Jv[3])or((Jv[5]<0 or Jv[5]~=Jv[5])and Jv[2]<Jv[3])then XB=43054 else XB=34010 end end end end)('mc{n|','\25\2')][(function(rw,Nw)local Xw,Cm,Af,rt;Af={};rt,Cm=function(Sp,dl,sz)Cm[sz]=Mz(Sp,50529)-Mz(dl,51485)return Cm[sz]end,{};Xw=Cm[8748]or rt(72155,14417,8748)while Xw~=63408 do if Xw>34040 then if Xw>34424 then Af[1]='';Af[2],Af[3],Af[4],Xw=(#rw-1)+237,237,1,34424 else Af[5]=Af[3]if Af[2]~=Af[2]then Xw=29315 else Xw=Cm[-25480]or rt(468,32268,-25480)end end elseif Xw<=29315 then if Xw>11133 then return Af[1]elseif Xw>3492 then Af[1],Xw=Af[1]..lq(hu(nv(rw,(Af[5]-237)+1),nv(Nw,(Af[5]-237)%#Nw+1))),Cm[-6556]or rt(109971,10983,-6556)else if(Af[4]>=0 and Af[3]>Af[2])or((Af[4]<0 or Af[4]~=Af[4])and Af[3]<Af[2])then Xw=Cm[30033]or rt(103030,11657,30033)else Xw=11133 end end else Af[3]=Af[3]+Af[4];Af[5]=Af[3]if Af[3]~=Af[3]then Xw=Cm[21019]or rt(116256,22947,21019)else Xw=3492 end end end end)('\231\147{\229\149{','\132\225\30')],FG[(function(Xt,na)local bF,Pj,JG,tx;JG={};tx,Pj=function(Fj,nq,Na)Pj[nq]=Mz(Na,13121)-Mz(Fj,18292)return Pj[nq]end,{};bF=Pj[1061]or tx(56728,1061,44550)while bF~=473 do if bF>18530 then if bF>23794 then JG[1]=JG[1]+JG[2];JG[3]=JG[1]if JG[1]~=JG[1]then bF=181 else bF=Pj[-14656]or tx(6908,-14656,37367)end else JG[3]=JG[1]if JG[4]~=JG[4]then bF=181 else bF=17710 end end elseif bF>=17710 then if bF>17710 then JG[5],bF=JG[5]..lq(hu(nv(Xt,(JG[3]-7)+1),nv(na,(JG[3]-7)%#na+1))),Pj[26185]or tx(813,26185,79988)else if(JG[2]>=0 and JG[1]>JG[4])or((JG[2]<0 or JG[2]~=JG[2])and JG[1]<JG[4])then bF=181 else bF=18530 end end elseif bF>181 then JG[5]='';JG[1],JG[4],JG[2],bF=7,(#Xt-1)+7,1,Pj[-32674]or tx(2273,-32674,40902)else return JG[5]end end end)('V\237@\224G','\"\140')][(function(Kb,ct)local tA,Me,ot,WB;Me={};tA,ot=function(qG,gf,at)ot[at]=Mz(gf,55893)-Mz(qG,53309)return ot[at]end,{};WB=ot[8977]or tA(50851,43270,8977)repeat if WB>39028 then if WB>57052 then Me[1]=Me[2]if Me[3]~=Me[3]then WB=ot[27023]or tA(11598,67098,27023)else WB=1555 end else return Me[4]end elseif WB>=23733 then if WB>23733 then Me[2]=Me[2]+Me[5];Me[1]=Me[2]if Me[2]~=Me[2]then WB=ot[-26291]or tA(27447,82867,-26291)else WB=1555 end else Me[4]='';Me[3],WB,Me[5],Me[2]=(#Kb-1)+21,63187,1,21 end elseif WB>1555 then Me[4],WB=Me[4]..lq(hu(nv(Kb,(Me[1]-21)+1),nv(ct,(Me[1]-21)%#ct+1))),ot[-14850]or tA(10667,84063,-14850)else if(Me[5]>=0 and Me[2]>Me[3])or((Me[5]<0 or Me[5]~=Me[5])and Me[2]<Me[3])then WB=ot[15565]or tA(25614,84314,15565)else WB=10682 end end until WB==45970 end)('\144\202q\156\214v','\249\164\2')],FG[(function(TB,Sb)local jm,Lr,Oa,mG;mG={};jm,Lr={},function(af,Ss,Jm)jm[Jm]=Mz(af,15247)-Mz(Ss,4791)return jm[Jm]end;Oa=jm[-14168]or Lr(59997,8428,-14168)while Oa~=4496 do if Oa<37213 then if Oa>=5495 then if Oa<=5495 then Oa,mG[1]=jm[17310]or Lr(54137,17710,17310),mG[1]..lq(hu(nv(TB,(mG[2]-183)+1),nv(Sb,(mG[2]-183)%#Sb+1)))else return mG[1]end else mG[2]=mG[3]if mG[4]~=mG[4]then Oa=30292 else Oa=jm[-9590]or Lr(93307,27930,-9590)end end elseif Oa<40823 then mG[3]=mG[3]+mG[5];mG[2]=mG[3]if mG[3]~=mG[3]then Oa=30292 else Oa=jm[30880]or Lr(59229,5692,30880)end elseif Oa<=40823 then mG[1]='';mG[4],mG[3],mG[5],Oa=(#TB-1)+183,183,1,jm[31511]or Lr(20552,20170,31511)else if(mG[5]>=0 and mG[3]>mG[4])or((mG[5]<0 or mG[5]~=mG[5])and mG[3]<mG[4])then Oa=jm[-28764]or Lr(45897,197,-28764)else Oa=jm[-19662]or Lr(38808,33815,-19662)end end end end)('{ombj','\15\14')][(function(x,wx)local Nr,kA,Un,xx;Nr={};Un,kA={},function(xo,rB,mC)Un[xo]=Mz(mC,404)-Mz(rB,4692)return Un[xo]end;xx=Un[-19191]or kA(-19191,57252,117319)repeat if xx>54415 then if xx<=58906 then xx,Nr[1]=Un[18304]or kA(18304,28967,80278),Nr[1]..lq(hu(nv(x,(Nr[2]-245)+1),nv(wx,(Nr[2]-245)%#wx+1)))else Nr[1]='';Nr[3],Nr[4],xx,Nr[5]=245,(#x-1)+245,20319,1 end elseif xx<=50241 then if xx>20319 then return Nr[1]elseif xx>17880 then Nr[2]=Nr[3]if Nr[4]~=Nr[4]then xx=Un[26903]or kA(26903,23696,70289)else xx=17880 end else if(Nr[5]>=0 and Nr[3]>Nr[4])or((Nr[5]<0 or Nr[5]~=Nr[5])and Nr[3]<Nr[4])then xx=Un[-31261]or kA(-31261,8004,53445)else xx=Un[27706]or kA(27706,9387,72845)end end else Nr[3]=Nr[3]+Nr[5];Nr[2]=Nr[3]if Nr[3]~=Nr[3]then xx=50241 else xx=Un[-14702]or kA(-14702,62487,77199)end end until xx==5176 end)('\4u\233\4{\243','g\26\135')],FG[(function(k,Tl)local Po,bB,kD,hp;hp={};kD,bB={},function(vv,Zh,Ez)kD[vv]=Mz(Zh,40982)-Mz(Ez,53674)return kD[vv]end;Po=kD[-26024]or bB(-26024,65996,7122)repeat if Po<52686 then if Po<=10843 then if Po>9487 then return hp[1]else hp[2]=hp[3]if hp[4]~=hp[4]then Po=kD[-6968]or bB(-6968,50820,60829)else Po=kD[-4841]or bB(-4841,67160,12217)end end else if(hp[5]>=0 and hp[3]>hp[4])or((hp[5]<0 or hp[5]~=hp[5])and hp[3]<hp[4])then Po=kD[10739]or bB(10739,4092,21541)else Po=61458 end end elseif Po>=55138 then if Po<=55138 then hp[1]='';hp[3],Po,hp[5],hp[4]=117,9487,1,(#k-1)+117 else hp[1],Po=hp[1]..lq(hu(nv(k,(hp[2]-117)+1),nv(Tl,(hp[2]-117)%#Tl+1))),kD[-15028]or bB(-15028,67936,2562)end else hp[3]=hp[3]+hp[5];hp[2]=hp[3]if hp[3]~=hp[3]then Po=kD[-1375]or bB(-1375,12314,46107)else Po=43067 end end until Po==61810 end)('^\165,\150H\190\55\151X','=\202^\249')][(function(pp,ld)local Ow,YB,ez,zu;ez={};zu,Ow=function(bn,zo,Vd)Ow[zo]=Mz(bn,17484)-Mz(Vd,39920)return Ow[zo]end,{};YB=Ow[-17268]or zu(127820,-17268,32695)repeat if YB>=31794 then if YB>53945 then ez[1]=ez[2]if ez[3]~=ez[3]then YB=Ow[10996]or zu(52412,10996,60664)else YB=14223 end elseif YB>31794 then ez[4]='';ez[3],ez[2],YB,ez[5]=(#pp-1)+49,49,60035,1 else ez[4],YB=ez[4]..lq(hu(nv(pp,(ez[1]-49)+1),nv(ld,(ez[1]-49)%#ld+1))),Ow[-22716]or zu(58522,-22716,46456)end elseif YB>14223 then ez[2]=ez[2]+ez[5];ez[1]=ez[2]if ez[2]~=ez[2]then YB=4584 else YB=14223 end elseif YB>4584 then if(ez[5]>=0 and ez[2]>ez[3])or((ez[5]<0 or ez[5]~=ez[5])and ez[2]<ez[3])then YB=4584 else YB=Ow[-17890]or zu(83144,-17890,8098)end else return ez[4]end until YB==35872 end)('C?WA9W',' M2')],FG[(function(Ob,Ya)local VA,kc,it,xj;kc={};xj,it=function(wp,kv,t_)it[t_]=Mz(kv,42620)-Mz(wp,40896)return it[t_]end,{};VA=it[-20816]or xj(37319,17273,-20816)repeat if VA>55038 then if VA<=57119 then kc[1]=kc[2]if kc[3]~=kc[3]then VA=it[-27772]or xj(12994,26768,-27772)else VA=it[24571]or xj(64764,3886,24571)end else kc[4],VA=kc[4]..lq(hu(nv(Ob,(kc[1]-106)+1),nv(Ya,(kc[1]-106)%#Ya+1))),it[-9811]or xj(59214,16332,-9811)end elseif VA<17942 then if VA>8482 then return kc[4]else kc[2]=kc[2]+kc[5];kc[1]=kc[2]if kc[2]~=kc[2]then VA=it[28221]or xj(43268,65234,28221)else VA=17942 end end elseif VA>17942 then kc[4]='';kc[5],kc[2],VA,kc[3]=1,106,it[-21233]or xj(48667,108166,-21233),(#Ob-1)+106 else if(kc[5]>=0 and kc[2]>kc[3])or((kc[5]<0 or kc[5]~=kc[5])and kc[2]<kc[3])then VA=it[22566]or xj(49167,10181,22566)else VA=it[-16626]or xj(41725,103620,-16626)end end until VA==40320 end)('k\133\213\19}\158\206\18m','\b\234\167|')][(function(Oz,cq)local UB,Ur,JC,cb;Ur={};JC,cb={},function(xr,io,S)JC[xr]=Mz(S,4718)-Mz(io,27015)return JC[xr]end;UB=JC[27231]or cb(27231,19914,71690)while UB~=342 do if UB>=44708 then if UB>=45839 then if UB<=45839 then return Ur[1]else Ur[1]='';Ur[2],Ur[3],UB,Ur[4]=1,(#Oz-1)+107,JC[-19035]or cb(-19035,6064,33090),107 end else Ur[4]=Ur[4]+Ur[2];Ur[5]=Ur[4]if Ur[4]~=Ur[4]then UB=45839 else UB=JC[-14948]or cb(-14948,30648,41475)end end elseif UB<37311 then Ur[5]=Ur[4]if Ur[3]~=Ur[3]then UB=45839 else UB=JC[22230]or cb(22230,53739,88308)end elseif UB<=37311 then UB,Ur[1]=JC[4873]or cb(4873,15304,70301),Ur[1]..lq(hu(nv(Oz,(Ur[5]-107)+1),nv(cq,(Ur[5]-107)%#cq+1)))else if(Ur[2]>=0 and Ur[4]>Ur[3])or((Ur[2]<0 or Ur[2]~=Ur[2])and Ur[4]<Ur[3])then UB=45839 else UB=37311 end end end end)('\199\27\219\30\218','\190r')],FG[(function(Kw,qo)local Vw,Nd,_i,fe;Vw={};_i,fe=function(WG,IB,qh)fe[WG]=Mz(IB,59912)-Mz(qh,3186)return fe[WG]end,{};Nd=fe[15452]or _i(15452,15744,17692)while Nd~=1226 do if Nd>37660 then if Nd>56021 then if(Vw[1]>=0 and Vw[2]>Vw[3])or((Vw[1]<0 or Vw[1]~=Vw[1])and Vw[2]<Vw[3])then Nd=fe[1750]or _i(1750,39661,7052)else Nd=fe[4457]or _i(4457,5492,10453)end else Vw[4],Nd=Vw[4]..lq(hu(nv(Kw,(Vw[5]-165)+1),nv(qo,(Vw[5]-165)%#qo+1))),fe[8571]or _i(8571,14695,52215)end elseif Nd<=36378 then if Nd>22759 then Vw[4]='';Vw[3],Vw[2],Vw[1],Nd=(#Kw-1)+165,165,1,fe[7924]or _i(7924,17025,6431)elseif Nd<=3050 then Vw[2]=Vw[2]+Vw[1];Vw[5]=Vw[2]if Vw[2]~=Vw[2]then Nd=22759 else Nd=57847 end else return Vw[4]end else Vw[5]=Vw[2]if Vw[3]~=Vw[3]then Nd=fe[-26345]or _i(-26345,118441,51144)else Nd=57847 end end end end)('\157\52\244\216\139/\239\217\155','\254[\134\183')][(function(i_,Rd)local Lv,yy,ye,sn;ye={};Lv,sn={},function(aH,Yr,tl)Lv[aH]=Mz(tl,13561)-Mz(Yr,37790)return Lv[aH]end;yy=Lv[5890]or sn(5890,8924,108672)while yy~=36001 do if yy<=43151 then if yy>41126 then ye[1]=ye[1]+ye[2];ye[3]=ye[1]if ye[1]~=ye[1]then yy=Lv[-20927]or sn(-20927,52043,40309)else yy=Lv[22579]or sn(22579,20426,93672)end elseif yy>31933 then yy,ye[4]=Lv[27475]or sn(27475,57141,49603),ye[4]..lq(hu(nv(i_,(ye[3]-79)+1),nv(Rd,(ye[3]-79)%#Rd+1)))elseif yy<=20663 then return ye[4]else if(ye[2]>=0 and ye[1]>ye[5])or((ye[2]<0 or ye[2]~=ye[2])and ye[1]<ye[5])then yy=20663 else yy=Lv[-32560]or sn(-32560,47870,65279)end end elseif yy<=57111 then ye[3]=ye[1]if ye[5]~=ye[5]then yy=20663 else yy=31933 end else ye[4]='';ye[5],ye[2],yy,ye[1]=(#i_-1)+79,1,Lv[-21710]or sn(-21710,13528,111268),79 end end end)('\129\51\197\134;\211','\243V\182')],FG[(function(Jf,Ea)local Jj,qx,CB,Rj;CB={};Rj,Jj=function(fd,xB,bc)Jj[bc]=Mz(fd,52100)-Mz(xB,27065)return Jj[bc]end,{};qx=Jj[-17382]or Rj(92949,57013,-17382)while qx~=58086 do if qx>42893 then if qx>59781 then CB[1]=CB[1]+CB[2];CB[3]=CB[1]if CB[1]~=CB[1]then qx=Jj[-30767]or Rj(1549,19525,-30767)else qx=24724 end else CB[4]='';qx,CB[5],CB[1],CB[2]=22159,(#Jf-1)+239,239,1 end elseif qx>=24724 then if qx>24724 then return CB[4]else if(CB[2]>=0 and CB[1]>CB[5])or((CB[2]<0 or CB[2]~=CB[2])and CB[1]<CB[5])then qx=Jj[-24628]or Rj(15059,8307,-24628)else qx=Jj[6539]or Rj(16990,13071,6539)end end elseif qx>12068 then CB[3]=CB[1]if CB[5]~=CB[5]then qx=Jj[20817]or Rj(6776,17366,20817)else qx=24724 end else CB[4],qx=CB[4]..lq(hu(nv(Jf,(CB[3]-239)+1),nv(Ea,(CB[3]-239)%#Ea+1))),Jj[23909]or Rj(97473,45002,23909)end end end)('J0|\130\\+g\131L',')_\14\237')][(function(iF,Ht)local Wj,fv,EA,Hh;Wj={};Hh,fv={},function(eg,Vx,vs)Hh[eg]=Mz(vs,62119)-Mz(Vx,12985)return Hh[eg]end;EA=Hh[3921]or fv(3921,20685,653)while EA~=22728 do if EA>36278 then if EA<=37296 then if(Wj[1]>=0 and Wj[2]>Wj[3])or((Wj[1]<0 or Wj[1]~=Wj[1])and Wj[2]<Wj[3])then EA=21373 else EA=Hh[30015]or fv(30015,3894,39318)end else Wj[4]=Wj[2]if Wj[3]~=Wj[3]then EA=21373 else EA=37296 end end elseif EA<21373 then if EA>8844 then Wj[5],EA=Wj[5]..lq(hu(nv(iF,(Wj[4]-68)+1),nv(Ht,(Wj[4]-68)%#Ht+1))),Hh[-31843]or fv(-31843,58256,274)else Wj[2]=Wj[2]+Wj[1];Wj[4]=Wj[2]if Wj[2]~=Wj[2]then EA=Hh[10452]or fv(10452,44152,153)else EA=37296 end end elseif EA<=21373 then return Wj[5]else Wj[5]='';Wj[3],Wj[1],Wj[2],EA=(#iF-1)+68,1,68,Hh[30017]or fv(30017,31230,113586)end end end)('}\197q\218{','\30\169')],FG[(function(vt,sy)local ws,Px,bl,HC;bl={};ws,Px={},function(Yc,Sd,hy)ws[Yc]=Mz(hy,21120)-Mz(Sd,11548)return ws[Yc]end;HC=ws[-30389]or Px(-30389,40250,85794)while HC~=42317 do if HC<41670 then if HC<17764 then bl[1],HC=bl[1]..lq(hu(nv(vt,(bl[2]-131)+1),nv(sy,(bl[2]-131)%#sy+1))),ws[-19242]or Px(-19242,16069,3005)elseif HC>17764 then bl[1]='';bl[3],bl[4],bl[5],HC=(#vt-1)+131,1,131,ws[-25419]or Px(-25419,14162,61332)else bl[5]=bl[5]+bl[4];bl[2]=bl[5]if bl[5]~=bl[5]then HC=ws[24149]or Px(24149,63536,106225)else HC=ws[30743]or Px(30743,53927,106065)end end elseif HC>52502 then return bl[1]elseif HC<=41670 then bl[2]=bl[5]if bl[3]~=bl[3]then HC=ws[-30922]or Px(-30922,12964,83069)else HC=ws[-3265]or Px(-3265,47068,79190)end else if(bl[4]>=0 and bl[5]>bl[3])or((bl[4]<0 or bl[4]~=bl[4])and bl[5]<bl[3])then HC=63301 else HC=ws[-21441]or Px(-21441,12874,26848)end end end end)('\150Pz\151P\96\135','\241\53\14')],FG[(function(bt,Do)local rf,Zr,vk,rk;rk={};vk,rf=function(he,Ze,gH)rf[Ze]=Mz(gH,48467)-Mz(he,7562)return rf[Ze]end,{};Zr=rf[-15087]or vk(20623,-15087,25381)repeat if Zr>=37233 then if Zr<40534 then rk[1]='';rk[2],rk[3],Zr,rk[4]=1,(#bt-1)+110,rf[15554]or vk(48918,15554,23902),110 elseif Zr>40534 then rk[1],Zr=rk[1]..lq(hu(nv(bt,(rk[5]-110)+1),nv(Do,(rk[5]-110)%#Do+1))),rf[-13580]or vk(36983,-13580,27479)else return rk[1]end elseif Zr>=15729 then if Zr>15729 then rk[4]=rk[4]+rk[2];rk[5]=rk[4]if rk[4]~=rk[4]then Zr=40534 else Zr=rf[-2891]or vk(43987,-2891,25534)end else rk[5]=rk[4]if rk[3]~=rk[3]then Zr=40534 else Zr=rf[-29433]or vk(19830,-29433,50371)end end else if(rk[2]>=0 and rk[4]>rk[3])or((rk[2]<0 or rk[2]~=rk[2])and rk[4]<rk[3])then Zr=rf[-6300]or vk(52025,-6300,116826)else Zr=rf[7154]or vk(38765,7154,125371)end end until Zr==36334 end)('v\147\96\201&','\20\250')][(function(ef,po)local B,ll,oh,fz;ll={};oh,B=function(Wl,Qi,xh)B[Qi]=Mz(xh,38906)-Mz(Wl,27225)return B[Qi]end,{};fz=B[-24959]or oh(15136,-24959,25051)while fz~=6231 do if fz<47845 then if fz>=42152 then if fz<=42152 then ll[1]='';fz,ll[2],ll[3],ll[4]=B[-24961]or oh(3949,-24961,65340),1,51,(#ef-1)+51 else if(ll[2]>=0 and ll[3]>ll[4])or((ll[2]<0 or ll[2]~=ll[2])and ll[3]<ll[4])then fz=B[21673]or oh(41043,21673,72304)else fz=56916 end end else ll[5]=ll[3]if ll[4]~=ll[4]then fz=B[27067]or oh(22215,27067,104420)else fz=44570 end end elseif fz>50048 then ll[1],fz=ll[1]..lq(hu(nv(ef,(ll[5]-51)+1),nv(po,(ll[5]-51)%#po+1))),B[18283]or oh(58757,18283,122171)elseif fz<=47845 then ll[3]=ll[3]+ll[2];ll[5]=ll[3]if ll[3]~=ll[3]then fz=50048 else fz=B[23496]or oh(56616,23496,127601)end else return ll[1]end end end)('\179\190\163','\209')],FG[(function(xi,N)local kd,Um,gE,ah;ah={};kd,Um=function(kz,mp,Pc)Um[kz]=Mz(Pc,47609)-Mz(mp,39304)return Um[kz]end,{};gE=Um[-1702]or kd(-1702,291,100029)while gE~=41306 do if gE<42649 then if gE<=22292 then if gE<=3767 then ah[1]=ah[2]if ah[3]~=ah[3]then gE=22292 else gE=Um[-8607]or kd(-8607,27071,90436)end else return ah[4]end else ah[2]=ah[2]+ah[5];ah[1]=ah[2]if ah[2]~=ah[2]then gE=Um[28207]or kd(28207,28403,128886)else gE=59526 end end elseif gE>59526 then gE,ah[4]=Um[14723]or kd(14723,26002,72004),ah[4]..lq(hu(nv(xi,(ah[1]-6)+1),nv(N,(ah[1]-6)%#N+1)))elseif gE>42649 then if(ah[5]>=0 and ah[2]>ah[3])or((ah[5]<0 or ah[5]~=ah[5])and ah[2]<ah[3])then gE=Um[31009]or kd(31009,60386,28807)else gE=Um[29211]or kd(29211,21608,96767)end else ah[4]='';gE,ah[5],ah[3],ah[2]=3767,1,(#xi-1)+6,6 end end end)('\149\25\131C\197','\247p')][(function(go,yr)local Iy,yf,Ms,Rr;yf={};Rr,Iy={},function(Rm,lD,ng)Rr[Rm]=Mz(lD,52673)-Mz(ng,6932)return Rr[Rm]end;Ms=Rr[24490]or Iy(24490,115801,34768)while Ms~=7836 do if Ms<34487 then if Ms<=18660 then if Ms<=7548 then yf[1]=yf[1]+yf[2];yf[3]=yf[1]if yf[1]~=yf[1]then Ms=Rr[29756]or Iy(29756,16902,4612)else Ms=Rr[26461]or Iy(26461,6072,35457)end else if(yf[2]>=0 and yf[1]>yf[4])or((yf[2]<0 or yf[2]~=yf[2])and yf[1]<yf[4])then Ms=34487 else Ms=40261 end end else yf[5]='';yf[1],yf[4],yf[2],Ms=76,(#go-1)+76,1,Rr[8865]or Iy(8865,110547,48175)end elseif Ms>40261 then yf[3]=yf[1]if yf[4]~=yf[4]then Ms=34487 else Ms=Rr[30099]or Iy(30099,7641,39968)end elseif Ms<=34487 then return yf[5]else Ms,yf[5]=Rr[30177]or Iy(30177,13844,50509),yf[5]..lq(hu(nv(go,(yf[3]-76)+1),nv(yr,(yf[3]-76)%#yr+1)))end end end)('\144\221\157\215','\242\165')],FG[(function(vy,Tj)local Wy,Ds,rC,Db;Db={};Wy,rC=function(YA,Qn,do_)rC[do_]=Mz(Qn,9920)-Mz(YA,31827)return rC[do_]end,{};Ds=rC[19472]or Wy(39980,72282,19472)repeat if Ds>=38969 then if Ds>49697 then Db[1],Ds=Db[1]..lq(hu(nv(vy,(Db[2]-214)+1),nv(Tj,(Db[2]-214)%#Tj+1))),rC[9738]or Wy(19985,31015,9738)elseif Ds<=38969 then return Db[1]else if(Db[3]>=0 and Db[4]>Db[5])or((Db[3]<0 or Db[3]~=Db[3])and Db[4]<Db[5])then Ds=38969 else Ds=rC[-8176]or Wy(13622,80842,-8176)end end elseif Ds>=23579 then if Ds>23579 then Db[2]=Db[4]if Db[5]~=Db[5]then Ds=38969 else Ds=49697 end else Db[1]='';Ds,Db[5],Db[3],Db[4]=rC[-6733]or Wy(31671,45713,-6733),(#vy-1)+214,1,214 end else Db[4]=Db[4]+Db[3];Db[2]=Db[4]if Db[4]~=Db[4]then Ds=38969 else Ds=49697 end end until Ds==14830 end)('\253]\235\a\173','\159\52')][(function(le,Zt)local Ox,Jo,cl,lv;lv={};Jo,cl=function(Pg,Bx,UC)cl[Pg]=Mz(UC,63046)-Mz(Bx,24677)return cl[Pg]end,{};Ox=cl[-15124]or Jo(-15124,9383,35216)repeat if Ox>=31665 then if Ox<=34648 then if Ox>31665 then lv[1]=lv[1]+lv[2];lv[3]=lv[1]if lv[1]~=lv[1]then Ox=50693 else Ox=31665 end else if(lv[2]>=0 and lv[1]>lv[4])or((lv[2]<0 or lv[2]~=lv[2])and lv[1]<lv[4])then Ox=cl[-28711]or Jo(-28711,35450,83554)else Ox=15127 end end else return lv[5]end elseif Ox>=15124 then if Ox>15124 then lv[5],Ox=lv[5]..lq(hu(nv(le,(lv[3]-49)+1),nv(Zt,(lv[3]-49)%#Zt+1))),cl[15237]or Jo(15237,20364,16647)else lv[5]='';lv[2],Ox,lv[1],lv[4]=1,10695,49,(#le-1)+49 end else lv[3]=lv[1]if lv[4]~=lv[4]then Ox=cl[1593]or Jo(1593,49261,102475)else Ox=31665 end end until Ox==19376 end)('~Yr\\','\28\56')],FG[(function(Al,QE)local lC,Il,wm,iq;wm={};iq,lC=function(VC,Jn,sv)lC[Jn]=Mz(VC,23233)-Mz(sv,42374)return lC[Jn]end,{};Il=lC[-13153]or iq(27251,-13153,42349)repeat if Il<17798 then if Il>=13613 then if Il>13613 then if(wm[1]>=0 and wm[2]>wm[3])or((wm[1]<0 or wm[1]~=wm[1])and wm[2]<wm[3])then Il=42132 else Il=17798 end else wm[4]=wm[2]if wm[3]~=wm[3]then Il=lC[957]or iq(93223,957,14292)else Il=17559 end end else wm[5]='';Il,wm[2],wm[3],wm[1]=lC[5812]or iq(25820,5812,44406),101,(#Al-1)+101,1 end elseif Il>30558 then return wm[5]elseif Il<=17798 then Il,wm[5]=lC[10434]or iq(55428,10434,44897),wm[5]..lq(hu(nv(Al,(wm[4]-101)+1),nv(QE,(wm[4]-101)%#QE+1)))else wm[2]=wm[2]+wm[1];wm[4]=wm[2]if wm[2]~=wm[2]then Il=lC[15302]or iq(59935,15302,43468)else Il=lC[-30033]or iq(34987,-30033,10325)end end until Il==13808 end)("\'d1>w",'E\r')][(function(fi,qA)local Ux,Gd,pt,Xy;pt={};Ux,Xy={},function(Np,hf,op)Ux[Np]=Mz(hf,47526)-Mz(op,50142)return Ux[Np]end;Gd=Ux[18655]or Xy(18655,2104,41510)while Gd~=62020 do if Gd>=35399 then if Gd<61648 then if(pt[1]>=0 and pt[2]>pt[3])or((pt[1]<0 or pt[1]~=pt[1])and pt[2]<pt[3])then Gd=Ux[-6235]or Xy(-6235,119190,45260)else Gd=Ux[22618]or Xy(22618,25827,5999)end elseif Gd<=61648 then pt[4]=pt[2]if pt[3]~=pt[3]then Gd=Ux[23580]or Xy(23580,130177,37847)else Gd=35399 end else return pt[5]end elseif Gd>10216 then pt[5]='';Gd,pt[2],pt[1],pt[3]=Ux[-27124]or Xy(-27124,78158,23494),211,1,(#fi-1)+211 elseif Gd<=2196 then pt[5],Gd=pt[5]..lq(hu(nv(fi,(pt[4]-211)+1),nv(qA,(pt[4]-211)%#qA+1))),Ux[14333]or Xy(14333,21990,1926)else pt[2]=pt[2]+pt[1];pt[4]=pt[2]if pt[2]~=pt[2]then Gd=Ux[-19821]or Xy(-19821,73898,24624)else Gd=35399 end end end end)(',\194+\197:','N\182')],FG[(function(ds,jt)local Bl,ZC,Fl,Pu;Pu={};ZC,Bl=function(Mx,Yk,Kc)Bl[Yk]=Mz(Kc,21707)-Mz(Mx,16526)return Bl[Yk]end,{};Fl=Bl[-12588]or ZC(7777,-12588,53733)while Fl~=46307 do if Fl>16331 then if Fl<=40405 then return Pu[1]else Pu[2]=Pu[3]if Pu[4]~=Pu[4]then Fl=40405 else Fl=16331 end end elseif Fl<14933 then if Fl<=1593 then Pu[3]=Pu[3]+Pu[5];Pu[2]=Pu[3]if Pu[3]~=Pu[3]then Fl=Bl[-24899]or ZC(49294,-24899,84254)else Fl=Bl[-18557]or ZC(32550,-18557,11192)end else Pu[1]='';Pu[3],Pu[4],Pu[5],Fl=69,(#ds-1)+69,1,Bl[10019]or ZC(42400,10019,130020)end elseif Fl<=14933 then Pu[1],Fl=Pu[1]..lq(hu(nv(ds,(Pu[2]-69)+1),nv(jt,(Pu[2]-69)%#jt+1))),Bl[5174]or ZC(1205,5174,7871)else if(Pu[5]>=0 and Pu[3]>Pu[4])or((Pu[5]<0 or Pu[5]~=Pu[5])and Pu[3]<Pu[4])then Fl=40405 else Fl=14933 end end end end)('\223;\201a\143','\189R')][(function(eh,Fv)local xv,Fs,yk,lG;Fs={};xv,yk={},function(nz,Gm,gk)xv[gk]=Mz(nz,36104)-Mz(Gm,16751)return xv[gk]end;lG=xv[30187]or yk(129263,53452,30187)while lG~=20981 do if lG<32337 then if lG>=20452 then if lG>20452 then Fs[1]=Fs[2]if Fs[3]~=Fs[3]then lG=20452 else lG=xv[16051]or yk(24678,64131,16051)end else return Fs[4]end else if(Fs[5]>=0 and Fs[2]>Fs[3])or((Fs[5]<0 or Fs[5]~=Fs[5])and Fs[2]<Fs[3])then lG=xv[32515]or yk(25358,57165,32515)else lG=44108 end end elseif lG<=44108 then if lG<=32337 then Fs[2]=Fs[2]+Fs[5];Fs[1]=Fs[2]if Fs[2]~=Fs[2]then lG=20452 else lG=xv[15567]or yk(19530,52911,15567)end else lG,Fs[4]=xv[28145]or yk(113950,61610,28145),Fs[4]..lq(hu(nv(eh,(Fs[1]-142)+1),nv(Fv,(Fs[1]-142)%#Fv+1)))end else Fs[4]='';Fs[2],Fs[5],lG,Fs[3]=142,1,xv[3472]or yk(114349,36139,3472),(#eh-1)+142 end end end)('\221\240\160\198\229\188','\175\131\200')],FG[(function(MF,Hv)local Fx,Pa,wz,jg;Pa={};wz,Fx={},function(AA,iu,Ru)wz[Ru]=Mz(iu,52359)-Mz(AA,23373)return wz[Ru]end;jg=wz[-25196]or Fx(43924,113910,-25196)while jg~=32351 do if jg>32664 then if jg<=53080 then Pa[1],jg=Pa[1]..lq(hu(nv(MF,(Pa[2]-165)+1),nv(Hv,(Pa[2]-165)%#Hv+1))),wz[-6590]or Fx(14511,43389,-6590)else Pa[2]=Pa[3]if Pa[4]~=Pa[4]then jg=6397 else jg=20121 end end elseif jg>20121 then Pa[1]='';jg,Pa[5],Pa[4],Pa[3]=wz[31150]or Fx(5796,101682,31150),1,(#MF-1)+165,165 elseif jg>6397 then if(Pa[5]>=0 and Pa[3]>Pa[4])or((Pa[5]<0 or Pa[5]~=Pa[5])and Pa[3]<Pa[4])then jg=wz[-4932]or Fx(36662,8703,-4932)else jg=53080 end elseif jg>536 then return Pa[1]else Pa[3]=Pa[3]+Pa[5];Pa[2]=Pa[3]if Pa[3]~=Pa[3]then jg=wz[25480]or Fx(44971,115044,25480)else jg=20121 end end end end)('\181\53\163o\229','\215\\')][(function(yC,p)local ix,qf,Wf,MA;MA={};ix,qf={},function(lh,vF,Nh)ix[Nh]=Mz(lh,41843)-Mz(vF,27749)return ix[Nh]end;Wf=ix[-17998]or qf(32360,18896,-17998)repeat if Wf>=60434 then if Wf>=60597 then if Wf<=60597 then MA[1]=MA[1]+MA[2];MA[3]=MA[1]if MA[1]~=MA[1]then Wf=ix[31467]or qf(16564,25983,31467)else Wf=ix[10637]or qf(2087,10493,10637)end else Wf,MA[4]=ix[-699]or qf(106964,31127,-699),MA[4]..lq(hu(nv(yC,(MA[3]-181)+1),nv(p,(MA[3]-181)%#p+1)))end else MA[3]=MA[1]if MA[5]~=MA[5]then Wf=ix[25240]or qf(18634,32105,25240)else Wf=ix[11912]or qf(131,20817,11912)end end elseif Wf>=46950 then if Wf<=46950 then MA[4]='';MA[5],Wf,MA[2],MA[1]=(#yC-1)+181,ix[22898]or qf(108680,29580,22898),1,181 else return MA[4]end else if(MA[2]>=0 and MA[1]>MA[5])or((MA[2]<0 or MA[2]~=MA[2])and MA[1]<MA[5])then Wf=55981 else Wf=63686 end end until Wf==41761 end)("[\178\'^\167;",'7\193O')],FG[(function(gh,Eo)local Le,se_,ri,eG;se_={};ri,eG={},function(Mp,_m,Wn)ri[Wn]=Mz(_m,52324)-Mz(Mp,43483)return ri[Wn]end;Le=ri[-26837]or eG(59697,123360,-26837)while Le~=44829 do if Le<51846 then if Le<35671 then se_[1]=se_[1]+se_[2];se_[3]=se_[1]if se_[1]~=se_[1]then Le=35671 else Le=ri[-10122]or eG(43893,11141,-10122)end elseif Le>35671 then se_[4],Le=se_[4]..lq(hu(nv(gh,(se_[3]-131)+1),nv(Eo,(se_[3]-131)%#Eo+1))),ri[-2711]or eG(3270,126733,-2711)else return se_[4]end elseif Le>=58675 then if Le>58675 then se_[4]='';se_[2],Le,se_[5],se_[1]=1,51846,(#gh-1)+131,131 else if(se_[2]>=0 and se_[1]>se_[5])or((se_[2]<0 or se_[2]~=se_[2])and se_[1]<se_[5])then Le=ri[3365]or eG(40841,3533,3365)else Le=50043 end end else se_[3]=se_[1]if se_[5]~=se_[5]then Le=35671 else Le=58675 end end end end)('%\253\51\167u','G\148')][(function(KE,tc)local Pb,on,o_,oq;Pb={};o_,oq={},function(Kg,Oj,zG)o_[Kg]=Mz(zG,51361)-Mz(Oj,11677)return o_[Kg]end;on=o_[20735]or oq(20735,62365,85646)repeat if on>=35671 then if on>43055 then on,Pb[1]=o_[17484]or oq(17484,31443,47665),Pb[1]..lq(hu(nv(KE,(Pb[2]-48)+1),nv(tc,(Pb[2]-48)%#tc+1)))elseif on<=35671 then if(Pb[3]>=0 and Pb[4]>Pb[5])or((Pb[3]<0 or Pb[3]~=Pb[3])and Pb[4]<Pb[5])then on=18554 else on=o_[21565]or oq(21565,59977,93712)end else Pb[1]='';Pb[3],on,Pb[5],Pb[4]=1,26892,(#KE-1)+48,48 end elseif on<18554 then Pb[4]=Pb[4]+Pb[3];Pb[2]=Pb[4]if Pb[4]~=Pb[4]then on=o_[32663]or oq(32663,55603,128393)else on=35671 end elseif on>18554 then Pb[2]=Pb[4]if Pb[5]~=Pb[5]then on=o_[1350]or oq(1350,7831,45861)else on=o_[-26422]or oq(-26422,15588,21617)end else return Pb[1]end until on==42988 end)('\15\170\149\24\179\130\30','j\210\225')],{[13.727697961911126*2993]={},[31302+-11412]={},[5726+-128]={{0.00020017348368586108*14987,-6933+6943,true},{30846+-30838,144160/14416,false},{29552-29550,-81292/-20323,true},{-0.00031503150315031505*-22220,18840-18833,false},{-225+228,69276/17319,false},{13271-13264,0.00010164667615368977*9838,false},{55360/6920,-0.00041067761806981519*-9740,false},{27131+-27128,26160+-26153,false},{-9985- -9987,-21005/-21005,false},{3338-3335,-189370/-18937,false},{-16338/-2334,-21850/-2185,false},{-22805- -22813,69576/17394,false},{30360/7590,-30515/-6103,true},{-11984+11988,4528-4521,true},{-11508- -11512,-21937- -21938,true},{13332-13324,-0.00021198791668874874*-18869,false},{4252+-4249,-91796/-22949,false},{-46224/-5778,0.00021138967572823742*23653,false},{25221+-25217,3.4849276877504794e-05*28695,false},{-33700/-16850,0,false},{-2494- -2502,0.0021496130696474634*4652,false},{-0.00010842459069717012*-9223,-88697/-12671,false},{0.00026946914578280785*29688,10348+-10344,true},{-24751- -24759,-8.9126559714795006e-05*-11220,false},{54543/18181,-325730/-32573,true},{24962-24959,170928/28488,true},{-0.00027327382036800875*-10978,7031-7030,true},{23283-23276,0,false},{6.4209580069346352e-05*15574,0.00020261371694863743*9871,true},{0.0011350737797956867*7048,-0.00023228803716608595*-17220,false},{-13723- -13724,-0.00011103708638685321*-9006,true},{0.00094428706326723328*8472,-5912/-1478,false},{-0.00011041183614883516*-27171,-1264- -1268,true},{-71841/-10263,-11304- -11305,true},{-19772+19780,-27922+27928,true},{3415-3412,-0.00020450734181357111*-24449,false},{-0.00018648598247031765*-16087,17750-17740,true},{13815-13811,28872-28871,true},{14781-14778,0,true},{171038/24434,12349+-12342,true},{16075-16067,12104+-12103,false},{-0.00064246707356247997*-3113,52848/13212,false},{-17901+17908,0.00022582102071101362*30998,true},{-0.00014062719729995781*-28444,-2911+2915,false},{-7494/-3747,0,false},{-233552/-29194,-31192+31196,false},{-211120/-26390,-29349+29351,false},{-7210+7217,3341-3340,false},{-29646+29654,-115680/-28920,false},{-1096- -1099,27219+-27212,false},{56504/14126,0,false},{-15925+15929,-21265- -21266,false},{16686+-16684,2101-2094,false},{-10787+10789,10311+-10307,false},{14105+-14102,-11605- -11615,true},{18292-18289,-10726/-5363,false},{-5337- -5345,-15258- -15262,false},{26069-26067,-0.00012214983713355049*-24560,true},{-34216/-4277,-72668/-18167,false},{-1669+1677,13302+-13299,true},{28454-28447,-0.0002666933360002667*-29997,false},{-7867+7868,0.00030785469258509982*22738,false},{0.0091012514220705342*879,3.773157755725767e-05*26503,false},{13992-13989,-5770+5774,false},{-20132- -20140,4.8386316349736297e-05*20667,false},{-0.00040551500405515005*-17262,0.00016923337282112033*29545,false},{0.00037603409375783404*7978,-10967- -10974,false},{-4317- -4320,0.00019082148649937983*20962,false},{16698-16697,-0.002181500872600349*-2292,false},{8574/2858,2204+-2200,false},{70578/23526,-15984/-5328,false},{-102880/-25720,26788-26781,false},{-0.00045850527281063731*-15267,-0.00023784040908550363*-16818,true},{-13494+13501,-47640/-4764,true},{-1855+1859,-37200/-3720,true},{-4993+5000,0.00020475858962283467*24419,false},{-51024/-17008,-176820/-29470,true},{-196136/-24517,-23300- -23301,false},{0.00021519259737465033*9294,9589+-9588,false},{0.00027297898061849239*25643,-22882+22889,true},{24022+-24014,9412/4706,false},{-9343- -9350,-15015+15021,false},{-10618+10626,-66156/-16539,false},{-20311+20314,-87144/-21786,false},{-24520- -24523,0,true},{-5481/-5481,10409+-10408,false},{-8635- -8638,-0.00023584905660377359*-21200,false},{-0.00011036309458117205*-18122,-17040/-17040,true},{41168/5146,16181-16177,false},{-37328/-4666,0.00023114706732158335*17305,false},{0.0003130747857394435*25553,-4421- -4424,true},{14810/14810,-0.00019939384271813686*-25076,false},{1816+-1812,-29615+29616,true},{-0.00076643035064188545*-10438,-136980/-15220,false},{24182-24174,22746/7582,true},{81288/10161,23049+-23045,true},{29134/14567,-6293/-6293,false},{-25118- -25125,0.001238390092879257*4845,false},{7.9336744813360307e-05*25209,0,false},{-17782+17784,-0.00093023255813953494*-7525,true},{-193992/-24249,-14646- -14650,false},{28911+-28907,-0.00016297793278790052*-30679,false},{-214893/-30699,27685+-27682,false},{0.0015611061552185548*4484,2587-2581,true},{-7059+7067,-0.00023427433524657375*-17074,true},{25889-25882,-3211+3218,true},{-22925+22926,1910/382,true},{-24191+24195,239370/23937,false},{30685-30683,-88026/-29342,false},{-80472/-26824,0,false},{12403+-12402,0,false},{0.0029455081001472753*2716,-21352+21356,false},{-28303+28304,0,false},{-55065/-18355,5889-5885,false},{0.00024945950440711791*12026,-0.0010980564401010212*-9107,true},{0.00017182130584192441*23280,-7813+7820,true},{-22779- -22781,15723-15722,true},{78096/26032,0,false},{-13759+13767,0.0015460729746444033*6468,false},{-13943- -13951,-18381- -18385,false},{-69800/-8725,73180/14636,true},{13927-13924,98108/24527,false},{223016/27877,5723+-5719,false},{-12117- -12118,0,true},{233832/29229,4349/4349,false},{166736/20842,0,false},{-2916/-1458,-8389+8390,false},{-11588- -11591,-31700/-7925,true},{6922-6920,-15849+15852,false},{2141-2133,0.0006999370056694897*14287,false},{-0.00016734534501031963*-17927,10366-10356,true},{23583+-23582,-31594- -31596,false},{188440/26920,30453+-30447,false},{-69369/-23123,35312/8828,false},{835+-833,-9998+10005,false},{-11356- -11359,-29035+29042,true},{5093+-5092,0.00068022583497721239*14701,true},{12052+-12045,17307/17307,true},{-0.00029822926374650511*-26825,-14195/-14195,false},{19561+-19560,0.00030173194134331061*16571,false},{173523/24789,-27476- -27479,true},{-44256/-14752,104396/26099,true},{-3882+3885,2480-2475,false},{32484+-32481,-74994/-24998,true},{-26310- -26318,7.0064809949203015e-05*28545,false},{32033-32025,106605/21321,false},{-15934+15938,0.00016375992794563171*24426,true},{1108/1108,0,false},{47949/15983,-11821- -11827,true},{177919/25417,-18720- -18727,true},{-2263+2270,24544+-24539,false},{-0.00040851759178879641*-19583,-12660+12664,false},{29713-29710,-18486+18489,true},{-1287- -1291,11208+-11202,true},{-25337+25339,0.00058258083309059127*17165,true},{217889/31127,-0.00037634071379288717*-15943,true},{874+-866,0.0002244165170556553*13368,true},{-32654+32661,0,true},{-7257- -7258,5052-5047,true},{1079+-1072,0.00047930979389678862*12518,true},{-100680/-25170,-165- -169,false},{-68344/-8543,0,true},{-69288/-17322,-30614- -30621,false},{12174+-12166,-7164+7166,false},{-45904/-5738,-14911- -14918,true},{642+-634,-87080/-21770,false},{84000/28000,-174030/-17403,true},{-29447- -29455,22695+-22685,true},{-97587/-32529,78855/26285,true},{0.00053183406777085546*13162,26192-26187,false},{-15600+15603,0.00029585798816568048*10140,false},{31571-31568,15034+-15029,true},{0.0017031630170316302*4110,-0.00079744816586921851*-12540,false},{30369/10123,5169-5166,true},{2385+-2378,32323+-32319,false},{-49752/-16584,14965+-14961,true},{153376/19172,14430+-14426,false},{-0.00020594140966894919*-19423,0,true},{-45528/-15176,-9029+9033,false},{-3796/-3796,0.0035310734463276836*2832,true},{-0.0011792452830188679*-5936,2047+-2045,false},{94785/31595,-92220/-23055,true},{-68235/-22745,919-915,false},{12434-12426,82850/16570,true},{-0.0082901554404145074*-965,6092+-6088,false},{-5766- -5774,6371+-6365,true},{-3.5578325683993314e-05*-28107,12081+-12079,false},{-10283+10291,29160+-29151,false},{-60024/-30012,-16652+16656,false},{-23417- -23425,-7088/-1772,false},{0.00017573662937144866*17071,-4548/-1137,false},{-26039- -26042,0.00071123755334281653*8436,false},{11410-11403,24442-24441,true},{0.0001862081807460741*16111,-3080+3087,false},{0.0041444641799881585*1689,21050+-21045,true},{-124904/-15613,-22092+22095,false},{-37072/-4634,-26812- -26816,false},{48966/16322,-0.00032488628979857048*-12312,true},{-656- -663,-6225+6235,true},{-80512/-10064,100516/25129,true},{17827+-17819,-30763- -30768,true},{-9.1357573542846706e-05*-21892,-23851- -23861,true},{-23330- -23338,-80688/-20172,false},{-21241- -21244,-24926+24932,true},{-1272/-159,-7.1311416957854957e-05*-28046,true},{67564/16891,-11625+11628,false},{6534-6530,-0.00010081661457808247*-9919,false},{-17011+17015,73614/24538,false},{0.00024505299270967347*32646,0.00010269049086054631*29214,true},{18482+-18475,32273-32269,false},{7.7945360302428003e-05*25659,-152310/-25385,false},{-165800/-20725,14952-14948,false},{-66+73,-0.00031883688305063128*-31364,true},{21184-21182,8282+-8275,true},{-38898/-12966,16934+-16930,true},{-0.00031523366695563086*-25378,-10823+10829,true},{-8800- -8808,-0.00011496014714898834*-26096,true},{0.00022836263987211693*4379,-10771+10775,true},{-557+565,-2512+2516,false},{-633/-633,29555-29551,false},{15597/5199,23224+-23220,false},{5254-5247,-97643/-13949,true},{-23285- -23292,-901- -907,false},{-2048+2051,-116288/-29072,true},{-6839+6843,27930+-27920,false},{-87042/-29014,0.00014188422247446084*28192,false},{-111368/-13921,-0.00064808813998703824*-6172,false},{-21992/-10996,0.00020772746157041961*24070,true},{-2840- -2841,-9.7971980013716081e-05*-10207,true},{-28218- -28225,-31759+31763,false},{13860+-13859,0,false},{0.00033786637384914265*23678,10783-10779,false},{22081-22073,9504+-9501,true},{83972/20993,-29040/-9680,true},{-13331- -13334,-17350- -17354,true},{109368/15624,-0.00016013664994128323*-18734,true},{2772+-2764,-17870- -17874,false},{-6057- -6058,0,false},{-4.8430840759395585e-05*-20648,259200/25920,false},{-25722+25724,0.00050999592003263977*9804,true},{7089+-7086,-0.00057509037134406834*-12172,false},{-0.00037247415960517741*-21478,0,false},{-17520+17528,-31403+31407,false},{0.00092539039907460962*8645,7634-7633,false},{0.00024459595805179318*32707,-0.00022529626458793313*-22193,false},{32759-32751,-0.00026423569824283262*-15138,false},{56452/14113,19932+-19930,true},{-12915+12923,-16203+16207,false},{1712-1709,67904/16976,false},{-24298- -24301,0.0003707823507601038*13485,true},{-118368/-29592,-0.0042337002540220152*-2362,true},{-380- -384,-14458+14462,true},{2282-2274,-28008- -28012,false},{-16685+16693,-31158+31161,true},{-57134/-8162,8942+-8938,true},{13833-13826,0,true}}}local Dd=(function(lE)local CG=Ig[41087][lE]if(CG)then return CG end local Zq=1 local function ig()local EG,Ca,Jz,Zm,FB,az,AB,Fi,Rg,El,ym,_s,gp,Cu,Wc,kw,VD,Qf,Rk,gt,gz,u_,Lz,Is,ir,Rt,Uc,EC,Pr,xz,Ly,Oe;Rg,Is=function(sx,dx,Oh)Is[Oh]=Mz(dx,51412)-Mz(sx,56773)return Is[Oh]end,{};Fi=Is[29736]or Rg(2953,12361,29736)while Fi~=54767 do if Fi<32456 then if Fi<=15832 then if Fi<7725 then if Fi>=3576 then if Fi>=5041 then if Fi<=5794 then if Fi<=5135 then if Fi<=5041 then Pr[5352],Fi=gt[Pr[27869]+1],Is[-27678]or Rg(57355,19234,-27678)else xz=xz+Jz;gz=xz if xz~=xz then Fi=17359 else Fi=Is[-831]or Rg(50668,40806,-831)end end else Qf=0;Fi,Ly,Rt,FB=19569,1,57,53 end else Fi,kw,ym,EC=57420,1,(Qf)+205,206 end elseif Fi<4723 then if Fi>3576 then if(kw>=0 and EC>ym)or((kw<0 or kw~=kw)and EC<ym)then Fi=Is[6339]or Rg(24182,125563,6339)else Fi=56151 end else Zm,Fi=Ko(Qf,2087664593),955 continue end elseif Fi<=4723 then FB=FB+Ly;_s=FB if FB~=FB then Fi=Is[32479]or Rg(36625,43032,32479)else Fi=43989 end else Ca=kj((function(ht,uG)local sl,vl,_v,va;va={};_v,vl={},function(aD,sa,oe)_v[oe]=Mz(aD,47030)-Mz(sa,34119)return _v[oe]end;sl=_v[18564]or vl(75648,18494,18564)while sl~=54421 do if sl>43151 then if sl<=49853 then va[1]='';va[2],sl,va[3],va[4]=(#ht-1)+98,_v[-7210]or vl(20630,33493,-7210),98,1 else va[5]=va[3]if va[2]~=va[2]then sl=12179 else sl=23923 end end elseif sl>27569 then va[3]=va[3]+va[4];va[5]=va[3]if va[3]~=va[3]then sl=_v[27018]or vl(11969,60579,27018)else sl=23923 end elseif sl<23923 then return va[1]elseif sl>23923 then va[1],sl=va[1]..lq(hu(nv(ht,(va[5]-98)+1),nv(uG,(va[5]-98)%#uG+1))),_v[11765]or vl(102084,5540,11765)else if(va[4]>=0 and va[3]>va[2])or((va[4]<0 or va[4]~=va[4])and va[3]<va[2])then sl=12179 else sl=_v[-25376]or vl(4978,48212,-25376)end end end end)('\ar\15',';'),lE,Zq);Fi,Zq=32467,Zq+4 end elseif Fi>2253 then if Fi>3404 then Uc=gz;ym=Iq(ym,kn(_D(Uc,127),(Jz-125)*7))if(not Ov(Uc,128))then Fi=Is[19013]or Rg(8521,117652,19013)continue else Fi=Is[-20080]or Rg(23215,84426,-20080)continue end Fi=Is[-22787]or Rg(59844,124257,-22787)elseif Fi<=3317 then if(gt>=0 and Ly>_s)or((gt<0 or gt~=gt)and Ly<_s)then Fi=21065 else Fi=Is[17099]or Rg(903,117975,17099)end else if(kw>=0 and EC>ym)or((kw<0 or kw~=kw)and EC<ym)then Fi=Is[26180]or Rg(53114,58285,26180)else Fi=Is[-8764]or Rg(34515,46955,-8764)end end elseif Fi>1716 then Rt,Fi=false,Is[25835]or Rg(19371,111902,25835)elseif Fi>1458 then Fi=Is[-22785]or Rg(21771,99123,-22785)continue elseif Fi<=955 then Qf=Zm;FB,Rt=Bs(Qf),false;gt,Fi,_s,Ly=1,Is[-6439]or Rg(32501,125228,-6439),(Qf)+36,37 else Fi,Rk,Zm=Is[-196]or Rg(54473,55162,-196),Oe,nil end elseif Fi>12282 then if Fi<=14206 then if Fi<=13705 then if Fi>12610 then Cu=kj((function(fy,lb)local Dn,pu,Ty,me;pu={};Dn,Ty={},function(ke,NF,bi)Dn[NF]=Mz(bi,7613)-Mz(ke,37724)return Dn[NF]end;me=Dn[4625]or Ty(39511,4625,29084)while me~=33183 do if me<=37578 then if me>=25366 then if me<=25366 then pu[1]='';me,pu[2],pu[3],pu[4]=Dn[-20851]or Ty(53740,-20851,21321),244,1,(#fy-1)+244 else if(pu[3]>=0 and pu[2]>pu[4])or((pu[3]<0 or pu[3]~=pu[3])and pu[2]<pu[4])then me=Dn[6437]or Ty(31392,6437,113486)else me=5153 end end elseif me>3140 then pu[1],me=pu[1]..lq(hu(nv(fy,(pu[5]-244)+1),nv(lb,(pu[5]-244)%#lb+1))),Dn[11958]or Ty(35372,11958,62252)else pu[5]=pu[2]if pu[4]~=pu[4]then me=48375 else me=Dn[-28702]or Ty(35735,-28702,46632)end end elseif me<=48375 then return pu[1]else pu[2]=pu[2]+pu[3];pu[5]=pu[2]if pu[2]~=pu[2]then me=48375 else me=37578 end end end end)('\225','\163'),lE,Zq);Zq,Fi=Zq+1,Is[-6098]or Rg(60296,32609,-6098)elseif Fi>12577 then Fi,VD=Is[12506]or Rg(61044,29721,12506),Ca continue else VD=VD+gp;El=VD if VD~=VD then Fi=Is[27679]or Rg(10169,66605,27679)else Fi=40495 end end else u_=kj((function(xA,sq)local jn,no_,Dj,ZG;jn={};no_,Dj={},function(bE,zg,XC)no_[zg]=Mz(XC,41470)-Mz(bE,47598)return no_[zg]end;ZG=no_[4296]or Dj(9206,4296,6991)repeat if ZG<44846 then if ZG<=8345 then if ZG>6922 then jn[1]='';ZG,jn[2],jn[3],jn[4]=no_[18475]or Dj(25129,18475,76555),1,(#xA-1)+19,19 else if(jn[2]>=0 and jn[4]>jn[3])or((jn[2]<0 or jn[2]~=jn[2])and jn[4]<jn[3])then ZG=63089 else ZG=52214 end end else jn[4]=jn[4]+jn[2];jn[5]=jn[4]if jn[4]~=jn[4]then ZG=63089 else ZG=no_[-24892]or Dj(34221,-24892,63155)end end elseif ZG>=52214 then if ZG>52214 then return jn[1]else ZG,jn[1]=no_[9405]or Dj(37979,9405,64769),jn[1]..lq(hu(nv(xA,(jn[5]-19)+1),nv(sq,(jn[5]-19)%#sq+1)))end else jn[5]=jn[4]if jn[3]~=jn[3]then ZG=63089 else ZG=6922 end end until ZG==27148 end)('&','d'),lE,Zq);Zq,Fi=Zq+1,Is[-4244]or Rg(47707,14443,-4244)end elseif Fi>14897 then Fi,gz=Is[21654]or Rg(33539,42077,21654),Ko(Uc,31)continue elseif Fi<=14550 then Uc,Fi=nil,Is[16241]or Rg(40159,2196,16241)else AB=Wc if AB==0 then Fi=Is[-1565]or Rg(36055,129412,-1565)continue else Fi=Is[11095]or Rg(17640,123091,11095)continue end Fi=Is[-31589]or Rg(20297,15226,-31589)end elseif Fi<=9665 then if Fi<9193 then if Fi<=7725 then Fi=Is[9188]or Rg(3548,99249,9188)continue else Fi,EG=14206,nil end elseif Fi>=9385 then if Fi>9385 then if(Rt)then Fi=Is[21056]or Rg(43780,46938,21056)continue else Fi=Is[-22232]or Rg(23112,100827,-22232)continue end Fi=Is[27417]or Rg(60728,118925,27417)else Pr,Fi=nil,19336 end else _s=0;Fi,ym,EC,gt=61275,1,175,171 end elseif Fi<11576 then if Fi<=10004 then Pr[5352]=gt[BG(Pr[4688],0,24)+1];Fi,Pr[40596]=Is[14614]or Rg(46199,26382,14614),BG(Pr[4688],31,1)==1 else Pr[5352],Fi=gt[Pr[9228]+1],Is[8503]or Rg(61598,47959,8503)end elseif Fi>11576 then AB,VD=_D(Ek(gz,10),1023),_D(Ek(gz,0),1023);Pr[58863]=gt[AB+1];Fi,Pr[11475]=Is[-6462]or Rg(46607,31014,-6462),gt[VD+1]else Fi,Pr[5352]=Is[-26788]or Rg(55664,33289,-26788),gt[Pr[21783]+1]end elseif Fi>24091 then if Fi>=28558 then if Fi>=29700 then if Fi>=31325 then if Fi<=31325 then AB=0;VD,gp,Ca,Fi=223,1,227,24672 else Ly,Fi=Ko(_s,2087664593),Is[-31908]or Rg(18365,113122,-31908)continue end elseif Fi>29700 then VD,Fi=nil,Is[-12990]or Rg(19075,25126,-12990)else ym=0;Fi,Pr,kw,xz=56001,1,125,129 end elseif Fi>28824 then Uc,Fi=dt(nil),24866 elseif Fi<=28558 then Fi,gz=Is[32316]or Rg(6636,105206,32316),Qc(Uc[1],1,Uc[2])else gt,Fi=Ko(EC,31),Is[-85]or Rg(64935,1374,-85)continue end elseif Fi>24866 then if Fi>26860 then gz,Fi=nil,37375 elseif Fi<=25040 then Lz=kj((function(wd,kx)local HB,yu,np,Lf;Lf={};yu,HB={},function(Du,Za,Ah)yu[Ah]=Mz(Du,35010)-Mz(Za,19280)return yu[Ah]end;np=yu[1206]or HB(13069,19677,1206)while np~=27517 do if np>19800 then if np<=46146 then Lf[1]='';Lf[2],np,Lf[3],Lf[4]=(#wd-1)+37,1496,1,37 else Lf[4]=Lf[4]+Lf[3];Lf[5]=Lf[4]if Lf[4]~=Lf[4]then np=yu[-20869]or HB(55820,27007,-20869)else np=yu[23888]or HB(57154,16760,23888)end end elseif np<=17499 then if np<=12447 then if np>1496 then return Lf[1]else Lf[5]=Lf[4]if Lf[2]~=Lf[2]then np=yu[-24987]or HB(104027,42666,-24987)else np=19800 end end else np,Lf[1]=yu[14212]or HB(101381,27308,14212),Lf[1]..lq(hu(nv(wd,(Lf[5]-37)+1),nv(kx,(Lf[5]-37)%#kx+1)))end else if(Lf[3]>=0 and Lf[4]>Lf[2])or((Lf[3]<0 or Lf[3]~=Lf[3])and Lf[4]<Lf[2])then np=yu[-17448]or HB(26640,64355,-17448)else np=yu[-9266]or HB(105738,39485,-9266)end end end end)('\96','\"'),lE,Zq);Zq,Fi=Zq+1,Is[25263]or Rg(38495,24191,25263)else Fi,gt=65427,nil end elseif Fi<24760 then if Fi<=24293 then Fi,ym=51937,Wc continue else El=VD if Ca~=Ca then Fi=Is[-27860]or Rg(3802,93512,-27860)else Fi=40495 end end elseif Fi<=24760 then xz=EC if ym~=ym then Fi=6330 else Fi=3404 end else Fi,Wc=Is[27929]or Rg(16318,103436,27929),nil end elseif Fi<=19336 then if Fi<18672 then if Fi>=17824 then if Fi>17824 then EC=EC+kw;xz=EC if EC~=EC then Fi=40700 else Fi=4011 end else Pr[5352],Fi=BG(Pr[4688],0,16),Is[28828]or Rg(21081,7440,28828)end elseif Fi<=16265 then if(Jz>=0 and xz>Pr)or((Jz<0 or Jz~=Jz)and xz<Pr)then Fi=Is[1049]or Rg(62536,42376,1049)else Fi=23454 end else return{[63650]=FB,[7352]=Lz,[7126]=u_,[47513]=Rk,[1672]=kw,[62482]=''}end elseif Fi>19217 then Jz=kj((function(iw,Sk)local kh,iC,as,UD;kh={};as,UD=function(dv,SC,Wq)UD[dv]=Mz(SC,59637)-Mz(Wq,29736)return UD[dv]end,{};iC=UD[-18117]or as(-18117,119823,60672)repeat if iC<=41938 then if iC<28509 then if iC>3419 then return kh[1]else kh[2]=kh[2]+kh[3];kh[4]=kh[2]if kh[2]~=kh[2]then iC=4060 else iC=UD[-19913]or as(-19913,109420,40980)end end elseif iC<=28509 then if(kh[3]>=0 and kh[2]>kh[5])or((kh[3]<0 or kh[3]~=kh[3])and kh[2]<kh[5])then iC=UD[10268]or as(10268,24572,54021)else iC=UD[29328]or as(29328,82586,56248)end else kh[1]='';kh[3],kh[5],iC,kh[2]=1,(#iw-1)+8,UD[14424]or as(14424,111057,53770),8 end elseif iC<=45826 then kh[4]=kh[2]if kh[5]~=kh[5]then iC=UD[-25064]or as(-25064,37530,7867)else iC=UD[-713]or as(-713,40755,31809)end else iC,kh[1]=UD[22590]or as(22590,122971,36731),kh[1]..lq(hu(nv(iw,(kh[4]-8)+1),nv(Sk,(kh[4]-8)%#Sk+1)))end until iC==7135 end)('\202','\136'),lE,Zq);Fi,Zq=44196,Zq+1 elseif Fi>18959 then ir,Fi=Ko(Lz,31),Is[21247]or Rg(63970,25604,21247)continue elseif Fi>18672 then EC=EC+kw;xz=EC if EC~=EC then Fi=6330 else Fi=3404 end else Fi,xz=Is[31040]or Rg(28743,82862,31040),Ko(Pr,31)continue end elseif Fi>22294 then if Fi>23733 then Oe,Fi=Ko(Rk,31),1458 continue elseif Fi>23454 then gz=Pr[4688];Uc,Wc=Ek(gz,30),_D(Ek(gz,20),1023);Pr[5352]=gt[Wc+1];Pr[63299]=Uc if Uc==2 then Fi=Is[-21197]or Rg(60319,32397,-21197)continue elseif(Uc==3)then Fi=Is[9650]or Rg(37504,47083,9650)continue else Fi=Is[-30618]or Rg(45453,31396,-30618)continue end Fi=Is[19556]or Rg(45449,31392,19556)else kw[(gz-112)],Fi=ig(),Is[23713]or Rg(63490,61698,23713)end elseif Fi<21065 then if Fi<=19569 then _s=FB if Rt~=Rt then Fi=Is[23916]or Rg(9533,118308,23916)else Fi=Is[-2059]or Rg(7230,107780,-2059)end else gz,Fi=nil,Is[21182]or Rg(22267,119267,21182)end elseif Fi>21065 then VD,Ca=_D(Ek(xz,8),16777215),nil;Ca=if VD<8388608 then VD else VD-16777216;AB[9228],Fi=Ca,Is[-6894]or Rg(51163,6770,-6894)else Fi,Ly=Is[27126]or Rg(24262,28216,27126),nil end elseif Fi<=46584 then if Fi>=36570 then if Fi>=40700 then if Fi<=44196 then if Fi<43975 then if Fi<=40700 then EC,Fi=nil,Is[-21978]or Rg(17250,121471,-21978)else Jz=Pr if(Jz==3)then Fi=Is[12441]or Rg(30009,12413,12441)continue else Fi=Is[-27356]or Rg(26524,99311,-27356)continue end Fi=Is[9366]or Rg(24334,120848,9366)end elseif Fi<43989 then ym=EC;kw=Bs(ym);Pr,Jz,xz,Fi=(ym)+112,1,113,35205 elseif Fi>43989 then Fi,Pr=40940,Ko(Jz,31)continue else if(Ly>=0 and FB>Rt)or((Ly<0 or Ly~=Ly)and FB<Rt)then Fi=Is[1935]or Rg(50953,57360,1935)else Fi=26860 end end elseif Fi<=45954 then if Fi>44328 then if(ym>=0 and gt>EC)or((ym<0 or ym~=ym)and gt<EC)then Fi=Is[13847]or Rg(45894,8475,13847)else Fi=Is[-9006]or Rg(15005,97096,-9006)end else EC=gt;Qf=Iq(Qf,kn(_D(EC,127),(_s-53)*7))if not Ov(EC,128)then Fi=Is[-14638]or Rg(47733,102404,-14638)continue end Fi=Is[17516]or Rg(42342,17346,17516)end else Rk=kj((function(kH,Qu)local kg,et,Xh,fs;fs={};kg,Xh={},function(ln,pD,EF)kg[EF]=Mz(pD,49887)-Mz(ln,29809)return kg[EF]end;et=kg[24300]or Xh(27117,48748,24300)repeat if et<=35735 then if et<24343 then if et<=1125 then return fs[1]else if(fs[2]>=0 and fs[3]>fs[4])or((fs[2]<0 or fs[2]~=fs[2])and fs[3]<fs[4])then et=kg[28473]or Xh(37218,11175,28473)else et=kg[-9719]or Xh(25920,29085,-9719)end end elseif et<=24343 then fs[1]='';et,fs[2],fs[3],fs[4]=kg[21984]or Xh(55614,101165,21984),1,115,(#kH-1)+115 else fs[3]=fs[3]+fs[2];fs[5]=fs[3]if fs[3]~=fs[3]then et=kg[6239]or Xh(11707,40176,6239)else et=kg[28869]or Xh(13448,44013,28869)end end elseif et>40099 then et,fs[1]=kg[-7820]or Xh(10752,10455,-7820),fs[1]..lq(hu(nv(kH,(fs[5]-115)+1),nv(Qu,(fs[5]-115)%#Qu+1)))else fs[5]=fs[3]if fs[4]~=fs[4]then et=1125 else et=kg[-20646]or Xh(15713,45974,-20646)end end until et==59958 end)('$','f'),lE,Zq);Zq,Fi=Zq+1,24091 end elseif Fi<38705 then if Fi<=37375 then if Fi<=37090 then if Fi>36570 then if Jz==2 then Fi=Is[-17918]or Rg(32911,1763,-17918)continue elseif Jz==0 then Fi=Is[-19088]or Rg(56195,63432,-19088)continue end Fi=Is[26163]or Rg(61384,2258,26163)else VD,Fi=nil,39023 end else Uc=kj((function(b_,Ji)local oi,Pk,db,gC;Pk={};db,oi={},function(Bc,Ip,EE)db[Bc]=Mz(EE,8806)-Mz(Ip,16043)return db[Bc]end;gC=db[4459]or oi(4459,39387,97404)while gC~=39036 do if gC>31501 then if gC>32123 then Pk[1]='';Pk[2],Pk[3],Pk[4],gC=(#b_-1)+19,1,19,db[2905]or oi(2905,8462,47316)else return Pk[1]end elseif gC<=23793 then if gC>=10869 then if gC>10869 then gC,Pk[1]=db[14147]or oi(14147,50171,66293),Pk[1]..lq(hu(nv(b_,(Pk[5]-19)+1),nv(Ji,(Pk[5]-19)%#Ji+1)))else if(Pk[3]>=0 and Pk[4]>Pk[2])or((Pk[3]<0 or Pk[3]~=Pk[3])and Pk[4]<Pk[2])then gC=32123 else gC=23793 end end else Pk[4]=Pk[4]+Pk[3];Pk[5]=Pk[4]if Pk[4]~=Pk[4]then gC=db[-30042]or oi(-30042,48371,56757)else gC=10869 end end else Pk[5]=Pk[4]if Pk[2]~=Pk[2]then gC=db[-20659]or oi(-20659,16991,55305)else gC=db[-4657]or oi(-4657,43491,58331)end end end end)('\251','\185'),lE,Zq);Fi,Zq=15832,Zq+1 end else if(Jz==8)then Fi=Is[-6959]or Rg(9746,125980,-6959)continue else Fi=Is[-11698]or Rg(13500,70533,-11698)continue end Fi=Is[-29108]or Rg(63932,41589,-29108)end elseif Fi>40243 then if(gp>=0 and VD>Ca)or((gp<0 or gp~=gp)and VD<Ca)then Fi=Is[-30525]or Rg(52253,11393,-30525)else Fi=Is[-4076]or Rg(61844,123268,-4076)end elseif Fi>=39023 then if Fi<=39023 then Ca=kj((function(T,Kh)local dD,Qy,I,ao;I={};dD,ao={},function(Fz,Zi,Lx)dD[Fz]=Mz(Zi,15210)-Mz(Lx,27859)return dD[Fz]end;Qy=dD[23034]or ao(23034,48114,16055)repeat if Qy>=29199 then if Qy<=32397 then if Qy<=29199 then I[1]=I[2]if I[3]~=I[3]then Qy=dD[-13775]or ao(-13775,81115,42386)else Qy=56910 end else I[4],Qy=I[4]..lq(hu(nv(T,(I[1]-84)+1),nv(Kh,(I[1]-84)%#Kh+1))),dD[-19739]or ao(-19739,39484,60645)end else if(I[5]>=0 and I[2]>I[3])or((I[5]<0 or I[5]~=I[5])and I[2]<I[3])then Qy=15984 else Qy=32397 end end elseif Qy<11828 then I[2]=I[2]+I[5];I[1]=I[2]if I[2]~=I[2]then Qy=dD[18775]or ao(18775,48996,10573)else Qy=dD[5852]or ao(5852,72710,9677)end elseif Qy<=11828 then I[4]='';I[5],I[2],I[3],Qy=1,84,(#T-1)+84,29199 else return I[4]end until Qy==41745 end)('A','\"')..AB,lE,Zq);Fi,Zq=Is[-29011]or Rg(19148,159,-29011),Zq+AB else Fi,Uc=Is[3074]or Rg(41010,105490,3074),Wc continue end else u_,ir,Fi=EG,nil,Is[15481]or Rg(64993,18720,15481)end elseif Fi>=35100 then if Fi>=35219 then if Fi>36475 then Pr=kj((function(Ue,Wd)local hn,cF,Hu,Mh;hn={};cF,Mh=function(vh,At,Pv)Mh[Pv]=Mz(vh,29745)-Mz(At,35321)return Mh[Pv]end,{};Hu=Mh[20570]or cF(49994,65232,20570)repeat if Hu<=44149 then if Hu>41850 then hn[1],Hu=hn[1]..lq(hu(nv(Ue,(hn[2]-31)+1),nv(Wd,(hn[2]-31)%#Wd+1))),Mh[-23498]or cF(71687,4130,-23498)elseif Hu>29204 then return hn[1]elseif Hu<=16466 then hn[1]='';hn[3],Hu,hn[4],hn[5]=31,29204,1,(#Ue-1)+31 else hn[2]=hn[3]if hn[5]~=hn[5]then Hu=Mh[-22085]or cF(74874,9512,-22085)else Hu=Mh[-969]or cF(116962,30987,-969)end end elseif Hu<=52193 then if(hn[4]>=0 and hn[3]>hn[5])or((hn[4]<0 or hn[4]~=hn[4])and hn[3]<hn[5])then Hu=Mh[30058]or cF(76245,13203,30058)else Hu=44149 end else hn[3]=hn[3]+hn[4];hn[2]=hn[3]if hn[3]~=hn[3]then Hu=41850 else Hu=52193 end end until Hu==1486 end)('J','\b'),lE,Zq);Zq,Fi=Zq+1,18672 elseif Fi<=36345 then if Fi>35219 then gt[(xz-140)],Fi=gz,Is[29688]or Rg(22898,1554,29688)else xz=kj((function(Ng,om)local Yf,pF,_l,tz;Yf={};tz,pF={},function(qn,Qp,ay)tz[ay]=Mz(Qp,24686)-Mz(qn,40586)return tz[ay]end;_l=tz[-20344]or pF(7716,75131,-20344)while _l~=34678 do if _l>=48866 then if _l>50279 then return Yf[1]elseif _l>48866 then Yf[1]='';Yf[2],Yf[3],Yf[4],_l=223,(#Ng-1)+223,1,tz[-14401]or pF(33038,60100,-14401)else if(Yf[4]>=0 and Yf[2]>Yf[3])or((Yf[4]<0 or Yf[4]~=Yf[4])and Yf[2]<Yf[3])then _l=51779 else _l=46355 end end elseif _l<=27430 then if _l<=8334 then Yf[2]=Yf[2]+Yf[4];Yf[5]=Yf[2]if Yf[2]~=Yf[2]then _l=tz[22869]or pF(43711,40470,22869)else _l=48866 end else Yf[5]=Yf[2]if Yf[3]~=Yf[3]then _l=51779 else _l=48866 end end else Yf[1],_l=Yf[1]..lq(hu(nv(Ng,(Yf[5]-223)+1),nv(om,(Yf[5]-223)%#om+1))),tz[-22825]or pF(5309,51883,-22825)end end end)('^+V','b'),lE,Zq);Fi,Zq=48485,Zq+4 end else gt=gt+ym;kw=gt if gt~=gt then Fi=Is[-21332]or Rg(49480,24333,-21332)else Fi=45954 end end elseif Fi<35127 then if Fi<=35100 then Fi,Uc=Is[2846]or Rg(36948,30155,2846),dt(VD)continue else EG,Fi=Ko(u_,31),Is[20727]or Rg(13605,84165,20727)continue end elseif Fi<=35127 then AB[17273]=_D(Ek(xz,8),255);AB[8117]=_D(Ek(xz,16),255);AB[21783],Fi=_D(Ek(xz,24),255),Is[3649]or Rg(42585,130288,3649)else gz=xz if Pr~=Pr then Fi=17359 else Fi=16265 end end elseif Fi<32767 then if Fi<=32467 then if Fi<=32456 then EC=Ly if _s~=_s then Fi=Is[-1249]or Rg(14935,127247,-1249)else Fi=Is[-25808]or Rg(14897,15421,-25808)end else VD,Fi=Ko(Ca,-973693905),Is[-20078]or Rg(60976,12955,-20078)continue end else Wc=kj((function(Wi,qt)local Co,re_,Ao,fl;Co={};re_,Ao={},function(ul,mw,hG)re_[mw]=Mz(ul,58557)-Mz(hG,57081)return re_[mw]end;fl=re_[5159]or Ao(117867,5159,44442)repeat if fl<52537 then if fl<27343 then if(Co[1]>=0 and Co[2]>Co[3])or((Co[1]<0 or Co[1]~=Co[1])and Co[2]<Co[3])then fl=re_[-13276]or Ao(110377,-13276,47529)else fl=27343 end elseif fl<=27343 then fl,Co[4]=re_[-8729]or Ao(95425,-8729,7610),Co[4]..lq(hu(nv(Wi,(Co[5]-42)+1),nv(qt,(Co[5]-42)%#qt+1)))else Co[4]='';Co[2],Co[3],Co[1],fl=42,(#Wi-1)+42,1,53336 end elseif fl<53336 then Co[2]=Co[2]+Co[1];Co[5]=Co[2]if Co[2]~=Co[2]then fl=58436 else fl=7452 end elseif fl>53336 then return Co[4]else Co[5]=Co[2]if Co[3]~=Co[3]then fl=re_[25351]or Ao(81749,25351,10589)else fl=7452 end end until fl==63924 end)('\195\155','\255'),lE,Zq);Fi,Zq=Is[-13970]or Rg(5592,109956,-13970),Zq+8 end elseif Fi>34760 then Lz,Oe,Fi=ir,nil,Is[4565]or Rg(10338,90955,4565)elseif Fi>33128 then if(Pr>=0 and kw>xz)or((Pr<0 or Pr~=Pr)and kw<xz)then Fi=Is[-127]or Rg(22194,99908,-127)else Fi=Is[5069]or Rg(64832,16961,5069)end elseif Fi>32767 then az,Fi=Ko(Cu,31),Is[-26066]or Rg(49163,9657,-26066)continue else AB=_D(Ek(gz,10),1023);Pr[58863],Fi=gt[AB+1],Is[8592]or Rg(13329,124712,8592)end elseif Fi>=56824 then if Fi>=61275 then if Fi<=61912 then if Fi<61728 then if Fi<=61275 then kw=gt if EC~=EC then Fi=Is[-1695]or Rg(10731,108462,-1695)else Fi=45954 end else if gz==7 then Fi=Is[2179]or Rg(42971,6624,2179)continue elseif gz==8 then Fi=Is[-28240]or Rg(56097,22735,-28240)continue end Fi=Is[613]or Rg(540,86197,613)end elseif Fi<61776 then Fi=Is[-15704]or Rg(36885,37660,-15704)continue elseif Fi<=61776 then Fi=Is[27433]or Rg(8071,89195,27433)continue else if Jz==10 then Fi=Is[20255]or Rg(31755,54,20255)continue elseif Jz==9 then Fi=Is[-22001]or Rg(59257,120767,-22001)continue elseif Jz==7 then Fi=Is[-24483]or Rg(32570,32356,-24483)continue elseif Jz==2 then Fi=Is[12552]or Rg(59435,44018,12552)continue elseif Jz==0 then Fi=Is[4672]or Rg(51906,47976,4672)continue end Fi=Is[-14799]or Rg(18455,4910,-14799)end elseif Fi<=64767 then if Fi<=63924 then kw=kw+Pr;Jz=kw if kw~=kw then Fi=Is[-14578]or Rg(10291,94683,-14578)else Fi=Is[838]or Rg(41334,117935,838)end else Fi,az=Is[3226]or Rg(28225,8665,3226),nil end else EC=kj((function(cH,Av)local Ud,KC,Vo,es;KC={};es,Vo=function(J,Jq,fr)Vo[fr]=Mz(J,51274)-Mz(Jq,60885)return Vo[fr]end,{};Ud=Vo[29264]or es(124725,36957,29264)while Ud~=32797 do if Ud>43179 then if Ud>45559 then return KC[1]else KC[1]='';KC[2],Ud,KC[3],KC[4]=178,43179,(#cH-1)+178,1 end elseif Ud>=36577 then if Ud>36577 then KC[5]=KC[2]if KC[3]~=KC[3]then Ud=62014 else Ud=36577 end else if(KC[4]>=0 and KC[2]>KC[3])or((KC[4]<0 or KC[4]~=KC[4])and KC[2]<KC[3])then Ud=Vo[-22258]or es(92597,16916,-22258)else Ud=18047 end end elseif Ud>18047 then KC[2]=KC[2]+KC[4];KC[5]=KC[2]if KC[2]~=KC[2]then Ud=62014 else Ud=36577 end else Ud,KC[1]=Vo[-15990]or es(1632,40743,-15990),KC[1]..lq(hu(nv(cH,(KC[5]-178)+1),nv(Av,(KC[5]-178)%#Av+1)))end end end)('q','3'),lE,Zq);Fi,Zq=28824,Zq+1 end elseif Fi>58543 then if Fi>60308 then AB[17273]=_D(Ek(xz,8),255);VD=_D(Ek(xz,16),65535);AB[53422]=VD;Ca=nil;Ca=if VD<32768 then VD else VD-65536;AB[27869],Fi=Ca,Is[24078]or Rg(44747,123714,24078)elseif Fi>59228 then kw,Fi=nil,35219 else Ly=Ly+gt;EC=Ly if Ly~=Ly then Fi=21065 else Fi=3317 end end elseif Fi>57420 then Fi,Pr[5352]=Is[-1749]or Rg(19225,5584,-1749),gt[Pr[17273]+1]elseif Fi>57406 then xz=EC if ym~=ym then Fi=Is[-18073]or Rg(18981,130568,-18073)else Fi=4011 end elseif Fi>56824 then Fi,Uc=28558,dt''continue else Pr=xz;_s=Iq(_s,kn(_D(Pr,127),(kw-171)*7))if not Ov(Pr,128)then Fi=Is[19042]or Rg(52612,59066,19042)continue end Fi=Is[-31410]or Rg(22959,121393,-31410)end elseif Fi<=51937 then if Fi<=49945 then if Fi<48485 then if Fi<=47240 then if Wc then Fi=Is[10434]or Rg(35255,429,10434)continue end Fi=Is[-8466]or Rg(7251,125103,-8466)else Fi,ym=60308,nil end elseif Fi>=49087 then if Fi>49087 then Fi,EC=Is[-30195]or Rg(40231,9341,-30195),Ko(ym,2087664593)continue else xz=kw;Pr=_D(xz,255);Jz=Ig[5598][Pr+1];gz,Uc,Wc=Jz[1],Jz[2],Jz[3];AB={[4688]=0,[11475]=0,[53422]=0,[8117]=0,[27869]=0,[21783]=0,[2694]=nil,[63299]=0,[58863]=0,[9728]=Uc,[17273]=0,[5352]=0,[9228]=0,[39961]=Pr,[40596]=0};dG(FB,AB)if(gz==3)then Fi=Is[-25267]or Rg(33558,99430,-25267)continue else Fi=Is[-26947]or Rg(35487,98460,-26947)continue end Fi=Is[30535]or Rg(63515,5810,30535)end else Fi,kw=Is[-16507]or Rg(49938,5698,-16507),Ko(xz,-973693905)continue end elseif Fi<=51268 then if Fi<=50778 then Ca=VD;AB[4688]=Ca;dG(FB,{});Fi=Is[-11701]or Rg(12282,104944,-11701)else Pr[5352],Fi=gt[Pr[4688]+1],Is[-18356]or Rg(39327,16982,-18356)end else Rt,Fi=ym,Is[28915]or Rg(7304,90237,28915)end elseif Fi<=54974 then if Fi>53885 then _s=Ly;gt=Bs(_s);ym,EC,kw,Fi=(_s)+140,141,1,Is[4676]or Rg(25500,120773,4676)elseif Fi<=53151 then if Fi<=52292 then Fi,xz=36505,nil else Cu=az;AB=Iq(AB,kn(_D(Cu,127),(El-223)*7))if not Ov(Cu,128)then Fi=Is[-15799]or Rg(20531,112530,-15799)continue end Fi=Is[32587]or Rg(39171,48435,32587)end else Fi,Wc=Is[30448]or Rg(35676,22558,30448),Ko(AB,2087664593)continue end elseif Fi<=56001 then if Fi>54991 then Jz=kw if xz~=xz then Fi=Is[-25703]or Rg(29351,113327,-25703)else Fi=Is[-251]or Rg(45775,15878,-251)end else Fi,gz=Is[-30494]or Rg(60567,30623,-30494),Uc end else Pr=FB[(xz-205)];Jz=Pr[9728]if Jz==5 then Fi=Is[11104]or Rg(62433,47888,11104)continue elseif(Jz==3)then Fi=Is[16776]or Rg(29782,112899,16776)continue else Fi=Is[-22359]or Rg(57633,2037,-22359)continue end Fi=Is[25219]or Rg(5973,120940,25219)end end end local yE=ig();Ig[41087][lE]=yE return yE end)local md=(function(Vl,Kd)Vl=Dd(Vl)local aB=Hs()local function _n(Ci,jj)local SG=(function(...)return{...},zE('#',...)end)local oo;oo=(function(KA,jk,nG)if jk>nG then return end return KA[jk],oo(KA,jk+1,nG)end)local function mr(a_,gd,zw,XG)local Kl,aq,lF,ow,fm,Rc,pr,uj,Ay,Bp,oF,Tw,NB,Ho,ba,ih,ME,Uh,qE,Bu,Tz,eo,dq,Mn;fm,Bp={},function(OF,Rf,su)fm[OF]=Mz(su,64840)-Mz(Rf,44869)return fm[OF]end;lF=fm[17743]or Bp(17743,38208,30270)while lF~=21912 do if lF>31152 then if lF<48071 then if lF>38643 then if lF>=43033 then if lF>45117 then if lF<45873 then if lF<=45748 then if(eo[21783]==113)then lF=fm[8566]or Bp(8566,48222,51309)continue else lF=fm[-18336]or Bp(-18336,7257,119077)continue end lF=fm[-903]or Bp(-903,13240,130152)else oF+=1;lF=fm[13801]or Bp(13801,58249,19879)end elseif lF>=46721 then if lF<=46721 then qE,NB=nil,Ko(eo[53422],38633);qE=if NB<32768 then NB else NB-65536;ME=qE;a_[Ko(eo[17273],73)],lF=ME,fm[2540]or Bp(2540,8438,3742)else aq,lF=pr,56054 continue end else oF-=1;lF,zw[oF]=fm[-22910]or Bp(-22910,19844,113580),{[39961]=100,[17273]=Ko(eo[17273],222),[8117]=Ko(eo[8117],113),[21783]=0}end elseif lF>=44303 then if lF>44650 then if(Uh[1]>=eo[17273])then lF=fm[-15980]or Bp(-15980,19258,117588)continue else lF=fm[-22503]or Bp(-22503,27422,5926)continue end lF=fm[17289]or Bp(17289,14139,17369)elseif lF<=44307 then if lF>44303 then NB,ME,aq=qE[(function(Tf,wE)local Wk,Ye,Xl,Jk;Wk={};Ye,Jk=function(os,iy,uo)Jk[uo]=Mz(os,4663)-Mz(iy,39359)return Jk[uo]end,{};Xl=Jk[-1694]or Ye(59172,33699,-1694)repeat if Xl>=56801 then if Xl<60539 then return Wk[1]elseif Xl>60539 then Xl,Wk[1]=Jk[-3065]or Ye(78478,18916,-3065),Wk[1]..lq(hu(nv(Tf,(Wk[2]-241)+1),nv(wE,(Wk[2]-241)%#wE+1)))else if(Wk[3]>=0 and Wk[4]>Wk[5])or((Wk[3]<0 or Wk[3]~=Wk[3])and Wk[4]<Wk[5])then Xl=Jk[-10180]or Ye(69053,55318,-10180)else Xl=64384 end end elseif Xl<30602 then Wk[4]=Wk[4]+Wk[3];Wk[2]=Wk[4]if Wk[4]~=Wk[4]then Xl=Jk[-30650]or Ye(82879,59928,-30650)else Xl=60539 end elseif Xl>30602 then Wk[1]='';Wk[4],Wk[3],Wk[5],Xl=241,1,(#Tf-1)+241,30602 else Wk[2]=Wk[4]if Wk[5]~=Wk[5]then Xl=56801 else Xl=Jk[-15892]or Ye(60061,38288,-15892)end end until Xl==48632 end)('\148\136\207\191\178\212','\203\215\166')](NB);lF=fm[16567]or Bp(16567,2360,111582)else a_[qE+2]=a_[qE+3];oF+=eo[27869];lF=fm[-12597]or Bp(-12597,62281,15719)end else qE,NB=nil,Ko(eo[53422],36425);qE=if NB<32768 then NB else NB-65536;ME=qE;aq=gd[ME+1];ih=aq[47513];Uh=Bs(ih);a_[Ko(eo[17273],105)]=_n(aq,Uh);dq,pr,Tw,lF=(ih)+97,98,1,fm[-8050]or Bp(-8050,31817,4972)end elseif lF<43402 then ih,Uh=NB(ME,aq);aq=ih if aq==nil then lF=fm[-12054]or Bp(-12054,63289,118623)else lF=fm[15447]or Bp(15447,9436,6245)end elseif lF<=43402 then a_[eo[8117]]=Bs(eo[4688]);oF+=1;lF=fm[22461]or Bp(22461,31150,116294)else lF,Uh[(uj-97)]=fm[-5791]or Bp(-5791,14661,104361),jj[ba[8117]+1]end elseif lF>40187 then if lF>41758 then if lF>41827 then ba=dq if Tw~=Tw then lF=fm[16753]or Bp(16753,24391,112215)else lF=fm[-23295]or Bp(-23295,51821,18085)end else a_[eo[17273]],lF=a_[eo[8117]],fm[-28635]or Bp(-28635,3483,129609)end elseif lF>=41368 then if lF>41368 then pr,lF=pr..oG(Ko(WE(ih,(ba-174)+1),WE(Uh,(ba-174)%#Uh+1))),fm[-3793]or Bp(-3793,61569,39267)else oF-=1;zw[oF],lF={[39961]=184,[17273]=Ko(eo[17273],245),[8117]=Ko(eo[8117],209),[21783]=0},fm[-28445]or Bp(-28445,56689,11039)end else a_[eo[17273]],lF=nil,fm[11293]or Bp(11293,40826,26922)end elseif lF<39711 then if lF<=38910 then if lF<=38644 then NB[58863]=aq;ih,lF=nil,3488 else lF,a_[eo[17273]]=fm[-26027]or Bp(-26027,26647,107824),ME[eo[58863]][eo[11475]]end else dq,lF=dq..oG(Ko(WE(Uh,(Kl-160)+1),WE(pr,(Kl-160)%#pr+1))),fm[-32150]or Bp(-32150,33433,23236)end elseif lF>39993 then oF-=1;lF,zw[oF]=fm[4054]or Bp(4054,4193,122383),{[39961]=122,[17273]=Ko(eo[17273],156),[8117]=Ko(eo[8117],167),[21783]=0}elseif lF>39711 then oF+=eo[27869];lF=fm[-17188]or Bp(-17188,36610,31010)else if Mn>95 then lF=fm[7862]or Bp(7862,46385,32506)continue else lF=fm[19104]or Bp(19104,50103,125748)continue end lF=fm[32006]or Bp(32006,61286,22798)end elseif lF<36578 then if lF>35388 then if lF>=36009 then if lF<=36283 then if lF<=36009 then aq..=a_[dq];lF=fm[30626]or Bp(30626,55811,25391)else oF+=eo[27869];lF=fm[31923]or Bp(31923,1633,126991)end else if(dq>=0 and Uh>pr)or((dq<0 or dq~=dq)and Uh<pr)then lF=fm[-24078]or Bp(-24078,49070,52045)else lF=fm[22330]or Bp(22330,20828,83112)end end elseif lF<=35805 then NB[11475],lF=ih,fm[-9152]or Bp(-9152,18050,110047)else Ay[eo]=nil;oF+=1;lF=fm[-16678]or Bp(-16678,4199,122381)end elseif lF>33447 then if lF<=34460 then if lF<=34165 then hz(Uh);lF=fm[-31365]or Bp(-31365,2834,126115)else if Mn>41 then lF=fm[15455]or Bp(15455,59196,38168)continue else lF=fm[22323]or Bp(22323,55825,9279)continue end lF=fm[-26836]or Bp(-26836,54172,7604)end else lF,a_[eo[8117]]=fm[9656]or Bp(9656,15817,3047),a_[eo[17273]]-eo[5352]end elseif lF>=32926 then if lF>32926 then a_[eo[17273]],lF=ME[eo[58863]],fm[10601]or Bp(10601,37542,12865)else qE[5352]=NB;eo[39961],lF=41,fm[-29038]or Bp(-29038,30965,116379)end elseif lF>31282 then aq=(function(...)for VE,BD,Kv,sr,fb,Pt,jG,MB,Cd,Ym,LB,Yp,Ky,sB,tv,Ou,uB,As,jF,tr_ in...do hh{VE,BD,Kv,sr,fb,Pt,jG,MB,Cd,Ym,LB,Yp,Ky,sB,tv,Ou,uB,As,jF,tr_}end hh(-2)end);Ay[ME],lF=zd(aq),fm[-14715]or Bp(-14715,34464,127910)else if(eo[21783]==118)then lF=fm[6929]or Bp(6929,26407,94749)continue else lF=fm[2686]or Bp(2686,43507,5736)continue end lF=fm[-28268]or Bp(-28268,39590,26446)end elseif lF<=37444 then if lF>=37088 then if lF>37315 then ih={ME(a_[qE+1],a_[qE+2])};qk(ih,1,NB,qE+3,a_)if a_[qE+3]~=nil then lF=fm[1364]or Bp(1364,13535,112097)continue else lF=fm[-12662]or Bp(-12662,42274,36113)continue end lF=fm[18741]or Bp(18741,63774,18230)elseif lF<37158 then if Mn>113 then lF=fm[23385]or Bp(23385,9516,123964)continue else lF=fm[-22199]or Bp(-22199,64693,112889)continue end lF=fm[18179]or Bp(18179,32634,117034)elseif lF>37158 then a_[eo[21783]],lF=a_[eo[8117]]+eo[5352],fm[21029]or Bp(21029,31488,116000)else oF+=1;lF=fm[6421]or Bp(6421,52680,15352)end elseif lF>36617 then if eo[21783]==67 then lF=fm[-15773]or Bp(-15773,36394,40538)continue elseif eo[21783]==92 then lF=fm[-11523]or Bp(-11523,59875,5494)continue elseif(eo[21783]==102)then lF=fm[-30999]or Bp(-30999,10014,5990)continue else lF=fm[-733]or Bp(-733,3703,110254)continue end lF=fm[27064]or Bp(27064,1104,127600)elseif lF>36578 then if Mn>58 then lF=fm[26531]or Bp(26531,59689,116261)continue else lF=fm[-3638]or Bp(-3638,63074,121305)continue end lF=fm[-5701]or Bp(-5701,20200,112792)else if Mn>67 then lF=fm[7938]or Bp(7938,34886,30038)continue else lF=fm[14417]or Bp(14417,15756,130665)continue end lF=fm[-10631]or Bp(-10631,9230,4646)end elseif lF<=37899 then if lF>=37755 then if lF<=37755 then NB,ME,aq=Gp(NB);lF=fm[-20773]or Bp(-20773,6277,107153)else if(Tw>=0 and pr>dq)or((Tw<0 or Tw~=Tw)and pr<dq)then lF=fm[-4271]or Bp(-4271,32186,117354)else lF=fm[16481]or Bp(16481,36669,53774)end end else Rc=false;oF+=1 if Mn>121 then lF=fm[-30782]or Bp(-30782,65447,41867)continue else lF=fm[-24664]or Bp(-24664,13273,96094)continue end lF=fm[30300]or Bp(30300,47487,34581)end elseif lF<=38457 then a_[eo[17273]],lF=ME,fm[-19891]or Bp(-19891,6560,111939)else dq=ih if Uh~=Uh then lF=fm[-10033]or Bp(-10033,33177,28760)else lF=fm[7603]or Bp(7603,9460,102958)end end elseif lF<57881 then if lF>=54497 then if lF<=56054 then if lF>55073 then if lF>55741 then NB[58863],lF=aq,fm[9038]or Bp(9038,12645,129464)elseif lF<=55707 then lF=fm[-13089]or Bp(-13089,4364,126633)continue else a_[eo[17273]],lF=eo[5352],fm[-32368]or Bp(-32368,60066,22338)end elseif lF>=54587 then if lF<=54587 then if(Mn>84)then lF=fm[-28115]or Bp(-28115,60690,10578)continue else lF=fm[-705]or Bp(-705,44412,27731)continue end lF=fm[-18391]or Bp(-18391,9100,3492)else pr,lF=pr..oG(Ko(WE(ih,(ba-79)+1),WE(Uh,(ba-79)%#Uh+1))),fm[8095]or Bp(8095,22971,78991)end elseif lF<=54497 then pr=pr+Tw;uj=pr if pr~=pr then lF=fm[7538]or Bp(7538,60866,23522)else lF=37899 end else ME,lF=Uh,fm[5590]or Bp(5590,7157,1714)continue end elseif lF>=57085 then if lF<=57261 then if lF>57085 then Tw=Uh if pr~=pr then lF=fm[-5126]or Bp(-5126,61010,39801)else lF=36501 end else if(Mn>175)then lF=fm[6208]or Bp(6208,30854,94988)continue else lF=fm[6419]or Bp(6419,30432,127868)continue end lF=fm[-23273]or Bp(-23273,1415,127917)end else NB=XG[38221];lF,Bu=fm[-27463]or Bp(-27463,27401,92693),qE+NB-1 end elseif lF>56255 then Uh,lF=Uh..oG(Ko(WE(aq,(uj-131)+1),WE(ih,(uj-131)%#ih+1))),fm[28476]or Bp(28476,45115,44928)else if(uj>=0 and dq>Tw)or((uj<0 or uj~=uj)and dq<Tw)then lF=fm[27357]or Bp(27357,42404,16173)else lF=fm[-30208]or Bp(-30208,17911,94360)end end elseif lF>51032 then if lF>52074 then if lF<=53961 then dq=dq+uj;ba=dq if dq~=dq then lF=fm[1437]or Bp(1437,7971,128715)else lF=22213 end else qk(XG[63014],1,NB,qE,a_);lF=fm[30033]or Bp(30033,64947,19025)end elseif lF<51614 then aq,lF=nil,57881 elseif lF>51614 then if Mn>56 then lF=fm[493]or Bp(493,61913,35475)continue else lF=fm[-3211]or Bp(-3211,15045,95550)continue end lF=fm[30009]or Bp(30009,33872,29296)else if(Mn>182)then lF=fm[-29357]or Bp(-29357,40619,30922)continue else lF=fm[-1157]or Bp(-1157,36180,130118)continue end lF=fm[14278]or Bp(14278,59763,22289)end elseif lF<48748 then if lF>48375 then eo=zw[oF];lF,Mn=fm[25281]or Bp(25281,767,114117),eo[39961]elseif lF<=48071 then ih,lF=ih..oG(Ko(WE(ME,(Tw-138)+1),WE(aq,(Tw-138)%#aq+1))),fm[-21226]or Bp(-21226,62915,21577)else oF+=eo[27869];lF=fm[-10441]or Bp(-10441,49771,11289)end elseif lF<=50931 then if lF>=48912 then if lF>48912 then oF-=1;lF,zw[oF]=fm[-21725]or Bp(-21725,25452,118020),{[39961]=111,[17273]=Ko(eo[17273],82),[8117]=Ko(eo[8117],181),[21783]=0}else if Mn>93 then lF=fm[-7679]or Bp(-7679,10674,122718)continue else lF=fm[10260]or Bp(10260,45986,3946)continue end lF=fm[19210]or Bp(19210,23864,109544)end else if(Mn>7)then lF=fm[-6515]or Bp(-6515,17467,95145)continue else lF=fm[-15979]or Bp(-15979,17273,80049)continue end lF=fm[28133]or Bp(28133,21042,105682)end else if Mn>29 then lF=fm[12750]or Bp(12750,55037,130332)continue else lF=fm[5690]or Bp(5690,10025,6519)continue end lF=fm[616]or Bp(616,40617,27463)end elseif lF>60340 then if lF<62027 then if lF>=60948 then if lF>61696 then if(a_[eo[17273]])then lF=fm[-6382]or Bp(-6382,23165,85863)continue else lF=fm[-7857]or Bp(-7857,52614,15278)continue end lF=fm[-22860]or Bp(-22860,34468,29516)elseif lF>60948 then qE=Ln(NB)if(qE~=nil and qE[(function(pA,wu)local Uk,td,cs,yd;td={};Uk,cs={},function(Sw,SD,sk)Uk[SD]=Mz(Sw,16057)-Mz(sk,11940)return Uk[SD]end;yd=Uk[10127]or cs(92854,10127,49039)while yd~=21019 do if yd<=40016 then if yd>23592 then td[1],yd=td[1]..lq(hu(nv(pA,(td[2]-122)+1),nv(wu,(td[2]-122)%#wu+1))),Uk[19050]or cs(45077,19050,24425)elseif yd>=13143 then if yd>13143 then if(td[3]>=0 and td[4]>td[5])or((td[3]<0 or td[3]~=td[3])and td[4]<td[5])then yd=43595 else yd=40016 end else td[2]=td[4]if td[5]~=td[5]then yd=Uk[17042]or cs(61564,17042,2782)else yd=Uk[-22999]or cs(78632,-22999,40909)end end else td[4]=td[4]+td[3];td[2]=td[4]if td[4]~=td[4]then yd=43595 else yd=23592 end end elseif yd<=43595 then return td[1]else td[1]='';td[5],yd,td[3],td[4]=(#pA-1)+122,13143,1,122 end end end)('\253\165\153\214\159\130','\162\250\240')]~=nil)then lF=fm[-28842]or Bp(-28842,56063,34199)continue else lF=fm[7509]or Bp(7509,50602,29592)continue end lF=fm[27131]or Bp(27131,38383,40437)else NB,ME,aq=Ay if(dA(NB)~=(function(en_,Sa)local jr,wn,Hg,oy;jr={};oy,Hg=function(lu,cu,lB)Hg[lB]=Mz(lu,14669)-Mz(cu,43620)return Hg[lB]end,{};wn=Hg[23195]or oy(108488,23327,23195)while wn~=5558 do if wn<44298 then if wn<=4383 then if wn>1512 then if(jr[1]>=0 and jr[2]>jr[3])or((jr[1]<0 or jr[1]~=jr[1])and jr[2]<jr[3])then wn=1512 else wn=Hg[11027]or oy(72417,6507,11027)end else return jr[4]end else jr[4],wn=jr[4]..lq(hu(nv(en_,(jr[5]-249)+1),nv(Sa,(jr[5]-249)%#Sa+1))),Hg[13135]or oy(66536,55967,13135)end elseif wn>=47432 then if wn>47432 then jr[2]=jr[2]+jr[1];jr[5]=jr[2]if jr[2]~=jr[2]then wn=1512 else wn=Hg[-27607]or oy(47655,55343,-27607)end else jr[5]=jr[2]if jr[3]~=jr[3]then wn=1512 else wn=Hg[-10238]or oy(48731,57235,-10238)end end else jr[4]='';jr[2],jr[3],jr[1],wn=249,(#en_-1)+249,1,Hg[19885]or oy(75933,62188,19885)end end end)('\195\28\179J\209\0\178G','\165i\221)'))then lF=fm[21637]or Bp(21637,14404,13048)continue else lF=fm[-17434]or Bp(-17434,25264,101190)continue end lF=fm[444]or Bp(444,25004,100938)end elseif lF<=60736 then if(Mn>119)then lF=fm[13648]or Bp(13648,52231,19390)continue else lF=fm[17065]or Bp(17065,61037,12096)continue end lF=fm[-28333]or Bp(-28333,34530,28802)else if(Mn>60)then lF=fm[-21560]or Bp(-21560,34392,28037)continue else lF=fm[29261]or Bp(29261,63006,23896)continue end lF=fm[900]or Bp(900,1000,126360)end elseif lF>64480 then if lF<=64811 then qE,NB,lF,ME=eo[63299],zw[oF+1],fm[8725]or Bp(8725,30052,122002),nil else oF+=1;lF=fm[26692]or Bp(26692,56218,9290)end elseif lF>=62721 then if lF<=62721 then qE=eo[5352];a_[eo[8117]]=a_[eo[21783]][qE];oF+=1;lF=fm[-5604]or Bp(-5604,25542,118254)else Kl=Tw if uj~=uj then lF=fm[25506]or Bp(25506,8244,19907)else lF=62027 end end elseif lF>62027 then NB,ME,aq=Tz if(dA(NB)~=(function(yz,Mi)local hw,dF,Ap,Hn;Ap={};hw,dF={},function(Bt,tq,Rp)hw[Bt]=Mz(Rp,59494)-Mz(tq,11121)return hw[Bt]end;Hn=hw[4844]or dF(4844,34784,3919)repeat if Hn>=26075 then if Hn>35575 then return Ap[1]elseif Hn<=26075 then Ap[2]=Ap[3]if Ap[4]~=Ap[4]then Hn=62135 else Hn=hw[-20278]or dF(-20278,53140,100282)end else if(Ap[5]>=0 and Ap[3]>Ap[4])or((Ap[5]<0 or Ap[5]~=Ap[5])and Ap[3]<Ap[4])then Hn=hw[-29642]or dF(-29642,45197,91861)else Hn=hw[-2599]or dF(-2599,53634,113444)end end elseif Hn<=15000 then if Hn<=1204 then Ap[3]=Ap[3]+Ap[5];Ap[2]=Ap[3]if Ap[3]~=Ap[3]then Hn=62135 else Hn=35575 end else Ap[1]='';Ap[5],Ap[4],Ap[3],Hn=1,(#yz-1)+133,133,hw[12030]or dF(12030,31887,21951)end else Hn,Ap[1]=hw[-7773]or dF(-7773,64824,12955),Ap[1]..lq(hu(nv(yz,(Ap[2]-133)+1),nv(Mi,(Ap[2]-133)%#Mi+1)))end until Hn==47618 end)('\148%\199\255\134\57\198\242','\242P\169\156'))then lF=fm[9446]or Bp(9446,17506,74095)continue else lF=fm[2220]or Bp(2220,45906,48994)continue end lF=fm[-442]or Bp(-442,61707,31017)else if(ba>=0 and Tw>uj)or((ba<0 or ba~=ba)and Tw<uj)then lF=fm[21230]or Bp(21230,63327,33916)else lF=fm[12866]or Bp(12866,40727,13417)end end elseif lF<=58487 then if lF>=58293 then if lF>=58474 then if lF<=58474 then if eo[21783]==199 then lF=fm[-27497]or Bp(-27497,51435,23799)continue else lF=fm[-24726]or Bp(-24726,62191,13455)continue end lF=fm[-13149]or Bp(-13149,23545,107927)else if(Kl==2)then lF=fm[-20442]or Bp(-20442,16163,116529)continue else lF=fm[-1948]or Bp(-1948,38503,127819)continue end lF=fm[30545]or Bp(30545,18974,83828)end elseif lF<=58293 then if(pr>=0 and ih>Uh)or((pr<0 or pr~=pr)and ih<Uh)then lF=fm[-21639]or Bp(-21639,52695,15758)else lF=fm[-24347]or Bp(-24347,5273,112077)end else a_[eo[17273]],lF=#a_[eo[8117]],fm[-5987]or Bp(-5987,45324,32548)end elseif lF<58009 then ih,Uh=NB[58863],eo[58863];Uh=(function(VB,sb)local Tu,Om,mk,Nm;Om={};mk,Nm={},function(qi,g,iz)mk[g]=Mz(iz,8589)-Mz(qi,19851)return mk[g]end;Tu=mk[6761]or Nm(17875,6761,42349)repeat if Tu<31880 then if Tu>=6746 then if Tu<=6746 then Om[1]=Om[2]if Om[3]~=Om[3]then Tu=mk[29817]or Nm(57960,29817,98722)else Tu=1158 end else Om[2]=Om[2]+Om[4];Om[1]=Om[2]if Om[2]~=Om[2]then Tu=61516 else Tu=1158 end end else if(Om[4]>=0 and Om[2]>Om[3])or((Om[4]<0 or Om[4]~=Om[4])and Om[2]<Om[3])then Tu=61516 else Tu=mk[13167]or Nm(36099,13167,104754)end end elseif Tu>61516 then Tu,Om[5]=mk[-11398]or Nm(57880,-11398,75286),Om[5]..lq(hu(nv(VB,(Om[1]-163)+1),nv(sb,(Om[1]-163)%#sb+1)))elseif Tu<=31880 then Om[5]='';Om[2],Om[3],Tu,Om[4]=163,(#VB-1)+163,6746,1 else return Om[5]end until Tu==24356 end)('\139\244\189WR\196\252C','\\\52\195U')..Uh;pr='';dq,uj,Tw,lF=79,1,(#ih-1)+79,42016 elseif lF<=58009 then oF+=eo[27869];lF=fm[9608]or Bp(9608,2732,128836)else lF,qE,NB=24323,zw[oF],nil end elseif lF<59857 then if lF<59065 then oF+=eo[27869];lF=fm[31345]or Bp(31345,54593,9071)elseif lF<=59065 then aq,lF=NB-1,fm[-6478]or Bp(-6478,59264,26429)else if Mn>59 then lF=fm[-12752]or Bp(-12752,48607,2294)continue else lF=fm[507]or Bp(507,21747,96247)continue end lF=fm[23524]or Bp(23524,14100,316)end elseif lF<=60137 then if lF>59857 then qk(Uh,1,NB,qE+3,a_);a_[qE+2]=a_[qE+3];oF+=eo[27869];lF=fm[-5058]or Bp(-5058,60574,23222)else ME=zw[oF+eo[27869]]if Ay[ME]==nil then lF=fm[16398]or Bp(16398,24963,111841)continue end lF=fm[31647]or Bp(31647,131,92551)end else oF+=1;lF=fm[-28072]or Bp(-28072,25128,117976)end elseif lF>=18361 then if lF<=24351 then if lF>=21428 then if lF>22932 then if lF>24116 then if lF>24323 then qE,NB=a_[eo[17273]],nil;NB=C(qE)==(function(CA,OG)local Pp,sd,Jy,Fo;Fo={};Jy,sd={},function(Yg,Fn,vp)Jy[vp]=Mz(Yg,32295)-Mz(Fn,9938)return Jy[vp]end;Pp=Jy[19982]or sd(47798,19555,19982)repeat if Pp>=41420 then if Pp<=51491 then if Pp<=41420 then return Fo[1]else if(Fo[2]>=0 and Fo[3]>Fo[4])or((Fo[2]<0 or Fo[2]~=Fo[2])and Fo[3]<Fo[4])then Pp=41420 else Pp=19670 end end else Fo[5]=Fo[3]if Fo[4]~=Fo[4]then Pp=Jy[29002]or sd(123915,57010,29002)else Pp=Jy[9622]or sd(68212,36322,9622)end end elseif Pp<19670 then Fo[3]=Fo[3]+Fo[2];Fo[5]=Fo[3]if Fo[3]~=Fo[3]then Pp=Jy[-25577]or sd(125121,54216,-25577)else Pp=Jy[1202]or sd(95759,6615,1202)end elseif Pp>19670 then Fo[1]='';Fo[2],Pp,Fo[3],Fo[4]=1,57657,90,(#CA-1)+90 else Pp,Fo[1]=Jy[20473]or sd(7285,15042,20473),Fo[1]..lq(hu(nv(CA,(Fo[5]-90)+1),nv(OG,(Fo[5]-90)%#OG+1)))end until Pp==33261 end)('\fp\161\127\30l\160r','j\5\207\28')if(not NB)then lF=fm[32226]or Bp(32226,14292,98090)continue else lF=fm[11562]or Bp(11562,59839,119115)continue end lF=58633 else ME,aq=qE[5352],eo[5352];aq=(function(mD,ks)local On,hH,wh_,yc;On={};yc,hH={},function(fx,ew,fB)yc[ew]=Mz(fx,31193)-Mz(fB,12693)return yc[ew]end;wh_=yc[-889]or hH(54784,-889,32432)repeat if wh_>38226 then if wh_<=38346 then On[1],wh_=On[1]..lq(hu(nv(mD,(On[2]-80)+1),nv(ks,(On[2]-80)%#ks+1))),yc[15245]or hH(112732,15245,63347)else On[3]=On[3]+On[4];On[2]=On[3]if On[3]~=On[3]then wh_=yc[8827]or hH(60998,8827,863)else wh_=33592 end end elseif wh_<33592 then if wh_<=24756 then On[1]='';wh_,On[4],On[5],On[3]=38226,1,(#mD-1)+80,80 else return On[1]end elseif wh_<=33592 then if(On[4]>=0 and On[3]>On[5])or((On[4]<0 or On[4]~=On[4])and On[3]<On[5])then wh_=yc[24929]or hH(39705,24929,19582)else wh_=yc[26500]or hH(57901,26500,14271)end else On[2]=On[3]if On[5]~=On[5]then wh_=25813 else wh_=33592 end end until wh_==30570 end)('\184\230&(a\214g<','o&X*')..aq;ih='';pr,dq,lF,Uh=(#ME-1)+138,1,fm[18895]or Bp(18895,42823,6887),138 end elseif lF<=23535 then if lF>23507 then if a_[eo[17273]]<a_[eo[4688]]then lF=fm[-27071]or Bp(-27071,24054,69031)continue else lF=fm[5969]or Bp(5969,50797,129065)continue end lF=fm[17437]or Bp(17437,4519,122445)elseif lF<=23325 then lF,aq=fm[-12136]or Bp(-12136,1075,114466),pr continue else if Mn>11 then lF=fm[-16551]or Bp(-16551,33396,26391)continue else lF=fm[28205]or Bp(28205,8998,112519)continue end lF=fm[9810]or Bp(9810,41922,36322)end else a_[eo[17273]],lF=aq,fm[-25094]or Bp(-25094,61224,23000)end elseif lF>22213 then if lF<=22685 then if lF>22409 then if(Mn>252)then lF=fm[-12042]or Bp(-12042,57921,116208)continue else lF=fm[-22415]or Bp(-22415,14714,1463)continue end lF=fm[3432]or Bp(3432,23726,107846)else Ho={[1]=ow,[2]=a_};Tz[ow],lF=Ho,fm[21284]or Bp(21284,5929,122444)end else nj(Uh);Ay[ih],lF=nil,fm[20405]or Bp(20405,19260,94682)end elseif lF>=22199 then if lF>22199 then if(uj>=0 and dq>Tw)or((uj<0 or uj~=uj)and dq<Tw)then lF=fm[13958]or Bp(13958,54204,9566)else lF=fm[7427]or Bp(7427,41910,6492)end else if qE==3 then lF=fm[-8427]or Bp(-8427,56777,128962)continue end lF=fm[-15107]or Bp(-15107,10879,125736)end elseif lF<=21428 then if(not a_[eo[17273]])then lF=fm[8917]or Bp(8917,60685,38667)continue else lF=fm[7009]or Bp(7009,14528,1760)continue end lF=fm[-30719]or Bp(-30719,34777,29175)else NB,ME,aq=Gp(NB);lF=fm[-14994]or Bp(-14994,4664,7896)end elseif lF<20091 then if lF>=19309 then if lF<19682 then if(Mn>141)then lF=fm[28548]or Bp(28548,53132,33615)continue else lF=fm[-19611]or Bp(-19611,49593,11097)continue end lF=fm[-14699]or Bp(-14699,8512,3936)elseif lF<=19682 then if Mn>218 then lF=fm[-5462]or Bp(-5462,8595,114696)continue else lF=fm[-2421]or Bp(-2421,63427,115002)continue end lF=fm[8949]or Bp(8949,36850,31122)else NB,ME,aq=Tz if(dA(NB)~=(function(lp,_h)local ql,qe,aF,Rs;qe={};ql,aF=function(dn,ps,PC)aF[dn]=Mz(PC,61074)-Mz(ps,37095)return aF[dn]end,{};Rs=aF[26435]or ql(26435,20364,113597)while Rs~=10845 do if Rs>=30148 then if Rs>=32222 then if Rs<=32222 then qe[1],Rs=qe[1]..lq(hu(nv(lp,(qe[2]-153)+1),nv(_h,(qe[2]-153)%#_h+1))),aF[27535]or ql(27535,32464,111861)else return qe[1]end else qe[1]='';qe[3],qe[4],qe[5],Rs=153,(#lp-1)+153,1,aF[15]or ql(15,54479,35675)end elseif Rs<22647 then qe[2]=qe[3]if qe[4]~=qe[4]then Rs=45565 else Rs=22647 end elseif Rs>22647 then qe[3]=qe[3]+qe[5];qe[2]=qe[3]if qe[3]~=qe[3]then Rs=aF[-11025]or ql(-11025,27687,81967)else Rs=22647 end else if(qe[5]>=0 and qe[3]>qe[4])or((qe[5]<0 or qe[5]~=qe[5])and qe[3]<qe[4])then Rs=aF[20203]or ql(20203,36472,15886)else Rs=aF[29984]or ql(29984,59952,5671)end end end end)('\152\r_)\138\17^$','\254x1J'))then lF=fm[-427]or Bp(-427,23921,128532)continue else lF=fm[24727]or Bp(24727,53605,13612)continue end lF=fm[8928]or Bp(8928,13305,6728)end elseif lF<18580 then aq,ih=NB[5352],eo[5352];ih=(function(Vj,Pe)local xs,yt,TD,rq;TD={};xs,rq={},function(Hi,_p,No)xs[_p]=Mz(No,58597)-Mz(Hi,28928)return xs[_p]end;yt=xs[28740]or rq(3635,28740,10993)while yt~=14121 do if yt<=30330 then if yt>21291 then return TD[1]elseif yt<20193 then TD[2]=TD[3]if TD[4]~=TD[4]then yt=30330 else yt=xs[9048]or rq(24231,9048,10553)end elseif yt>20193 then TD[1],yt=TD[1]..lq(hu(nv(Vj,(TD[2]-93)+1),nv(Pe,(TD[2]-93)%#Pe+1))),xs[-489]or rq(55698,-489,117429)else TD[1]='';TD[3],TD[5],TD[4],yt=93,1,(#Vj-1)+93,xs[-19745]or rq(54146,-19745,8478)end elseif yt<=34238 then TD[3]=TD[3]+TD[5];TD[2]=TD[3]if TD[3]~=TD[3]then yt=xs[-9400]or rq(15476,-9400,9995)else yt=xs[-27714]or rq(38965,-27714,91023)end else if(TD[5]>=0 and TD[3]>TD[4])or((TD[5]<0 or TD[5]~=TD[5])and TD[3]<TD[4])then yt=xs[-119]or rq(11791,-119,12652)else yt=21291 end end end end)("\254\132\137J\'\180\200^",')D\247H')..ih;Uh='';lF,pr,dq,Tw=fm[-30536]or Bp(-30536,26815,130985),131,(#aq-1)+131,1 elseif lF>18580 then ih,Uh=NB(ME,aq);aq=ih if aq==nil then lF=60948 else lF=14942 end else if(a_[eo[17273]]==a_[eo[4688]])then lF=fm[8667]or Bp(8667,52037,113617)continue else lF=fm[10418]or Bp(10418,4857,1749)continue end lF=fm[13990]or Bp(13990,6552,124488)end elseif lF<20912 then if lF<=20849 then if lF<=20091 then Uh=Uh+dq;Tw=Uh if Uh~=Uh then lF=fm[-2678]or Bp(-2678,24485,125106)else lF=36501 end else Bu,oF,Tz,Ay,Rc,lF=-1,1,Nu({},{[(function(ad,Wb)local Ke,Dc,zp,ne;Dc={};Ke,ne=function(wB,Sf,Xp)ne[wB]=Mz(Xp,45937)-Mz(Sf,42319)return ne[wB]end,{};zp=ne[-30835]or Ke(-30835,28460,121001)repeat if zp>=41333 then if zp>41897 then Dc[1]=Dc[2]if Dc[3]~=Dc[3]then zp=ne[17223]or Ke(17223,44259,41091)else zp=17919 end elseif zp>41333 then Dc[2]=Dc[2]+Dc[4];Dc[1]=Dc[2]if Dc[2]~=Dc[2]then zp=2630 else zp=ne[-13940]or Ke(-13940,31128,102823)end else Dc[5]='';Dc[3],Dc[4],Dc[2],zp=(#ad-1)+172,1,172,ne[25931]or Ke(25931,4801,121874)end elseif zp<=6072 then if zp<=2630 then return Dc[5]else Dc[5],zp=Dc[5]..lq(hu(nv(ad,(Dc[1]-172)+1),nv(Wb,(Dc[1]-172)%#Wb+1))),ne[27612]or Ke(27612,5222,124835)end else if(Dc[4]>=0 and Dc[2]>Dc[3])or((Dc[4]<0 or Dc[4]~=Dc[4])and Dc[2]<Dc[3])then zp=ne[-21715]or Ke(-21715,11055,11223)else zp=ne[-4939]or Ke(-4939,29793,23447)end end until zp==42063 end)('\201\169\166\249\146\174','\150\246\203')]=(function(hb,mi)local ui,Bd,OA,Ps;OA={};ui,Bd=function(pC,nm,Sh)Bd[Sh]=Mz(nm,64186)-Mz(pC,19563)return Bd[Sh]end,{};Ps=Bd[-30366]or ui(19080,30400,-30366)repeat if Ps<=34425 then if Ps>34199 then OA[1]=OA[1]+OA[2];OA[3]=OA[1]if OA[1]~=OA[1]then Ps=Bd[-377]or ui(31994,46439,-377)else Ps=Bd[-17767]or ui(43859,80604,-17767)end elseif Ps>=11575 then if Ps>11575 then OA[4]='';OA[2],OA[5],Ps,OA[1]=1,(#hb-1)+5,11575,5 else OA[3]=OA[1]if OA[5]~=OA[5]then Ps=Bd[-29812]or ui(15519,27386,-29812)else Ps=55598 end end else return OA[4]end elseif Ps>55598 then Ps,OA[4]=Bd[17552]or ui(33807,111719,17552),OA[4]..lq(hu(nv(hb,(OA[3]-5)+1),nv(mi,(OA[3]-5)%#mi+1)))else if(OA[2]>=0 and OA[1]>OA[5])or((OA[2]<0 or OA[2]~=OA[2])and OA[1]<OA[5])then Ps=8012 else Ps=Bd[363]or ui(1921,119479,363)end end until Ps==50842 end)('\n\15','|')}),Nu({},{[(function(eu,tC)local qv,uu,ep,Th;Th={};ep,uu={},function(jp,Oc,rF)ep[jp]=Mz(Oc,55813)-Mz(rF,10648)return ep[jp]end;qv=ep[24855]or uu(24855,14618,29300)while qv~=3711 do if qv<=34611 then if qv>33220 then Th[1]='';Th[2],Th[3],qv,Th[4]=(#eu-1)+165,1,10629,165 elseif qv<11411 then Th[5]=Th[4]if Th[2]~=Th[2]then qv=33220 else qv=ep[7103]or uu(7103,14023,59831)end elseif qv<=11411 then if(Th[3]>=0 and Th[4]>Th[2])or((Th[3]<0 or Th[3]~=Th[3])and Th[4]<Th[2])then qv=33220 else qv=60073 end else return Th[1]end elseif qv>47026 then qv,Th[1]=ep[-15199]or uu(-15199,89602,58829),Th[1]..lq(hu(nv(eu,(Th[5]-165)+1),nv(tC,(Th[5]-165)%#tC+1)))else Th[4]=Th[4]+Th[3];Th[5]=Th[4]if Th[4]~=Th[4]then qv=33220 else qv=ep[25816]or uu(25816,5106,46332)end end end end)('\228J\135\212q\143','\187\21\234')]=(function(uy,TC)local PB,aa,vb,Nb;aa={};Nb,vb=function(Ub,SA,hc)vb[hc]=Mz(SA,30206)-Mz(Ub,58458)return vb[hc]end,{};PB=vb[1442]or Nb(18475,73850,1442)repeat if PB<16234 then if PB<=15411 then if PB<=4314 then aa[1]=aa[2]if aa[3]~=aa[3]then PB=vb[-13066]or Nb(10230,95976,-13066)else PB=vb[2721]or Nb(44294,45661,2721)end else aa[2]=aa[2]+aa[4];aa[1]=aa[2]if aa[2]~=aa[2]then PB=vb[14734]or Nb(50421,5607,14734)else PB=vb[18642]or Nb(20614,83677,18642)end end else aa[5],PB=aa[5]..lq(hu(nv(uy,(aa[1]-189)+1),nv(TC,(aa[1]-189)%#TC+1))),vb[-31332]or Nb(44167,61678,-31332)end elseif PB<32327 then return aa[5]elseif PB>32327 then aa[5]='';aa[3],aa[2],aa[4],PB=(#uy-1)+189,189,1,4314 else if(aa[4]>=0 and aa[2]>aa[3])or((aa[4]<0 or aa[4]~=aa[4])and aa[2]<aa[3])then PB=16234 else PB=15528 end end until PB==44626 end)('\244\236','\159')}),false,25635 end else Uh[3]=Uh[2][Uh[1]];Uh[2]=Uh;Uh[1]=3;lF,Tz[ih]=fm[-23806]or Bp(-23806,3062,14222),nil end elseif lF<=21365 then if lF<=20912 then return oo(a_,qE,qE+aq-1)else oF+=1;lF=fm[-27038]or Bp(-27038,40689,26783)end else qE,NB,ME=Ko(eo[21783],192),Ko(eo[17273],65),Ko(eo[8117],246);aq,ih=NB==0 and Bu-qE or NB-1,a_[qE];Uh,pr=SG(ih(oo(a_,qE+1,qE+aq)))if(ME==0)then lF=fm[-13509]or Bp(-13509,47118,51270)continue else lF=fm[-6313]or Bp(-6313,1758,16465)continue end lF=7492 end elseif lF>=27288 then if lF<=28586 then if lF<27950 then if lF>27669 then qE,NB=eo[17273],eo[8117]-1 if NB==-1 then lF=fm[30307]or Bp(30307,37298,122288)continue end lF=54033 elseif lF<=27288 then Uh[(uj-97)],lF=Ho,fm[-24394]or Bp(-24394,61547,117063)else if(Mn>254)then lF=fm[-26483]or Bp(-26483,39663,118685)continue else lF=fm[-30250]or Bp(-30250,53742,10752)continue end lF=fm[-21542]or Bp(-21542,27076,120812)end elseif lF>28102 then NB,ME,aq=Gp(NB);lF=fm[18668]or Bp(18668,34340,36589)elseif lF<28052 then qE=jj[eo[8117]+1];lF,qE[2][qE[1]]=fm[-19933]or Bp(-19933,48842,35066),a_[eo[17273]]elseif lF>28052 then if(Mn>122)then lF=fm[13494]or Bp(13494,10634,23458)continue else lF=fm[25018]or Bp(25018,60887,41009)continue end lF=fm[16643]or Bp(16643,10264,5832)else if(Uh==-2)then lF=fm[-31913]or Bp(-31913,46175,23261)continue else lF=fm[-25526]or Bp(-25526,42575,3771)continue end lF=fm[-3613]or Bp(-3613,25101,117795)end elseif lF<=29841 then if lF<29769 then oF+=eo[27869];lF=fm[11480]or Bp(11480,1483,127993)elseif lF>29769 then if(qE==2)then lF=fm[23960]or Bp(23960,33764,20992)continue else lF=fm[-25093]or Bp(-25093,23793,112419)continue end lF=fm[12345]or Bp(12345,46569,22170)else qE,NB,ME=eo[21783],eo[8117],eo[5352];aq=a_[NB];a_[qE+1]=aq;a_[qE]=aq[ME];oF+=1;lF=fm[-7891]or Bp(-7891,59021,20643)end elseif lF>31057 then Tw=Tw+ba;Kl=Tw if Tw~=Tw then lF=fm[15467]or Bp(15467,21784,124479)else lF=62027 end else qE,NB=eo[17273],eo[8117];ME=NB-1 if(ME==-1)then lF=fm[18085]or Bp(18085,26612,13841)continue else lF=fm[27040]or Bp(27040,7623,91251)continue end lF=20912 end elseif lF<26098 then if lF<25280 then if lF<=24859 then qE,NB=eo[63299],eo[5352];ME=aB[NB]or Ig[19890][NB]if(qE==1)then lF=fm[-30095]or Bp(-30095,53974,126596)continue else lF=fm[30405]or Bp(30405,41995,33431)continue end lF=37158 else oF-=1;lF,zw[oF]=fm[-4029]or Bp(-4029,20542,106198),{[39961]=29,[17273]=Ko(eo[17273],143),[8117]=Ko(eo[8117],43),[21783]=0}end elseif lF>25507 then if(not Rc)then lF=fm[-22762]or Bp(-22762,24665,94717)continue else lF=fm[20180]or Bp(20180,40654,14614)continue end lF=fm[-18258]or Bp(-18258,37349,11323)elseif lF>25280 then ba=dq if Tw~=Tw then lF=fm[29666]or Bp(29666,57627,129194)else lF=56255 end else qE,NB=eo[21783],eo[8117];ME,aq=_C(Pf,a_,'',qE,NB)if not ME then lF=fm[31977]or Bp(31977,27932,9911)continue end lF=fm[3001]or Bp(3001,5286,124767)end elseif lF>=26544 then if lF<=26942 then if lF<=26544 then if Mn>111 then lF=fm[7475]or Bp(7475,41884,1873)continue else lF=fm[-10985]or Bp(-10985,19970,89375)continue end lF=fm[-4676]or Bp(-4676,1526,127902)else if eo[21783]==143 then lF=fm[7517]or Bp(7517,38756,36342)continue elseif eo[21783]==237 then lF=fm[15087]or Bp(15087,57795,130303)continue else lF=fm[-20594]or Bp(-20594,3108,112998)continue end lF=fm[-26431]or Bp(-26431,60115,21745)end else if(Mn>248)then lF=fm[-24236]or Bp(-24236,11265,4625)continue else lF=fm[13495]or Bp(13495,25953,127938)continue end lF=fm[2097]or Bp(2097,19517,113363)end elseif lF<26320 then oF+=1;lF=fm[-26890]or Bp(-26890,50374,13038)elseif lF>26320 then if Mn>130 then lF=fm[-8088]or Bp(-8088,17971,118594)continue else lF=fm[10099]or Bp(10099,12844,128615)continue end lF=fm[-14066]or Bp(-14066,30068,115484)else eo[39961]=254;oF+=1;lF=fm[1445]or Bp(1445,36227,31649)end elseif lF<9498 then if lF<6887 then if lF<=3790 then if lF<=1127 then if lF<805 then if lF<=302 then qE,NB=eo[17273],eo[5352];Bu=qE+6;ME,aq=a_[qE],nil;aq=C(ME)==(function(Lw,gG)local vq,wo,vo,pv;vq={};wo,vo={},function(Ut,Xs,IE)wo[IE]=Mz(Ut,31775)-Mz(Xs,53621)return wo[IE]end;pv=wo[-28302]or vo(88334,47640,-28302)while pv~=25292 do if pv>43731 then if pv<=47524 then vq[1]='';vq[2],vq[3],pv,vq[4]=(#Lw-1)+213,1,wo[-30159]or vo(60154,51047,-30159),213 else vq[4]=vq[4]+vq[3];vq[5]=vq[4]if vq[4]~=vq[4]then pv=wo[-3357]or vo(35795,40332,-3357)else pv=wo[-31447]or vo(94167,25510,-31447)end end elseif pv>32979 then return vq[1]elseif pv>24821 then vq[5]=vq[4]if vq[2]~=vq[2]then pv=wo[18786]or vo(88535,43904,18786)else pv=wo[773]or vo(46966,47873,773)end elseif pv>15524 then if(vq[3]>=0 and vq[4]>vq[2])or((vq[3]<0 or vq[3]~=vq[3])and vq[4]<vq[2])then pv=43731 else pv=wo[-32529]or vo(49320,20838,-32529)end else vq[1],pv=vq[1]..lq(hu(nv(Lw,(vq[5]-213)+1),nv(gG,(vq[5]-213)%#gG+1))),wo[-30440]or vo(34871,63437,-30440)end end end)('\167~zv\181b{{','\193\v\20\21')if(aq)then lF=fm[13273]or Bp(13273,49458,130547)continue else lF=fm[23092]or Bp(23092,151,5793)continue end lF=fm[17246]or Bp(17246,5989,123147)else lF,aq=fm[-28715]or Bp(-28715,14687,6786),Bu-qE+1 end elseif lF>805 then dq=dq+uj;ba=dq if dq~=dq then lF=fm[-21536]or Bp(-21536,13261,108868)else lF=56255 end else NB,ME,aq=qE[(function(Vm,Ug)local Ec,eb,hg,kf;kf={};Ec,eb=function(oB,vm,lA)eb[vm]=Mz(lA,19864)-Mz(oB,26089)return eb[vm]end,{};hg=eb[-27272]or Ec(64612,-27272,88011)repeat if hg>=46661 then if hg<49265 then kf[1],hg=kf[1]..lq(hu(nv(Vm,(kf[2]-16)+1),nv(Ug,(kf[2]-16)%#Ug+1))),eb[11934]or Ec(34602,11934,67579)elseif hg<=49265 then return kf[1]else if(kf[3]>=0 and kf[4]>kf[5])or((kf[3]<0 or kf[3]~=kf[3])and kf[4]<kf[5])then hg=eb[-23098]or Ec(48323,-23098,119811)else hg=46661 end end elseif hg<32966 then kf[4]=kf[4]+kf[3];kf[2]=kf[4]if kf[4]~=kf[4]then hg=49265 else hg=54179 end elseif hg>32966 then kf[2]=kf[4]if kf[5]~=kf[5]then hg=eb[-30214]or Ec(2551,-30214,90391)else hg=eb[-21970]or Ec(16000,-21970,90772)end else kf[1]='';kf[5],hg,kf[3],kf[4]=(#Vm-1)+16,43268,1,16 end until hg==39590 end)('\182s5\157I.','\233,\\')](NB);lF=fm[18840]or Bp(18840,65523,35713)end elseif lF>3553 then ba=zw[oF];oF+=1;Kl=ba[17273]if Kl==0 then lF=fm[28500]or Bp(28500,2075,17032)continue elseif(Kl==1)then lF=fm[-15367]or Bp(-15367,14324,13645)continue else lF=fm[31385]or Bp(31385,37066,121166)continue end lF=fm[-10633]or Bp(-10633,43805,9329)elseif lF>3488 then if(Mn>196)then lF=fm[22436]or Bp(22436,51618,11318)continue else lF=fm[-17516]or Bp(-17516,24177,126420)continue end lF=fm[8073]or Bp(8073,9252,4812)else Uh,pr=NB[11475],eo[11475];pr=(function(Pz,sj)local Nx,zt,nr,sh;zt={};nr,sh=function(pG,pl,zi)sh[pG]=Mz(pl,47859)-Mz(zi,55424)return sh[pG]end,{};Nx=sh[-2296]or nr(-2296,129092,20420)repeat if Nx<=64902 then if Nx<=43891 then if Nx>=25717 then if Nx<=25717 then Nx,zt[1]=sh[15147]or nr(15147,100325,58852),zt[1]..lq(hu(nv(Pz,(zt[2]-158)+1),nv(sj,(zt[2]-158)%#sj+1)))else zt[1]='';zt[3],zt[4],Nx,zt[5]=(#Pz-1)+158,1,10018,158 end else zt[2]=zt[5]if zt[3]~=zt[3]then Nx=sh[-11667]or nr(-11667,127749,37823)else Nx=sh[-11700]or nr(-11700,106274,61643)end end else if(zt[4]>=0 and zt[5]>zt[3])or((zt[4]<0 or zt[4]~=zt[4])and zt[5]<zt[3])then Nx=sh[17717]or nr(17717,67405,26503)else Nx=25717 end end elseif Nx>65207 then zt[5]=zt[5]+zt[4];zt[2]=zt[5]if zt[5]~=zt[5]then Nx=65207 else Nx=64902 end else return zt[1]end until Nx==4385 end)('\183\165MAn\149\fU','\96e3C')..pr;dq='';uj,ba,lF,Tw=(#Uh-1)+160,1,64480,160 end elseif lF<=6440 then if lF>=6242 then if lF<=6242 then ow={[3]=a_[ba[8117]],[1]=3};ow[2]=ow;Uh[(uj-97)],lF=ow,fm[17618]or Bp(17618,14948,104266)else qE=Ln(NB)if qE~=nil and qE[(function(Dq,Vb)local oD,ov,Ok,Pn;oD={};Pn,Ok={},function(KD,sF,yb)Pn[yb]=Mz(KD,9075)-Mz(sF,2589)return Pn[yb]end;ov=Pn[24409]or Ok(65658,57245,24409)while ov~=57030 do if ov>38164 then if ov>41347 then if(oD[1]>=0 and oD[2]>oD[3])or((oD[1]<0 or oD[1]~=oD[1])and oD[2]<oD[3])then ov=Pn[25211]or Ok(46910,2513,25211)else ov=36941 end else oD[4]=oD[2]if oD[3]~=oD[3]then ov=36993 else ov=Pn[-31128]or Ok(86143,48034,-31128)end end elseif ov>36993 then oD[2]=oD[2]+oD[1];oD[4]=oD[2]if oD[2]~=oD[2]then ov=36993 else ov=Pn[-31980]or Ok(95931,40550,-31980)end elseif ov<36941 then oD[5]='';oD[2],oD[1],oD[3],ov=224,1,(#Dq-1)+224,Pn[-26991]or Ok(97883,45496,-26991)elseif ov<=36941 then oD[5],ov=oD[5]..lq(hu(nv(Dq,(oD[4]-224)+1),nv(Vb,(oD[4]-224)%#Vb+1))),Pn[275]or Ok(50496,23298,275)else return oD[5]end end end)('\215\54\234\252\f\241','\136i\131')]~=nil then lF=fm[654]or Bp(654,27093,2138)continue elseif dA(NB)==(function(qB,Yn)local nf,Wt,ap,GG;Wt={};nf,ap=function(Mu,XD,df)ap[Mu]=Mz(XD,11190)-Mz(df,1311)return ap[Mu]end,{};GG=ap[7608]or nf(7608,61830,20734)repeat if GG>=55995 then if GG>56662 then if(Wt[1]>=0 and Wt[2]>Wt[3])or((Wt[1]<0 or Wt[1]~=Wt[1])and Wt[2]<Wt[3])then GG=ap[19103]or nf(19103,106682,59022)else GG=ap[-14761]or nf(-14761,77904,17460)end elseif GG>55995 then Wt[2]=Wt[2]+Wt[1];Wt[4]=Wt[2]if Wt[2]~=Wt[2]then GG=42875 else GG=ap[-32551]or nf(-32551,74252,8506)end else GG,Wt[5]=ap[-23961]or nf(-23961,96984,28935),Wt[5]..lq(hu(nv(qB,(Wt[4]-104)+1),nv(Yn,(Wt[4]-104)%#Yn+1)))end elseif GG>=33871 then if GG<=33871 then Wt[5]='';GG,Wt[2],Wt[1],Wt[3]=ap[8427]or nf(8427,61923,22708),104,1,(#qB-1)+104 else return Wt[5]end else Wt[4]=Wt[2]if Wt[3]~=Wt[3]then GG=42875 else GG=ap[-15077]or nf(-15077,105040,51534)end end until GG==14221 end)('Z\227L\238K','.\130')then lF=fm[27955]or Bp(27955,42526,33869)continue end lF=fm[-12231]or Bp(-12231,43919,45638)end else lF,pr=fm[5939]or Bp(5939,39674,44619),ME-1 end elseif lF>6463 then aq=a_[qE];ih,Uh,pr,lF=qE+1,NB,1,fm[-1985]or Bp(-1985,38588,11684)else if eo[21783]==18 then lF=fm[32737]or Bp(32737,45803,18401)continue elseif(eo[21783]==60)then lF=fm[-958]or Bp(-958,17097,121986)continue else lF=fm[5273]or Bp(5273,26761,113846)continue end lF=fm[15762]or Bp(15762,57237,10683)end elseif lF<8040 then if lF>=7486 then if lF>=7492 then if lF>7492 then lF,Bu=fm[17004]or Bp(17004,58025,38520),qE+pr-1 else qk(Uh,1,pr,qE,a_);lF=fm[20493]or Bp(20493,26427,119273)end else if(Mn>144)then lF=fm[3579]or Bp(3579,25128,113918)continue else lF=fm[9028]or Bp(9028,28257,112168)continue end lF=fm[-15938]or Bp(-15938,58736,21264)end elseif lF<6936 then qE=jj[eo[8117]+1];a_[eo[17273]],lF=qE[2][qE[1]],fm[24791]or Bp(24791,25332,117916)elseif lF<=6936 then uj=pr if dq~=dq then lF=fm[-6216]or Bp(-6216,8526,3942)else lF=37899 end else oF+=eo[27869];lF=fm[-8510]or Bp(-8510,52942,14566)end elseif lF>=8474 then if lF>=8714 then if lF>8714 then if dA(NB)==(function(Fk,xl)local Be,cr,Qo,Gc;cr={};Qo,Be={},function(cC,am,xE)Qo[xE]=Mz(cC,58644)-Mz(am,45033)return Qo[xE]end;Gc=Qo[-8969]or Be(31001,46639,-8969)repeat if Gc>24893 then if Gc<=33351 then cr[1]='';cr[2],Gc,cr[3],cr[4]=10,Qo[-29656]or Be(3829,19136,-29656),(#Fk-1)+10,1 else cr[1],Gc=cr[1]..lq(hu(nv(Fk,(cr[5]-10)+1),nv(xl,(cr[5]-10)%#xl+1))),Qo[-17613]or Be(32196,39034,-17613)end elseif Gc>19010 then cr[2]=cr[2]+cr[4];cr[5]=cr[2]if cr[2]~=cr[2]then Gc=Qo[7209]or Be(39262,40417,7209)else Gc=Qo[-20602]or Be(9192,4540,-20602)end elseif Gc>=2215 then if Gc<=2215 then if(cr[4]>=0 and cr[2]>cr[3])or((cr[4]<0 or cr[4]~=cr[4])and cr[2]<cr[3])then Gc=Qo[20658]or Be(127210,25685,20658)else Gc=40669 end else return cr[1]end else cr[5]=cr[2]if cr[3]~=cr[3]then Gc=Qo[-12727]or Be(15790,8593,-12727)else Gc=Qo[-27854]or Be(33309,61835,-27854)end end until Gc==37766 end)(':\188,\177+','N\221')then lF=fm[-3731]or Bp(-3731,47913,38701)continue end lF=fm[11868]or Bp(11868,55419,24601)else oF-=1;lF,zw[oF]=fm[29389]or Bp(29389,16559,108869),{[39961]=56,[17273]=Ko(eo[17273],211),[8117]=Ko(eo[8117],167),[21783]=0}end else ih,lF=dq,35805 continue end elseif lF<=8151 then if lF<=8040 then if(Mn>156)then lF=fm[-3222]or Bp(-3222,8537,109298)continue else lF=fm[30668]or Bp(30668,47286,40488)continue end lF=fm[11827]or Bp(11827,11677,7091)else qE,NB,ME=eo[5352],eo[40596],a_[eo[17273]]if(ME==qE)~=NB then lF=fm[21689]or Bp(21689,59587,10249)continue else lF=fm[-25151]or Bp(-25151,8273,113825)continue end lF=fm[-5558]or Bp(-5558,53143,14781)end else qE,NB,ME=eo[5352],eo[40596],a_[eo[17273]]if(ME==qE)~=NB then lF=fm[-23229]or Bp(-23229,28926,414)continue else lF=fm[9497]or Bp(9497,18507,116683)continue end lF=fm[18769]or Bp(18769,42856,37144)end elseif lF>=14493 then if lF>15841 then if lF<=17708 then if lF<=17510 then if lF>16803 then if(Mn>245)then lF=fm[26009]or Bp(26009,55996,10320)continue else lF=fm[-29594]or Bp(-29594,13359,13771)continue end lF=fm[-6956]or Bp(-6956,52618,15290)else oF-=1;zw[oF],lF={[39961]=58,[17273]=Ko(eo[17273],255),[8117]=Ko(eo[8117],142),[21783]=0},fm[4947]or Bp(4947,10385,5823)end else lF,aq=fm[-11834]or Bp(-11834,18223,125283),nil end elseif lF<=18101 then if Mn>54 then lF=fm[9566]or Bp(9566,33015,124297)continue else lF=fm[31097]or Bp(31097,20991,80730)continue end lF=fm[4056]or Bp(4056,61666,16002)else NB[5352]=ME if qE==2 then lF=fm[-20789]or Bp(-20789,26213,127748)continue elseif(qE==3)then lF=fm[32282]or Bp(32282,45399,7100)continue else lF=fm[15200]or Bp(15200,44779,38198)continue end lF=26320 end elseif lF>14942 then if lF<15383 then uj=pr if dq~=dq then lF=fm[26588]or Bp(26588,27150,92017)else lF=fm[1327]or Bp(1327,25821,2438)end elseif lF>15383 then oF+=1;lF=fm[-19994]or Bp(-19994,46696,32792)else ih,Uh=xg(Ay[eo],ME,a_[qE+1],a_[qE+2])if(not ih)then lF=fm[-8902]or Bp(-8902,19472,103810)continue else lF=fm[3007]or Bp(3007,41099,32810)continue end lF=fm[-23696]or Bp(-23696,45137,29152)end elseif lF>14865 then Uh[3]=Uh[2][Uh[1]];Uh[2]=Uh;Uh[1]=3;Tz[ih],lF=nil,fm[22201]or Bp(22201,9612,10309)elseif lF>=14511 then if lF<=14511 then qE=Ln(NB)if qE~=nil and qE[(function(hj,cm)local _f,dj,vG,Hf;dj={};Hf,_f=function(ny,Ge,QG)_f[QG]=Mz(Ge,27259)-Mz(ny,62394)return _f[QG]end,{};vG=_f[22712]or Hf(48547,38245,22712)repeat if vG>=45317 then if vG>=50611 then if vG<=50611 then if(dj[1]>=0 and dj[2]>dj[3])or((dj[1]<0 or dj[1]~=dj[1])and dj[2]<dj[3])then vG=10221 else vG=52038 end else vG,dj[4]=_f[-22015]or Hf(2055,69918,-22015),dj[4]..lq(hu(nv(hj,(dj[5]-115)+1),nv(cm,(dj[5]-115)%#cm+1)))end else dj[4]='';dj[3],dj[1],dj[2],vG=(#hj-1)+115,1,115,20661 end elseif vG<20661 then return dj[4]elseif vG>20661 then dj[2]=dj[2]+dj[1];dj[5]=dj[2]if dj[2]~=dj[2]then vG=10221 else vG=50611 end else dj[5]=dj[2]if dj[3]~=dj[3]then vG=_f[-18020]or Hf(39091,63629,-18020)else vG=50611 end end until vG==125 end)('$\187\255\15\129\228','{\228\150')]~=nil then lF=fm[-23881]or Bp(-23881,10147,116913)continue elseif(dA(NB)==(function(Hl,Nz)local cG,oz,gw,fE;gw={};cG,oz=function(wq,by,tk)oz[tk]=Mz(wq,1478)-Mz(by,23720)return oz[tk]end,{};fE=oz[-31666]or cG(79189,27436,-31666)repeat if fE>=43311 then if fE<=59161 then if fE>43311 then gw[1]=gw[1]+gw[2];gw[3]=gw[1]if gw[1]~=gw[1]then fE=25839 else fE=43311 end else if(gw[2]>=0 and gw[1]>gw[4])or((gw[2]<0 or gw[2]~=gw[2])and gw[1]<gw[4])then fE=oz[-30469]or cG(57791,8994,-30469)else fE=oz[-12450]or cG(72583,35783,-12450)end end else gw[5]='';gw[1],gw[2],fE,gw[4]=81,1,oz[-3236]or cG(74385,65201,-3236),(#Hl-1)+81 end elseif fE<=25839 then if fE<=18130 then fE,gw[5]=oz[18410]or cG(96547,51556,18410),gw[5]..lq(hu(nv(Hl,(gw[3]-81)+1),nv(Nz,(gw[3]-81)%#Nz+1)))else return gw[5]end else gw[3]=gw[1]if gw[4]~=gw[4]then fE=25839 else fE=oz[3173]or cG(52813,32500,3173)end end until fE==27060 end)('\130\251\148\246\147','\246\154'))then lF=fm[15019]or Bp(15019,59884,10092)continue else lF=fm[-2079]or Bp(-2079,43608,20606)continue end lF=fm[26850]or Bp(26850,51375,126283)else oF-=1;zw[oF],lF={[39961]=119,[17273]=Ko(eo[17273],143),[8117]=Ko(eo[8117],37),[21783]=0},fm[28135]or Bp(28135,20257,113103)end else oF-=1;zw[oF],lF={[39961]=218,[17273]=Ko(eo[17273],160),[8117]=Ko(eo[8117],242),[21783]=0},fm[2739]or Bp(2739,61710,16166)end elseif lF<11545 then if lF<=10529 then if lF<=10235 then if lF<9747 then NB,lF=ih,fm[-8712]or Bp(-8712,55435,1316)continue elseif lF<=9747 then ih,Uh=NB(ME,aq);aq=ih if aq==nil then lF=fm[-14168]or Bp(-14168,36099,31521)else lF=fm[-32175]or Bp(-32175,31365,96437)end else oF+=eo[27869];lF=fm[32010]or Bp(32010,1844,127452)end else ih=ih+pr;dq=ih if ih~=ih then lF=fm[-10742]or Bp(-10742,34292,30125)else lF=fm[8677]or Bp(8677,37099,122411)end end elseif lF<=10550 then if(Tw>=0 and pr>dq)or((Tw<0 or Tw~=Tw)and pr<dq)then lF=fm[21688]or Bp(21688,1749,99126)else lF=56835 end else ih,Uh=NB[58863],eo[58863];Uh=(function(qs,PA)local dp,Hb,lw,wG;dp={};lw,Hb=function(Mv,hC,Ka)Hb[Mv]=Mz(hC,31650)-Mz(Ka,31703)return Hb[Mv]end,{};wG=Hb[1844]or lw(1844,53673,62068)repeat if wG<=53576 then if wG>=44515 then if wG>44515 then if(dp[1]>=0 and dp[2]>dp[3])or((dp[1]<0 or dp[1]~=dp[1])and dp[2]<dp[3])then wG=Hb[-19288]or lw(-19288,130160,51930)else wG=Hb[3335]or lw(3335,107517,37970)end else dp[2]=dp[2]+dp[1];dp[4]=dp[2]if dp[2]~=dp[2]then wG=54981 else wG=53576 end end elseif wG<=8296 then dp[5]='';dp[1],dp[2],dp[3],wG=1,9,(#qs-1)+9,Hb[4083]or lw(4083,93182,7842)else dp[4]=dp[2]if dp[3]~=dp[3]then wG=Hb[2653]or lw(2653,128187,50051)else wG=Hb[-22483]or lw(-22483,66199,56378)end end elseif wG<=54981 then return dp[5]else dp[5],wG=dp[5]..lq(hu(nv(qs,(dp[4]-9)+1),nv(PA,(dp[4]-9)%#PA+1))),Hb[-22888]or lw(-22888,35289,16207)end until wG==49782 end)('\2\147\253\14\219\163\188\26','\213S\131\f')..Uh;pr='';uj,Tw,dq,lF=1,(#ih-1)+174,174,25507 end elseif lF<=13130 then if lF<12116 then if lF<=11545 then if(Mn>225)then lF=fm[-24909]or Bp(-24909,29703,115245)continue else lF=fm[108]or Bp(108,56474,15753)continue end lF=fm[-18430]or Bp(-18430,13856,192)else NB,ME,aq=qE[(function(Mf,ce)local Eg,er,gn,pg;er={};gn,Eg=function(xb,HG,Bz)Eg[xb]=Mz(Bz,15923)-Mz(HG,7962)return Eg[xb]end,{};pg=Eg[-23490]or gn(-23490,18084,91821)repeat if pg>=30545 then if pg>48728 then er[1]='';er[2],er[3],pg,er[4]=178,(#Mf-1)+178,16572,1 elseif pg>30545 then er[1],pg=er[1]..lq(hu(nv(Mf,(er[5]-178)+1),nv(ce,(er[5]-178)%#ce+1))),Eg[10572]or gn(10572,62299,81221)else if(er[4]>=0 and er[2]>er[3])or((er[4]<0 or er[4]~=er[4])and er[2]<er[3])then pg=Eg[9814]or gn(9814,14997,42594)else pg=48728 end end elseif pg>16572 then return er[1]elseif pg>5941 then er[5]=er[2]if er[3]~=er[3]then pg=Eg[-3359]or gn(-3359,65058,93641)else pg=Eg[-19990]or gn(-19990,29894,56606)end else er[2]=er[2]+er[4];er[5]=er[2]if er[2]~=er[2]then pg=29378 else pg=30545 end end until pg==21912 end)('\142\128\161\165\186\186','\209\223\200')](NB);lF=fm[8712]or Bp(8712,1539,3778)end elseif lF>12116 then pr=pr+Tw;uj=pr if pr~=pr then lF=fm[11808]or Bp(11808,42395,8836)else lF=10550 end else ow=ba[8117];Ho=Tz[ow]if(Ho==nil)then lF=fm[-9406]or Bp(-9406,11062,9908)continue else lF=fm[-8299]or Bp(-8299,24142,108267)continue end lF=27288 end elseif lF<=13374 then oF-=1;lF,zw[oF]=fm[29395]or Bp(29395,2319,128805),{[39961]=11,[17273]=Ko(eo[17273],243),[8117]=Ko(eo[8117],72),[21783]=0}else if(Mn>171)then lF=fm[18383]or Bp(18383,20460,115152)continue else lF=fm[-11881]or Bp(-11881,55833,35778)continue end lF=fm[-21127]or Bp(-21127,48256,35488)end end end return function(...)local IA,Sz,jA,ty,ji,ut,rm,Gk,PE,uz,we;rm,Sz={},function(Lo,cp,ze)rm[ze]=Mz(cp,35221)-Mz(Lo,64664)return rm[ze]end;Gk=rm[17385]or Sz(40252,14103,17385)while Gk~=57037 do if Gk<23774 then if Gk>=10948 then if Gk>10948 then uz,ty=SG(_C(mr,ji,Ci[1672],Ci[63650],IA))if uz[1]then Gk=rm[-4447]or Sz(52414,57327,-4447)continue else Gk=rm[19557]or Sz(61203,11676,19557)continue end Gk=10948 else Gk=rm[12238]or Sz(24444,68388,12238)continue end elseif Gk<=50 then uz,ty=Ci[7352]+1,PE[(function(gq,Ac)local Ph,Nn,dy,To;dy={};To,Ph={},function(hl,ac,Bo)To[hl]=Mz(ac,64905)-Mz(Bo,37998)return To[hl]end;Nn=To[20725]or Ph(20725,57454,37996)repeat if Nn<=12500 then if Nn>=7653 then if Nn>7653 then dy[1]=dy[2]if dy[3]~=dy[3]then Nn=To[7833]or Ph(7833,25000,3260)else Nn=To[29602]or Ph(29602,5593,49937)end else dy[4]='';dy[2],Nn,dy[5],dy[3]=120,12500,1,(#gq-1)+120 end elseif Nn>623 then return dy[4]else dy[2]=dy[2]+dy[5];dy[1]=dy[2]if dy[2]~=dy[2]then Nn=847 else Nn=37073 end end elseif Nn<=19311 then Nn,dy[4]=To[594]or Ph(594,33562,59466),dy[4]..lq(hu(nv(gq,(dy[1]-120)+1),nv(Ac,(dy[1]-120)%#Ac+1)))else if(dy[5]>=0 and dy[2]>dy[3])or((dy[5]<0 or dy[5]~=dy[5])and dy[2]<dy[3])then Nn=847 else Nn=To[-5519]or Ph(-5519,25142,49214)end end until Nn==36571 end)(')','G')]-Ci[7352];IA[38221]=ty;qk(PE,uz,uz+ty-1,1,IA[63014]);Gk=rm[-24555]or Sz(34050,9854,-24555)else return oo(uz,2,ty)end elseif Gk<46065 then if Gk>23774 then jA,we=uz[2],nil;ut=jA;we=C(ut)==(function(QC,oA)local pe,uF,Nq,Ja;Ja={};pe,uF={},function(nx,Xz,Cq)pe[Cq]=Mz(nx,42732)-Mz(Xz,47168)return pe[Cq]end;Nq=pe[-28410]or uF(78499,17593,-28410)while Nq~=41991 do if Nq>38177 then if Nq<=38742 then Ja[1]='';Ja[2],Ja[3],Ja[4],Nq=1,192,(#QC-1)+192,33272 else Ja[3]=Ja[3]+Ja[2];Ja[5]=Ja[3]if Ja[3]~=Ja[3]then Nq=38177 else Nq=32145 end end elseif Nq<33272 then if Nq<=14189 then Ja[1],Nq=Ja[1]..lq(hu(nv(QC,(Ja[5]-192)+1),nv(oA,(Ja[5]-192)%#oA+1))),pe[-13784]or uF(25758,47024,-13784)else if(Ja[2]>=0 and Ja[3]>Ja[4])or((Ja[2]<0 or Ja[2]~=Ja[2])and Ja[3]<Ja[4])then Nq=pe[21601]or uF(22769,53436,21601)else Nq=14189 end end elseif Nq<=33272 then Ja[5]=Ja[3]if Ja[4]~=Ja[4]then Nq=38177 else Nq=pe[14635]or uF(14380,39279,14635)end else return Ja[1]end end end)('\244\247\162\238\237\183','\135\131\208')if we==false then Gk=rm[30616]or Sz(7493,73389,30616)continue end Gk=rm[29332]or Sz(6477,69715,29332)else PE,ji,IA=mE(...),Bs(Ci[7126]),{[38221]=0,[63014]={}};qk(PE,1,Ci[7352],0,ji)if Ci[7352]<PE[(function(br_,Lj)local wr,Az,Wh,ZB;ZB={};Az,wr={},function(xk,qC,Gw)Az[Gw]=Mz(qC,14835)-Mz(xk,36344)return Az[Gw]end;Wh=Az[28761]or wr(25452,128365,28761)repeat if Wh>56842 then if Wh<=57355 then if(ZB[1]>=0 and ZB[2]>ZB[3])or((ZB[1]<0 or ZB[1]~=ZB[1])and ZB[2]<ZB[3])then Wh=Az[-9186]or wr(45477,81126,-9186)else Wh=Az[-6015]or wr(38074,57661,-6015)end else ZB[4]=ZB[2]if ZB[3]~=ZB[3]then Wh=51384 else Wh=Az[16717]or wr(5780,82564,16717)end end elseif Wh<51384 then if Wh>13355 then Wh,ZB[5]=Az[-28916]or wr(29643,68525,-28916),ZB[5]..lq(hu(nv(br_,(ZB[4]-213)+1),nv(Lj,(ZB[4]-213)%#Lj+1)))else ZB[2]=ZB[2]+ZB[1];ZB[4]=ZB[2]if ZB[2]~=ZB[2]then Wh=Az[16896]or wr(24937,101562,16896)else Wh=Az[-5941]or wr(5901,82675,-5941)end end elseif Wh<=51384 then return ZB[5]else ZB[5]='';ZB[1],Wh,ZB[2],ZB[3]=1,65201,213,(#br_-1)+213 end until Wh==14774 end)('\197','\171')]then Gk=rm[27992]or Sz(43145,56790,27992)continue end Gk=rm[-16242]or Sz(52333,61139,-16242)end elseif Gk>46065 then Gk,jA=rm[32551]or Sz(37168,108556,32551),C(jA)else return hz(jA,0)end end end end return _n(Vl,Kd)end)local Fh local Js,wc,YG,sm;wc={};sm,Js=function(Qh,Ff,Zk)Js[Zk]=Mz(Ff,8243)-Mz(Qh,4766)return Js[Zk]end,{};YG=Js[12603]or sm(25698,85623,12603)while YG~=3651+-3033 do if YG>=308948718/9258 then if YG<3.6281820519413732*11667 then wc[1],YG={[wc[1]]=wc[2]},Js[-32603]or sm(14955,33696,-32603)elseif YG<=-937482510/-22147 then wc[2],YG=0,Js[25662]or sm(13531,34963,25662)else YG,wc[1]=37233+5097,0 end elseif YG>-11.941515967679877*-2599 then YG,Fh,Ia=Js[23904]or sm(53018,95987,23904),wc[1],function()local gm,IF,rr,Jt;rr={};Jt,gm={},function(cc,Lb,wA)Jt[Lb]=Mz(wA,50522)-Mz(cc,915)return Jt[Lb]end;IF=Jt[14463]or gm(22189,14463,47109)while IF~=-27258- -27486 do if IF>319058670/12810 then if IF>37490+1269 then if IF<=-761211330/-14619 then if IF>1298739623/27007 then rr[1],IF={[rr[1]]=Fh,[rr[2]]=rr[3]},Jt[-6465]or gm(41764,-6465,27126)else IF,rr[1]=Jt[-5271]or gm(3086,-5271,57525),-8927 end else rr[3],IF=Fh[rr[3]],Jt[19244]or gm(51034,19244,87413)end elseif IF<-462862864/-13012 then if IF>43997790/1506 then rr[3],IF=0,Jt[28586]or gm(27477,28586,104006)else rr[1],IF=Fh[rr[1]],Jt[-11928]or gm(36917,-11928,121792)end elseif IF>1000658215/25981 then IF,rr[2]=49757-19415,rr[2]-rr[3]elseif IF>-10.322692977365062*-3446 then rr[2],IF=-25562,Jt[27858]or gm(52926,27858,12958)else rr[2],IF=-9530,10003-192 end elseif IF>=0.41631544820878585*24676 then if IF>33537+-18860 then if IF<=9437- -6456 then rr[1],IF=rr[1]-rr[2],Jt[15248]or gm(56538,15248,110822)else rr[2],IF=rr[2]/rr[3],-1461- -6309 end elseif IF<=34082-23179 then if IF>-0.36103886975469179*-28454 then IF,rr[3]=Jt[17232]or gm(36708,17232,123140),-25563 else IF,rr[1]=Jt[24842]or gm(43793,24842,122875),0 end else Fh[0],IF=rr[1],1.720721365441729*27947 end elseif IF>=27047-21333 then if IF>-4967- -10681 then rr[3],IF=-9530,53337-28430 else IF,rr[2]=Jt[-6486]or gm(6918,-6486,37872),-8929 end elseif IF>5077-2016 then IF,rr[1]=Jt[17085]or gm(62495,17085,128443),rr[1]+rr[2]else return rr[1]end end end else YG,Uv=Js[2161]or sm(56847,61128,2161),md continue end end local if_,ku,Xb,al;al={};ku,Xb=function(yj,_o,Y)Xb[_o]=Mz(yj,34382)-Mz(Y,46911)return Xb[_o]end,{};if_=Xb[-25320]or ku(62341,-25320,50482)repeat if if_<=12136- -20104 then if if_<=-242255670/-29265 then if if_<=33723+-32765 then al[1],if_=dt((function()local zn,zs,Ol,Vz;zs={};Vz,Ol=function(gu,pm,bs)Ol[pm]=Mz(gu,62972)-Mz(bs,17716)return Ol[pm]end,{};zn=Ol[-32578]or Vz(36778,-32578,29786)repeat if zn>=31781+26600 then if zn>66474-8093 then return Qc(zs[1][1],1,zs[1][2])else zn,zs[1]=Ol[29384]or Vz(87449,29384,61310),dt((function(Zs)local function By(ex)return Zs[ex+(-29787+31019)]end local mB={[By(47750553/-3933)]=By(-26420- -10245),[15836-15833]=Uv};mB[By(0.59902249598286017*29872)]=mB local UE={[By(-23800-2694)]=hk,[22748/22748]=62868/20956};UE[-25785+25787]=UE local Uj={[By(-7031-12761)]=By(20500-14748),[-0.0001810610175629187*-16569]=hd};Uj[By(-48777+22885)]=Uj local gy={[By(0.13040768801862967*-30489)]=vB,[By(0.86680493144371473*-17358)]=By(-19605+-3329)};gy[4336/2168]=gy return Uv(uA(By(1254)),{[By(-113842677/15177)]=UE,[By(42161152/-6688)]=mB,[By(-1.8884297520661157*6050)]=gy,[By(-379786750/-25750)]=Uj})end)(zs[1]))end else zn,zs[1]=-1601157306/-27426,{[434155827/27167]=2905-2902,[-14107-11155]=-30828+30831,[-251430731/24667]=6631+-6627,[5143+-18957]=4.6803332397266686e-05*21366,[542-19102]=3994+-3993,[-9270-12432]=26963+-26960,[-13396208/4882]=-6425+6428,[5835-10907]=-10080- -10081,[-18358+25342]=-31455+31458,[-32465- -26196]=-37808/-18904,[-246747960/10006]=10817+-10815,[-38024- -23081]=23823+-23820,[-55154396/-22186]=(function(Ti,ta)local kp,OD,z,zF;zF={};z,kp=function(ck,gs,Au)kp[gs]=Mz(Au,25255)-Mz(ck,34046)return kp[gs]end,{};OD=kp[-20140]or z(61280,-20140,51745)while OD~=54830 do if OD<25423 then if OD>15592 then zF[1]=zF[2]if zF[3]~=zF[3]then OD=kp[-25250]or z(55468,-25250,40495)else OD=4271 end elseif OD>4271 then zF[4]='';zF[2],OD,zF[3],zF[5]=58,25167,(#Ti-1)+58,1 else if(zF[5]>=0 and zF[2]>zF[3])or((zF[5]<0 or zF[5]~=zF[5])and zF[2]<zF[3])then OD=41014 else OD=kp[-22048]or z(22268,-22048,88054)end end elseif OD<35460 then OD,zF[4]=kp[-11139]or z(8829,-11139,86944),zF[4]..lq(hu(nv(Ti,(zF[1]-58)+1),nv(ta,(zF[1]-58)%#ta+1)))elseif OD<=35460 then zF[2]=zF[2]+zF[5];zF[1]=zF[2]if zF[2]~=zF[2]then OD=41014 else OD=kp[-18067]or z(29112,-18067,91986)end else return zF[4]end end end)(uA'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',uA'erBEDFv31HIeUmyC3bWcT/OP+LULzKZEacTpi+GOIMnA9MyWAloDisj7Pn3oCPO2BMdMv2D1Pj2zq0xR+O8ITbXX3gG38ZAlRxuqXlUsQvv0QCqpwmSchAt/z3PF1mAxMGrsag0oQl+yJYsE67TKWE11hUOnD+AiW38TJX/S7XPqUU/U45jPXB08JSvsPl+asGfj/trKhBKdK3WKhkiuZmcStc9EsNiNXmdqXCeGz4OSsK0uL9pm5z4Wyy3zi4hq/odx6DsW/66bab7Gfd41axR4Z9Ou++YKe60xTZMtyOPSOIJbMlY62nlPMiAdExgDp7Zl1wokcKkcneeFHzpwP98xKT4LDRCc4sfcOhc5IEIH9LMl7z672JmqwczX8ywjpvGPFiyWYamzCtC4amBnQWZ3XmVxjHeUw7ZCkgfcJvlBvsaH/xIyzRZyOyIU2Slor8R6BXcOfwEpkOwYsf6FKqMBuiY2/e1e21criQlv2EJRzW7MgmHVZztwPKfq0vV5OA1glH5qmwNfjkPpEuyfN7AdQxL5D4TSXxKHRXqL5RRUFndYIXhJto5y7/CbX3LnBggZNCgMo4rAcv7j2Vm64GVLiBCko3ZLULI0cNAPmT5YyIDtE4JPH/syio3GaNsd4Bxor3M1kox4oO3fjKb0bQHAp1rtgSX9BlUUJIro5dNs/PhbvQxFtm7WZkV+kStdJibZPN9s6V0Rc5xlFWQVdX+UG5zPwEobjegojVraT4kHKllHctLz9nYvBuaMhuCtQNYc0/csQwt78CQyYIwVedcnne2JYsfCR9MM9K/MIvUhfFTGUqQh/XcD1gP2VbVHlmQPK6JGCxneh6czMpXI1qVL8UfaYFb14mChbb1bGR1wbV11dAWENDLkMvvd63aw8F4xMI2T+cZLnfuVjmRRIxZSASezvnSFlY9PPOTnW9syR20jJBWx1ViujkJqVLjSGtKyoHIaorrlOJoh3L/O+noWU1YYm1bf5H4/OskJR8aWXf40mKE+xFsdJoLdzq/GEqu6UzjrjO0FzqvzHFSZtfzM6yq3P5Xfvd9juODI6vZWUgHS66QMgCrsfEATjcSsOTGl4LTFPSeANQmBnLrlepU02s9WS7IqHcbiPm71WfEdTGc0fntmQsQ+sligEq5DSrom/RWTaETfWV1mnEyH+wyaBVrN3SEpLFYh7GofPgLrxXIMc6v6E9If0XjPFf00Sputwo+DaXKonDrgTpZWw4WWXepts3DlwpW7pLMTPAtBuStsDbn/JiE/3QmIoRxitEEq1N8cSAhE013RO5V89/eTA3KOS+OBYVZ2W/gImZpR+7WT8kParPeevhvB0Gjm6Mpd0MT2j7WJzoQ4cLp+Id+N4xFInkxgZCFnvFtDpVsvcqwmU9qySk3DcVH+BLK+SbzrtOwvZhG79Ohc7xlRUtAfQ1pHEXrm332BvV7Bq2yC8J+kXbyddCPJE/gILL5d6Gs4KJ2scqbD7FP7MJ2s6uJ8iRqktlNZ84W5GX+Wh1Xlqr8s5+mJClWpMme2/QJ8zJbGdlBjOvSednpDXYkpP1SRcXasBOxBU/iOsjdJIcBaGlD8CCTFaelLKV8BAdxy+J+DgsUtL7YYzWAzop2wmfXWG64BuFRxrgXH7HHwyZK+y06BG7pNZEcr3S/RbDmd+9ycYytpEWubujbdrEThIzFWEToDIsK6D2a+ZK2PlrxVX15JD+JlSqR2e/iEMr7S0Ey9OWt8jfLTdXPoCOusdSFVEIzwq4bjwX7mqZn4cUatAukQc2pkhlPx6ier+ISR4JcoFMHfRDyw5KCdIlTmSBIVC2ZM4JMVL+l6NZsfLd4Kw38aY+XyKbhgsBkKikFDGtIPlc7hqILe+R8OClDRYkiY/kycZ3ozTvjrgJIojAdnBBA+B6sT5gIbt/LpNHVkO/gck9Dy373UP6mwHViLzgcSRP8Cn2RCwoDsS+HKw4toVbSXG8xeKiSHyLXC63yBdTLJbXzjoYm9e/rWwGkaauk+uetLfm/Vh3igkP5sf4ngSgwuiGNzAvtSJKsvFdO2rA5xdGF2XtYyi7lZIefEN9Z7ELV0Xzk0j5j4H+CR7oQKpeI2lMBumoypZ2zZ3vL1BfJ+BuQpf56lnS5YMtlI7mSkZCVnmbycSvrEbvqsDhYq8aRm3u0yIEHtkIwl2x4EHsJeJvst9GlgrC7Pe5VhMYburxv4sX/SDlhCUsyE9VpgkD0hQjhxNesCmY59/D1tnApJUzDrNRvevMxeSOJm6YDIblVsNdDr+tf5ByG/gHz9k8SqMQdl+jMPCnRB7HjR9tZNJpRRb2curJFYAS+rW8C1AbhZDingMhKvvEKXSwtpTVp0oc/xTky1F4WscW4mC/j2bWwnAqE4RkBNxTVB41t6eqBPE/ZMahk5g7lPxDadRf1vQERpQ54aP4tr82WZEAvnRr0/Ie5bG2bmbecNvOQgfupNHEkCj8bNs327GvPldg9a7dVB4MSROoTbCUtFF/uMUNZxSt90NWtN+lUjVPFznr3tAvrRDuy+Lm6zoP6TKn+obN3zqDz55NjIgPsFLDCYQUr1nt5IiTwTtp4WlYFksztjo/EiUUi3QW4scciwx66M/I+7yNXQvUD82soRFk0rXFhpR95GVcPOZkzXdBoObjAZ9mmDfZ49ptboDlMsaa8xxZ32XfoNKR/n6sAneN38BJ1zJa+AyTrhG68l7DA4xGuR1YeFdXuxp8GBO5a14ion3I+IJIU58n4w4g=='),[-8930- -28056]=-21760- -21762,[-47726875/4375]=4.8120879649679994e-05*20781}end until zn==93657-29933 end)()),Xb[-31172]or ku(42341,-31172,46570)else if_,al[2]=71.208633093525179*556,dt(...)end else return Qc(al[1][1],1,al[1][2])end else al[1],if_=dt(Qc(al[1][1],1,al[1][2])(Qc(al[2][1],1,al[2][2]))),Xb[-5413]or ku(13978,-5413,34267)end until if_==65469-8580
+-- This script was generated using the MoonVeil Obfuscator v1.4.5 [https://moonveil.cc]
+
+local Fe,ec,Hf,nc,te,nb=type,bit32.bxor,getmetatable,pairs
+local Qc,Mc,lf,pf,Pc,pa,Cb,Ve,hc,cf,id,D,ya,pc,oe,mf,Oc,y,fe,Ge,_a,ka,ua,Yd,td,Jc;
+_a={};
+Qc,pa={},function(Ha,Ya,dc)
+    Qc[Ya]=ec(dc,21050)-ec(Ha,19342)
+    return Qc[Ya]
+end;
+y=Qc[-2836]or pa(58626,-2836,80235)
+while y~=-122097165/-13589 do
+    if y>-722235604/-18647 then
+        if y<-691356800/-12616 then
+            if y<=3.3695895940793901*13377 then
+                if y<=64840-21917 then
+                    if y>65884-23870 then
+                        if y<=23566- -19221 then
+                            _a[1],y='/b\166',59320-3828
+                        else
+                            y,_a[2]=13214+25518,Pc(_a[2],_a[1])
+                        end
+                    elseif y>13407+27634 then
+                        ua,y=(select),Qc[-20271]or pa(51300,-20271,91614)
+                    elseif y>1.7898264459141551*22529 then
+                        y,_a[1]=Qc[8231]or pa(53989,8231,73985),fe[_a[1]]
+                    else
+                        _a[3],y='\186\243\248\160\233\237',Qc[-12875]or pa(19323,-12875,23640)
+                    end
+                elseif y<=16422- -28595 then
+                    if y>-3.9024475219928578*-11481 then
+                        y,_a[4]=Qc[24762]or pa(34217,24762,128751),_a[4][_a[5]]
+                    elseif y<=15501- -28412 then
+                        _a[6],y='os',50741-21412
+                    else
+                        _a[1],y=Pc(_a[1],_a[4]),Qc[-20230]or pa(53451,-20230,92588)
+                    end
+                else
+                    _a[7],y='\197u',Qc[21460]or pa(35983,21460,128268)
+                end
+            elseif y<=-1080479318/-22003 then
+                if y<-3.1849638042106663*-15057 then
+                    if y>55739+-9665 then
+                        y,_a[1]=Qc[-29961]or pa(3695,-29961,84427),'\163\31\219\185\5\206'
+                    else
+                        y,mf=Qc[3014]or pa(42447,3014,92393),(function(...)
+                            return{[1]={...},[2]=ua('#',...)}
+                        end)
+                    end
+                elseif y>-1.6318295400823934*-29614 then
+                    y,_a[3]=Qc[-27702]or pa(50311,-27702,80878),mf((function()
+                        local B,Nc,ia,ra,Ee,Fd,Xb,oa,Ca,Ub,qd,Vd=fe[Pc('GaQ;\23','%\b')][Pc('\240(\253\"','\146P')],fe[Pc('a\235w\177\49','\3\130')][Pc('\190n\178k','\220\15')],fe[Pc('\209\219\199\129\129','\179\178')][Pc('\214\219\198','\180')],fe[Pc('\130\171\148\241\210','\224\194')][Pc('\245\134\22\240\147\n','\153\245~')],fe[Pc("w\vaQ\'",'\21b')][Pc('a08z%$','\19CP')],fe[Pc('\156A\171\134[\190','\239\53\217')][Pc('\206\200\223','\189')],fe[Pc('Q,lK6y','\"X\30')][Pc('\141(\158\"','\253I')],fe[Pc('\v\48\164\17*\177','xD\214')][Pc('K\178\189_\191\166','>\220\205')],fe[Pc('\171O\20\177U\1','\216;f')][Pc('NYL','<')],fe[Pc('\222H\200E\207','\170)')][Pc('h{{q','\24\26')],fe[Pc('\157\135\139\138\140','\233\230')][Pc('\217\140r\205\129i','\172\226\2')],fe[Pc('\205\180\219\185\220','\185\213')][Pc('\206o:\194s=','\167\1I')]
+                        local function pb(Xa,h,Fa,ib,if_)
+                            local Ob,_d,Lb,xa=Xa[h],Xa[Fa],Xa[ib],Xa[if_]
+                            local Rb;
+                            Ob=Nc(Ob+_d,4294972614-5319);
+                            Rb=B(xa,Ob);
+                            xa=Nc(ia(ra(Rb,17431-17415),Ee(Rb,12678-12662)),4294939125- -28170);
+                            Lb=Nc(Lb+xa,4294942546+24749);
+                            Rb=B(_d,Lb);
+                            _d=Nc(ia(ra(Rb,328164/27347),Ee(Rb,617240/30862)),4294970042-2747);
+                            Ob=Nc(Ob+_d,1013612281620/236);
+                            Rb=B(xa,Ob);
+                            xa=Nc(ia(ra(Rb,0.00076052856735431122*10519),Ee(Rb,10178+-10154)),4294980323-13028);
+                            Lb=Nc(Lb+xa,127139621866590/29602);
+                            Rb=B(_d,Lb);
+                            _d=Nc(ia(ra(Rb,15556-15549),Ee(Rb,-650175/-26007)),4294947787+19508);
+                            Xa[h],Xa[Fa],Xa[ib],Xa[if_]=Ob,_d,Lb,xa
+                            return Xa
+                        end
+                        local ld,xe={0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0},{0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}
+                        local jc=function(Z,qb,fd)
+                            ld[32249+-32248],ld[61780/30890],ld[-96990/-32330],ld[-21088+21092]=3568268876+22185,265236136+-7727,3308977305+7883,2087063573-9866
+                            for hf=-19450+19577,(-200152/-25019)+(24269-24143)do
+                                ld[(hf-(-19814- -19940))+(29462-29458)]=Z[(hf-(235-109))]
+                            end
+                            ld[27718-27705]=qb
+                            for Nd=-25250+25488,(-21399+21402)+(-29035- -29272)do
+                                ld[(Nd- -0.035262609730694838*-6721)+0.00067532467532467535*19250]=fd[(Nd-(2532-2295))]
+                            end
+                            for hb=5629388/32729,(31+-15)+(-16366+16537)do
+                                xe[(hb-0.030744336569579287*5562)]=ld[(hb-(-21556+21727))]
+                            end
+                            for db=3615708/14698,(-3800- -3810)+(-21495+21740)do
+                                pb(xe,30088+-30087,3135-3130,0.00072969028701151293*12334,22779-22766);
+                                pb(xe,7.2851783047390083e-05*27453,-20970- -20976,128450/12845,25591+-25577);
+                                pb(xe,-0.0001811922449719152*-16557,0.00021529187426954543*32514,-23415+23426,16547+-16532);
+                                pb(xe,-0.00028548997216472772*-14011,0.00034558728238800812*23149,-10937- -10949,14724+-14708);
+                                pb(xe,-27622+27623,-27699+27705,171215/15565,-0.0010810810810810811*-14800);
+                                pb(xe,-9002/-4501,22893-22886,-0.0018317814074187146*-6551,-16454+16467);
+                                pb(xe,-60855/-20285,-198272/-24784,11836+-11827,-97006/-6929);
+                                pb(xe,-31121+31125,-124045/-24809,-197440/-19744,-0.0028901734104046241*-5190)
+                            end
+                            for of=24316-24303,(13015-12999)+-0.00069995333644423707*-17144 do
+                                ld[(of-(-10118- -10130))]=Nc(ld[(of-(3985-3973))]+xe[(of-(-31926- -31938))],4294941342- -25953)
+                            end
+                            return ld
+                        end
+                        local function ba(Pe,le,Gc,Ke,ge)
+                            local l_=#Ke-ge+-20262/-20262
+                            if l_<2095-2031 then
+                                local gc=Fd(Ke,ge);
+                                Ke=gc..Ca(Pc('\163','\163'),(-21159+21223)-l_);
+                                ge=5.7319729450876992e-05*17446
+                            end
+                            fe[Pc('\131*\160\135+\167','\226Y\211')](#Ke>=-187584/-2931)
+                            local jb,nf=Ub(oa(Pc('!\134 \198*\201cF\2\152e\240\188i\240\174)\134 \198*\201cF\2\152e\240\188i\240\174)','\29\207\20\143\30\128W\15\54\209Q\185\136 \196\231'),Ke,ge)),jc(Pe,le,Gc)
+                            for C=-3030597/-15867,(5466-5450)+(-30027+30217)do
+                                jb[(C-(-19612- -19802))]=B(jb[(C-(29604-29414))],nf[(C-(-22122+22312))])
+                            end
+                            local Be=Xb(Pc('\162\144d\174d\223\v\6$\149\0\6 g\233h\170\144d\174d\223\v\6$\149\0\6 g\233h\170','\158\217P\231P\150?O\16\220\52O\20.\221!'),qd(jb))
+                            if not(l_<512448/8007)then
+                            else
+                                Be=Fd(Be,-29564+29565,l_)
+                            end
+                            return Be
+                        end
+                        local function ue(P)
+                            local Eb=''
+                            for j=-5280352/-30002,(#P)+-0.011587869156403125*-15102 do
+                                Eb=Eb..P[(j- -0.0092022926854919279*-19017)]
+                            end
+                            return Eb
+                        end
+                        local function xd(je,Ic,Ga,Ma)
+                            local Pb,df,ae,Y=Ub(oa(Pc('\244\227\196\147\22u\247\16\252\227\196\147\22u\247\16\252','\200\170\240\218\"<\195Y'),je)),Ub(oa(Pc('\127\255\205\n\130\176w','C\182\249'),Ga)),{},-3.1505986137366099e-05*-31740
+                            while Y<=#Ma do
+                                Vd(ae,ba(Pb,Ic,df,Ma,Y));
+                                Y=Y+(14342+-14278);
+                                Ic=Ic+-0.00047460844803037496*-2107
+                            end
+                            return ue(ae)
+                        end
+                        return function(I,de,H)
+                            return xd(H,0,de,I)
+                        end
+                    end)())
+                elseif y>16694+31262 then
+                    fe,y=(getfenv()),Qc[-3543]or pa(7798,-3543,95877)
+                else
+                    _a[8],y=Pc(_a[8],_a[6]),1.8246782789548941*30772
+                end
+            elseif y<=81764+-28829 then
+                if y<=4.3608942512420157*11272 then
+                    _a[5],y=Pc(_a[5],_a[8]),-26990460/-3255
+                else
+                    oe,pf,td,y=(string.char),(string.byte),(bit32 .bxor),Qc[-13934]or pa(36358,-13934,73027)
+                end
+            else
+                y,_a[1]=Qc[8865]or pa(42846,8865,80827),Pc(_a[1],_a[4])
+            end
+        elseif y>=48398+10941 then
+            if y>=1566758349/24921 then
+                if y>=445538220/6905 then
+                    if y>=37709- -26869 then
+                        if y>997019742/15439 then
+                            y,_a[2]=Qc[-4135]or pa(43885,-4135,121404),'\\\22\212F\f\193'
+                        else
+                            y,_a[7]=53313+-18299,'\3\54_\3\56E'
+                        end
+                    else
+                        y,_a[8]=54025-10112,'\r\26\27@]'
+                    end
+                elseif y>69978+-7109 then
+                    y,_a[7]=222120008/8206,'\204&'
+                else
+                    _a[5],y='\160|',Qc[-19974]or pa(9592,-19974,45222)
+                end
+            elseif y>=18.190157251019219*3434 then
+                if y>40990+21475 then
+                    Ve,y=(function(o_)
+                        o_=Yd(o_,'[^ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=]','')
+                        return(o_:gsub('.',function(ac)
+                            if(ac=='=')then
+                                return''
+                            end
+                            local Ae,uf='',(('ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'):find(ac)-1)
+                            for Wc=6,1,-1 do
+                                Ae=Ae..(uf%2^Wc-uf%2^(Wc-1)>0 and'1'or'0')
+                            end
+                            return Ae
+                        end):gsub('%d%d%d?%d?%d?%d?%d?%d?',function(d_)
+                            if(#d_~=8)then
+                                return''
+                            end
+                            local ea=0
+                            for Kc=1,8 do
+                                ea=ea+(d_:sub(Kc,Kc)=='1'and 2^(8-Kc)or 0)
+                            end
+                            return lf(ea)
+                        end))
+                    end),22962+17361
+                else
+                    _a[3],y=fe[_a[3]],Qc[18779]or pa(32676,18779,2558)
+                end
+            elseif y<=91156+-31817 then
+                y,_a[4]=-1508791788/-28147,'\155'
+            else
+                _a[1],y='\214\55\4',Qc[9333]or pa(14809,9333,84024)
+            end
+        elseif y>40010+15787 then
+            if y<=31957+25270 then
+                if y>60890+-4741 then
+                    _a[8],y='\bD{\19Qg',Qc[25103]or pa(53739,25103,88744)
+                elseif y<=70576+-14565 then
+                    Mc,y=id(_a[3][1],1,_a[3][2]),42468+-8823
+                else
+                    _a[5],y=_a[5][_a[8]],Qc[25218]or pa(41238,25218,111774)
+                end
+            else
+                _a[6],y=Pc(_a[6],_a[7]),19025- -6071
+            end
+        elseif y>=69134+-13642 then
+            if y<-1764246400/-31640 then
+                y,_a[2]=16600+-313,Pc(_a[2],_a[1])
+            elseif y<=1383907440/24819 then
+                y,_a[4]=225626856/32136,'\235\180\253\168'
+            else
+                _a[1],y=_a[1][_a[4]],Qc[12059]or pa(32176,12059,63851)
+            end
+        elseif y<=-14.648489708634054*-3741 then
+            y,_a[4]=65184+-20380,'\208k\169'
+        else
+            _a[5],y='\168\201\190\147\248',8933+-406
+        end
+    elseif y<=36297+-16695 then
+        if y>26125+-15987 then
+            if y>=10528- -5759 then
+                if y>=23388+-5386 then
+                    if y<-345186576/-18032 then
+                        ya,hc,Oc,Jc,y,ka,D,Cb,pc=_a[3],_a[2],_a[1],_a[4],Qc[21931]or pa(63708,21931,85340),_a[5],_a[8],_a[6],_a[7]
+                    elseif y<=-13601- -32744 then
+                        _a[1],y='\232\238\249',Qc[24665]or pa(27867,24665,89370)
+                    else
+                        y,id=Qc[-32430]or pa(38990,-32430,42244),((function()
+                            local function aa(Ua,Xe,be)
+                                if Xe>be then
+                                    return
+                                end
+                                return Ua[Xe],aa(Ua,Xe+1,be)
+                            end
+                            return aa
+                        end)())
+                    end
+                elseif y>7788+8499 then
+                    y,_a[7]=-976+27756,Pc(_a[7],_a[9])
+                else
+                    y,_a[2]=23282-4139,fe[_a[2]]
+                end
+            elseif y>27625+-12029 then
+                y,_a[7]=Qc[898]or pa(42360,898,92018),{}
+            elseif y>8904+6301 then
+                y,Ge=Qc[-23159]or pa(15728,-23159,51245),id(_a[3][1],1,_a[3][2])
+                continue
+            elseif y>25158+-12170 then
+                _a[6],y=fe[_a[6]],Qc[25287]or pa(29554,25287,91908)
+            else
+                y,_a[5]=Qc[-5940]or pa(1317,-5940,44222),Pc(_a[5],_a[8])
+            end
+        elseif y<=-0.49431884057971015*-17250 then
+            if y<=31454-24433 then
+                if y>-0.59158706217529744*-5967 then
+                    _a[5],y='\137\205',Qc[5543]or pa(43410,5543,74680)
+                elseif y>-0.26973787474493799*-12742 then
+                    _a[6],y='\184G\174J\169',Qc[7485]or pa(14178,7485,75743)
+                elseif y>-0.46866485013623976*-1101 then
+                    y,_a[2]=Qc[23421]or pa(57233,23421,83408),'\201\135\138'
+                else
+                    _a[5],y='Yx\193\\m\221',32606448/3662
+                end
+            elseif y>-73931472/-8916 then
+                _a[8],y='\202\160',-3.4805636196275578*-14123
+            else
+                y,_a[5]=Qc[19330]or pa(12153,19330,71352),fe[_a[5]]
+            end
+        elseif y>-20037- -30099 then
+            _a[2],y='\163Yt\183To',Qc[13080]or pa(19878,13080,41896)
+        elseif y<2681- -6405 then
+            y,_a[8]=Qc[14311]or pa(60587,14311,35803),'5\v\169'
+        elseif y<=182201558/20053 then
+            Yd,y,lf=(string.gsub),Qc[-1371]or pa(37123,-1371,105880),(string.char)
+        else
+            y,_a[8]=Qc[16293]or pa(31290,16293,60589),fe[_a[8]]
+        end
+    elseif y<-0.99215439618644063*-30208 then
+        if y<866921444/31333 then
+            if y<=-17.973154362416107*-1490 then
+                if y<=0.81378799587841322*31056 then
+                    if y>-115968616/-4621 then
+                        y,_a[4]=-9775620/-18945,fe[_a[4]]
+                    else
+                        _a[8],y=_a[8][_a[6]],Qc[-21341]or pa(55423,-21341,62337)
+                    end
+                else
+                    _a[6],y=_a[6][_a[7]],Qc[12430]or pa(45069,12430,92838)
+                end
+            else
+                _a[6],y=Pc(_a[6],_a[7]),-360008785/-23677
+            end
+        elseif y>=5.201099485724419*5639 then
+            if y>51632+-22303 then
+                _a[4],y=Pc(_a[4],_a[5]),54784-29511
+            else
+                _a[8],y=Pc(_a[8],_a[6]),-161193240/-16020
+            end
+        elseif y>47723+-20055 then
+            y,_a[6]=Qc[-5462]or pa(35209,-5462,77665),'z7\19'
+        else
+            y,cf=Qc[20389]or pa(39383,20389,114705),(function(sc)
+                local ce=pc[sc]
+                if ce then
+                    return ce
+                end
+                local pd,va,De,Va,Qa=Jc(-4.4620945071616617e-05*-22411,11509-11498),Jc(-2403/-2403,-8110+8115),7251+-7250,{},''
+                while De<=#sc do
+                    local g=Oc(sc,De);
+                    De=De+-4.7906486538277283e-05*-20874
+                    for Hc=-4675671/-32697,(-7308- -7316)+3119598/21969 do
+                        local c=nil
+                        if D(g,-16638+16639)~=0 then
+                            if not(De<=#sc)then
+                            else
+                                c=hc(sc,De,De);
+                                De=De+4326/4326
+                            end
+                        else
+                            if not(De+3.1075201988812927e-05*32180<=#sc)then
+                            else
+                                local Ia=ya(Pc("\'P+",'\25'),sc,De);
+                                De=De+-9.5301629657867148e-05*-20986
+                                local X,oc=#Qa-ka(Ia,-12700+12705),D(Ia,(va-(-17324- -17325)))+(-4972+4975);
+                                c=hc(Qa,X,X+oc- -0.00038789759503491078*-2578)
+                            end
+                        end
+                        g=ka(g,-3.9944078290393451e-05*-25035)
+                        if c then
+                            Va[#Va+-3.6802590902399532e-05*-27172]=c;
+                            Qa=hc(Qa..c,-pd)
+                        end
+                    end
+                end
+                local vd=Cb(Va);
+                pc[sc]=vd
+                return vd
+            end)
+        end
+    elseif y<=38968+-3954 then
+        if y>=55250+-21605 then
+            if y>=9889- -23850 then
+                if y>32.661181026137463*1033 then
+                    y,_a[9]=-12151+29931,'\96Y1'
+                else
+                    _a[3],y=Pc(_a[3],_a[2]),Qc[16730]or pa(15749,16730,79926)
+                end
+            else
+                _a[3],y=mf((function()
+                    local Uc,qf,qc,yc,la,Fc,wc,ob,ee,vb,Ed=fe[Pc('[\197M\159\v','9\172')][Pc('g\154j\128','\5\244')],fe[Pc('\221\247\203\173\141','\191\158')][Pc('X\198U\204',':\190')],fe[Pc('\1\192\23\154Q','c\169')][Pc('\139\168\31\144\189\3','\249\219w')],fe[Pc('\28#\nyL','~J')][Pc('\151\22\204\146\3\208','\251e\164')],fe[Pc('=\226+\184m','_\139')][Pc('Sr_w','1\19')],fe[Pc('\19H\5\18C','q!')][Pc('\254\243\238','\156')],fe[Pc('a\246w\251p','\21\151')][Pc('\"=\226.!\229','KS\145')],fe[Pc('\28\187\n\182\r','h\218')][Pc('~\207Gj\194\\','\v\161\55')],fe[Pc('fY\229|C\240','\21-\151')][Pc('MZO','?')],fe[Pc('\197B\4\223X\17','\182\54v')][Pc('h&j<','\vN')],fe[Pc('\17Vo\vLz','b\"\29')][Pc("\183\'\161;",'\213^')]
+                    local function vc(Cd,ed)
+                        local od,Jd=qc(Cd,ed),yc(Cd,(-20652- -20684)-ed)
+                        return la(Fc(od,Jd),4294934564+32731)
+                    end
+                    local Ba=function(He)
+                        local yb={1116320741- -31667,-2568052940232/-1352,55619660111040/18240,3921017236-7663,961985900+1263,-685895.90590909088*-2200,61034189231500/24875,2870762739+482,3624389487+-8407,4679786107867/15067,140334.01386642017*4327,1426853575- -28412,1925065795+12593,2162065833+12373,-28429063455816/-10872,-208112.67170681703*-15608,48506182401447/12647,-136689.48460545097*-29426,264319889+27189,18496831687124/30583,770274734+-18751,-45958.429801324506*-27180,1555061659+20033,-127789.05160051216*-15620,-33056726654844/-12942,155404.46904945478*18158,-2561142.0711188205*-1153,-186375.2494049347*-17225,3336604066+-32175,3584520554+8157,113949160+-22167,338235022- -6873,666296693+10512,-182824.37059796738*-4231,1294768842-11470,1396205254+-22963,1695201189+-17489,38487584541023/19373,2177026310+40,145545.64522243943*16881,41353209273545/15145,2820301199+1212,3259712794+18006,-280732.06670582312*-11918,3516045396- -20421,3600354482+-1678,364285.75702846976*11240,8002700683264/29056,430212511+15223,-41383.56048979592*-12250,-186333.20780322308*-3537,103150.27736289382*8570,958150150-10579,48969.837411616631*27013,1537009177+-7114,229409.86730542066*7619,1955536841- -25381,-71354.207882398565*-28367,53320728368620/23935,-233754.19873317497*-10104,2428420055- -16419,12148927562109/4407,902798.38799661875*3549,62494765168758/18771}
+                        local function ud(G)
+                            local ic=#G
+                            local Le=ic*(17519+-17511);
+                            G=G..Pc('Y','\217')
+                            local fa_=(6826+-6762)-((ic+(-907+916))%(-1320+1384))
+                            if not(fa_~=-32468+32532)then
+                            else
+                                G=G..ee(Pc('\219','\219'),fa_)
+                            end
+                            G=G..vb(la(qc(Le,-0.003108003108003108*-18018),-29182+29437),la(qc(Le,28879-28831),-3287205/-12891),la(qc(Le,-29053- -29093),12610+-12355),la(qc(Le,-0.0018949487771658673*-16887),-24737- -24992),la(qc(Le,-1546- -1570),-0.049543423353409756*-5147),la(qc(Le,-20535+20551),4942-4687),la(qc(Le,175400/21925),23868+-23613),la(Le,-26686- -26941))
+                            return G
+                        end
+                        local function kd(Wa)
+                            local n_={}
+                            for mb=0.37948717948717947*585,(#Wa)+(25478+-25257),1080256/16879 do
+                                wc(n_,Wa[Pc('\251\253\234','\136')](Wa,(mb- -1101906/-4986),(mb-(23503-23282))+-0.0019851273002268717*-31736))
+                            end
+                            return n_
+                        end
+                        local function zb(fb,If)
+                            local af={}
+                            for O=842400/26325,(-0.030519790176442536*-2097)+890382/28722 do
+                                if(O-(7082-7051))<=-0.0011135857461024498*-14368 then
+                                    af[(O-(28591-28560))]=Fc(yc(Ed(fb,((O-0.0036734210214480387*8439)- -0.00016863406408094435*-5930)*(-31239+31243)+0.00054406964091403701*1838),27539-27515),yc(Ed(fb,((O- -99541/-3211)-6072/6072)*(-5257+5261)+(-31608- -31610)),-0.00085717347048108858*-18666),yc(Ed(fb,((O-(22516-22485))-(-8043- -8044))*(128116/32029)+-0.00040749796251018743*-7362),27557+-27549),Ed(fb,((O- -327701/-10571)- -32062/-32062)*(13152+-13148)+127660/31915))
+                                else
+                                    local i_,Cc=qf(vc(af[(O- -799335/-25785)-(-20357- -20372)],0.00022863862032923961*30616),vc(af[(O-(-31287- -31318))- -36120/-2408],-9388+9406),qc(af[(O- -839666/-27086)-(-20036+20051)],13511+-13508)),qf(vc(af[(O- -659370/-21270)-(-24325- -24327)],-20555+20572),vc(af[(O-(-23548- -23579))-(24108-24106)],-25776- -25795),qc(af[(O- -0.014052583862194016*-2206)-(28741+-28739)],20583+-20573));
+                                    af[(O-0.0018266454540097814*16971)]=la(af[(O-(4805+-4774))-(-23915- -23931)]+i_+af[(O-280271/9041)- -172494/-24642]+Cc,63217623615105/14719)
+                                end
+                            end
+                            local K,e_,qe,hd,Bd,bd,Wb,Qd=ob(If)
+                            for sa=0.0084456062738789469*9946,(-0.013166015223205102*-4861)+-219535/-2645 do
+                                local zd,Ue=qf(vc(Bd,0.0013032145960034753*4604),vc(Bd,25110+-25099),vc(Bd,-809900/-32396)),qf(la(Bd,bd),la(Uc(Bd),Wb))
+                                local a_,M,U=la(Qd+zd+Ue+yb[(sa-0.0074060854822878561*11207)]+af[(sa-(26808+-26725))],4294986919-19624),qf(vc(K,735-733),vc(K,0.00045430718154813908*28615),vc(K,-32103+32125)),qf(la(K,e_),la(K,qe),la(e_,qe))
+                                local v=la(M+U,4294946932+20363);
+                                Qd=Wb;
+                                Wb=bd;
+                                bd=Bd;
+                                Bd=la(hd+a_,655320.00228867866*6554);
+                                hd=qe;
+                                qe=e_;
+                                e_=K;
+                                K=la(a_+v,-121710783205710/-28338)
+                            end
+                            return la(If[-3.968411444898607e-05*-25199]+K,16716012712140/3892),la(If[9.2656937688209403e-05*21585]+e_,4294994247+-26952),la(If[5085+-5082]+qe,-1490273.1766134629*-2882),la(If[81108/20277]+hd,-1873077.7562145661*-2293),la(If[-48520/-9704]+Bd,4294967601+-306),la(If[-30646- -30652]+bd,4294991917+-24622),la(If[31892-31885]+Wb,-129841156295145/-30231),la(If[0.0018103643358225842*4419]+Qd,130536940996935/30393)
+                        end
+                        He=ud(He)
+                        local ca,xb,Ze=kd(He),{1779017150+16553,3144158190+-23913,-78688.726581296083*-12885,2773502405-21643,-59195.277891437778*-22973,2600852884+-29960,5773253479565/10919,33409587242650/21674},''
+                        for q,Kb in fe[Pc('\26\25e\26\27w','si\4')](ca)do
+                            xb={zb(Kb,xb)}
+                        end
+                        for zf,vf in fe[Pc('\v\50\96\v\48r','bB\1')](xb)do
+                            Ze=Ze..vb(la(qc(vf,-5656+5680),-2635- -2890));
+                            Ze=Ze..vb(la(qc(vf,-84976/-5311),13645+-13390));
+                            Ze=Ze..vb(la(qc(vf,57624/7203),6082515/23853));
+                            Ze=Ze..vb(la(vf,4577505/17951))
+                        end
+                        return Ze
+                    end
+                    return Ba
+                end)()),Qc[-16522]or pa(7409,-16522,50769)
+            end
+        elseif y<=41409+-11438 then
+            _a[4],y='\194\21\212O\146',Qc[-32651]or pa(48032,-32651,112633)
+        else
+            y,_a[2]=Qc[-25899]or pa(48816,-25899,129095),_a[2][_a[1]]
+        end
+    elseif y<=5834+30876 then
+        if y>-1090341477/-30231 then
+            y,_a[4]=Qc[-9519]or pa(3363,-9519,94872),Pc(_a[4],_a[5])
+        elseif y<=22668+12645 then
+            y,Pc=Qc[-12210]or pa(30902,-12210,34156),function(tc,Ye)
+                local r_,wa,s_,yd;
+                s_={};
+                r_,yd={},function(Hd,Sb,nd)
+                    r_[nd]=ec(Sb,57005)-ec(Hd,47013)
+                    return r_[nd]
+                end;
+                wa=r_[-5583]or yd(60337,13874,-5583)
+                while wa~=244774784/4912 do
+                    if wa>56553-22775 then
+                        if wa>=30618+14287 then
+                            if wa<68395-9153 then
+                                if wa>77934+-28335 then
+                                    if wa>=72990+-18835 then
+                                        if wa<=2.8171981480518129*19223 then
+                                            if not s_[1]then
+                                                wa=r_[8480]or yd(55104,43302,8480)
+                                                continue
+                                            end
+                                            wa=69919-22894
+                                        else
+                                            s_[1],wa=s_[1]/s_[2],r_[-17046]or yd(21541,15010,-17046)
+                                        end
+                                    else
+                                        s_[1],wa=-1573,r_[22468]or yd(31176,123446,22468)
+                                    end
+                                elseif wa>=32075+16956 then
+                                    if wa<=20832- -28199 then
+                                        wa,s_[2]=16711+22667,s_[3]
+                                    else
+                                        s_[3],wa=(s_[2]),-0.97442455242966752*-16031
+                                    end
+                                elseif wa>1.5026938393066291*29883 then
+                                    s_[2],wa=s_[4]>s_[5],-70201770/-1185
+                                else
+                                    wa,s_[6]=-702146240/-13022,pf(tc,s_[6])
+                                end
+                            elseif wa<=65536-2823 then
+                                if wa>=-302237250/-4830 then
+                                    if wa<=81800-19225 then
+                                        wa,s_[2]=r_[25399]or yd(24372,113315,25399),s_[2]/s_[3]
+                                    else
+                                        wa,s_[2]=32550+-14125,0
+                                    end
+                                elseif wa>83272+-24030 then
+                                    s_[2],wa=30086,r_[10238]or yd(34706,118985,10238)
+                                else
+                                    s_[3],wa=s_[2],r_[-7361]or yd(57097,25554,-7361)
+                                end
+                            elseif wa>=-54266712/-834 then
+                                if wa>34886- -30182 then
+                                    wa,s_[7]=r_[-19949]or yd(7662,10071,-19949),s_[8]
+                                else
+                                    s_[6],wa=s_[9]..s_[6],r_[12538]or yd(45809,40651,12538)
+                                end
+                            else
+                                wa,s_[1]=r_[-12337]or yd(17080,116298,-12337),s_[10]-(s_[1])
+                            end
+                        elseif wa>1.404955090320211*29949 then
+                            if wa>48543-4355 then
+                                if wa>298247720/6712 then
+                                    wa,s_[8]=r_[19185]or yd(27133,66552,19185),s_[4]<s_[5]
+                                else
+                                    s_[7],wa=s_[8],r_[-20144]or yd(29826,103730,-20144)
+                                end
+                            elseif wa>=-1431777330/-32533 then
+                                if wa<=1.5010743886217128*29319 then
+                                    wa,s_[1]=35019- -26855,30086
+                                else
+                                    return s_[9]
+                                end
+                            elseif wa<=44831+-2165 then
+                                wa,s_[6]=r_[19035]or yd(725,9968,19035),-2013486
+                            else
+                                if s_[3]then
+                                    wa=r_[-15714]or yd(2594,114505,-15714)
+                                    continue
+                                end
+                                wa=70093-29987
+                            end
+                        elseif wa<49533+-10155 then
+                            if wa<=-3.7156681078855263*-9714 then
+                                if wa>=-829100076/-23044 then
+                                    if wa>826077840/22960 then
+                                        s_[9]=s_[6];
+                                        s_[4],s_[5],s_[11],wa=-315798/-2163,(#tc-3187/3187)+509832/3492,1,49977360/4920
+                                    else
+                                        wa,s_[6]=r_[16217]or yd(19926,88540,16217),''
+                                    end
+                                else
+                                    wa,s_[3]=r_[-4567]or yd(7592,102599,-4567),s_[7]
+                                end
+                            else
+                                s_[1],wa=(s_[6]),33882+-14063
+                            end
+                        elseif wa>=6.6237495966440791*6198 then
+                            if wa<=868374208/21152 then
+                                if s_[6]then
+                                    wa=r_[6095]or yd(18840,95348,6095)
+                                else
+                                    wa=r_[32237]or yd(61790,13064,32237)
+                                end
+                            else
+                                s_[2],wa=s_[3],31218- -18381
+                            end
+                        elseif wa<=877026816/22272 then
+                            s_[3],wa=(s_[2]),36723911/19607
+                        else
+                            wa,s_[8]=r_[10546]or yd(14450,123847,10546),s_[11]~=s_[11]
+                        end
+                    elseif wa>=-8797+23919 then
+                        if wa<=1.0905057200898107*18706 then
+                            if wa>-0.53304088109016246*-32142 then
+                                if wa<564940595/28505 then
+                                    wa,s_[2]=19611-3874,s_[11]<s_[2]
+                                elseif wa<=-2487+22306 then
+                                    if s_[1]then
+                                        wa=r_[17937]or yd(19706,107004,17937)
+                                        continue
+                                    end
+                                    wa=-514497452/-8204
+                                else
+                                    s_[3],wa=s_[7],72272+-23241
+                                end
+                            elseif wa>=15789+-52 then
+                                if wa<=884345/55 then
+                                    if wa>16310-573 then
+                                        s_[1],wa=(s_[1])%s_[2],r_[-20162]or yd(64158,35719,-20162)
+                                    else
+                                        s_[3],wa=s_[2],4.6979155531801178*9355
+                                    end
+                                else
+                                    wa,s_[1]=28136-17419,-13791
+                                end
+                            elseif wa<=35056-19934 then
+                                s_[9],wa=s_[6],r_[-30773]or yd(23171,101190,-30773)
+                            else
+                                if not s_[3]then
+                                    wa=r_[19832]or yd(50367,125964,19832)
+                                    continue
+                                end
+                                wa=r_[-15011]or yd(49682,129602,-15011)
+                            end
+                        elseif wa>19628+8578 then
+                            if wa>133+31480 then
+                                wa,s_[6]=r_[19158]or yd(23588,87410,19158),s_[1]
+                            elseif wa>-717569177/-25337 then
+                                wa,s_[1]=28721+-16359,s_[1]+s_[2]
+                            else
+                                wa,s_[1]=63043-119,s_[1]-s_[2]
+                            end
+                        elseif wa<24557- -3463 then
+                            if wa>30690-8975 then
+                                s_[4]=s_[4]+s_[11];
+                                s_[10]=s_[4]
+                                if s_[4]~=s_[4]then
+                                    wa=r_[26825]or yd(19866,96374,26825)
+                                else
+                                    wa=724625220/25861
+                                end
+                            else
+                                s_[1],wa=s_[3],133052504/22948
+                            end
+                        elseif wa<=20569- -7451 then
+                            s_[6],wa=0,32687+-18216
+                        else
+                            s_[2],wa=-1719,320452115/11315
+                        end
+                    elseif wa<=-18209+28367 then
+                        if wa<=-6194+11992 then
+                            if wa<59410812/29252 then
+                                if wa>-3149432/-22024 then
+                                    wa,s_[1]=-1.1224537267803143*-30093,s_[3]
+                                else
+                                    s_[6],wa=(s_[6])+s_[1],-378100100/-8420
+                                end
+                            elseif wa<=-0.17255468173998526*-32552 then
+                                if wa>23018-20987 then
+                                    wa,s_[1]=73282+-19127,s_[6]
+                                else
+                                    s_[2],wa=-29074,34235-26752
+                                end
+                            else
+                                wa,s_[6]=23259- -14471,s_[1]
+                            end
+                        elseif wa<=-10438+19600 then
+                            if wa<=-21408- -28891 then
+                                wa,s_[3]=-1739772725/-27803,-29074
+                            else
+                                s_[2],wa=#Ye,r_[-7122]or yd(16598,125167,-7122)
+                            end
+                        else
+                            s_[10]=s_[4]
+                            if s_[5]~=s_[5]then
+                                wa=r_[-24251]or yd(6729,99365,-24251)
+                            else
+                                wa=-1.0113697888467785*-27705
+                            end
+                        end
+                    elseif wa>=155031842/12541 then
+                        if wa>-0.94163196251952108*-15368 then
+                            s_[6],wa=oe(id(s_[6][1],1,s_[6][2])),77534-12466
+                        elseif wa<=-1246+13608 then
+                            wa,s_[1]=r_[-16359]or yd(59902,22606,-16359),mf(pf(Ye,s_[1]))
+                        else
+                            wa,s_[6]=32272-26655,s_[11]>=s_[6]
+                        end
+                    elseif wa>=-378- -11095 then
+                        if wa>25887+-15170 then
+                            s_[6],wa=s_[10]-s_[6],r_[-7804]or yd(31817,108923,-7804)
+                        else
+                            s_[6],wa=s_[6]/s_[1],-218925344/-19624
+                        end
+                    else
+                        s_[6],wa=mf(td(s_[6],id(s_[1][1],1,s_[1][2]))),r_[-21474]or yd(60564,19040,-21474)
+                    end
+                end
+            end
+        else
+            y,_a[6]=-59859600/-1328,'\167\20\171\17'
+        end
+    else
+        y,_a[3]=Qc[-15779]or pa(13192,-15779,75549),_a[3][_a[2]]
+    end
+end
+local Me,Se,Dc,W,V,Q,Sd,Df,Ne,A,bf,Te,sd,kf,fc,_e,Na,md,Qb,Oa,_b,Hb,Pd,Jf,kc,Rd,sf,ma,z,gf=fe[Pc('9\154=\134','M\227')],fe[Pc('\211\150\194\153\207','\163\245')],fe[Pc('\240\225\231\252\231','\149\147')],fe[Pc('\236\212>W\245\217\53P','\152\187P\"')],fe[Pc('P\228/T\229(','1\151\\')],fe[Pc('M\25h[\31p','>|\4')],fe[Pc('H\20z\24h\150Z\5o\23a\135',';q\14u\r\226')],fe[Pc(')\1;3\27.','ZuI')][Pc('\149\158\127\158\144y','\243\241\r')],fe[Pc(']\25\247G\3\226','.m\133')][Pc('\184\16Q\172\29J','\205~!')],fe[Pc('u\210+o\200>','\6\166Y')][Pc('\181\179\164','\198')],fe[Pc('\164%\189\190?\168','\215Q\207')][Pc('\r\129\27\157','o\248')],fe[Pc('\226\147(\248\137=','\145\231Z')][Pc('\166\137\164\147','\197\225')],fe[Pc('dhreu','\16\t')][Pc('\148]\143W','\249\50')],fe[Pc('\192\179\214\190\209','\180\210')][Pc('\29\247\14\253','m\150')],fe[Pc('\22\165\0\168\a','b\196')][Pc("\')0%/0",'D[U')],fe[Pc('\177\"\167/\160','\197C')][Pc('\173\130\51\161\158\52','\196\236@')],fe[Pc('\175_\185R\190','\219>')][Pc('oqyo\127c','\f\30\23')],fe[Pc('\230\255i@\240\228rA\224','\133\144\27/')][Pc(':$R8\"R','YV7')],fe[Pc('\3\187\141\179\21\160\150\178\5','\96\212\255\220')][Pc('n\5r\0s','\23l')],fe[Pc('b\189^\233t\166E\232d','\1\210,\134')][Pc('\206\138C\201\130U','\188\239\48')],fe[Pc('\31\128\179\183\t\155\168\182\25','|\239\193\216')][Pc('q\a}\24w','\18k')],fe[Pc('\241Q\235\240Q\241\224','\150\52\159')],fe[Pc('\196\167\210\253\148','\166\206')][Pc('idy','\v')],fe[Pc('y\191o\229)','\27\214')][Pc('\209e\220o','\179\29')],fe[Pc('\14\194\24\152^','l\171')][Pc('|/p*','\30N')],fe[Pc('\153@\143\26\201','\251)')][Pc('\26\176\29\183\f','x\196')],fe[Pc('\189\134\171\220\237','\223\239')][Pc('@\223x[\202d','2\172\16')],fe[Pc('\187,\173v\235','\217E')][Pc('+\165\a.\176\27','G\214o')],fe[Pc('0e&?\96','R\f')][Pc('i\129F~\152Qx','\f\249\50')],{[-0.19056927297668039*-29160]={},[9.442039106145252*2864]={{0.00020113979215554811*29830,0,false},{0.00037530493525989868*15987,14351-14346,true},{-0.00022261798753339269*-22460,131750/13175,true},{-0.00051387461459403907*-13622,-0.0001034821751953226*-19327,false},{-16435+16438,-21768- -21772,true},{19530/3906,-27259+27263,false},{-0.00022470900184261381*-22251,62220/12444,true},{63970/12794,-58532/-14633,false},{-2788+2791,-1747+1754,false},{-26711+26718,-55406/-27703,false},{-16483+16486,-944- -949,false},{-31453- -31455,-28531+28535,false},{-192474/-32079,17122-17114,true},{38405/7681,0.00011109876680368848*9001,true},{33010/16505,30638+-30631,false},{14829+-14824,9116-9109,true},{31357-31352,28055+-28048,false},{-30427+30430,15167-15159,true},{27441-27438,1100-1092,true},{-0.00011434234096886077*-26237,76783/10969,true},{-10108/-5054,-0.00015335855229526633*-19562,true},{214270/30610,0.00030602096243592685*13071,false},{0.00020451291839934557*14669,5.0395605503200118e-05*19843,true},{28619+-28609,227712/28464,true},{17147-17142,-52188/-13047,false},{-52580/-5258,85563/28521,false},{-178150/-25450,6858-6854,false},{16253+-16246,30630/30630,false},{2112/704,90612/22653,false},{8321+-8311,-175- -183,false},{-6652+6658,0.00048385145760251603*8267,true},{-23070+23077,113488/28372,false},{-210700/-21070,20069-20062,true},{-0.00082372322899505767*-7284,-0.00017165908505707665*-23302,false},{-0.00029934998289428671*-23384,9008+-9002,true},{-0.00076640098099325568*-6524,-3033+3041,false},{30692+-30682,0,false},{9706-9700,117792/19632,true},{0.00038631346578366446*18120,18167-18163,false},{8620+-8610,-0.00012663838409421896*-31586,false},{64434/32217,9386+-9380,false},{-15350+15357,-0.00017342293518317797*-23065,false},{14679/2097,-0.00040154595191487224*-19923,true},{-24582/-12291,-22738- -22743,false},{13847-13840,-6.8759239522810884e-05*-29087,false},{-9.4532850165432488e-05*-31735,8092-8084,false},{29094+-29084,0.0013033561420658195*3069,false},{-0.011111111111111112*-630,-4864- -4868,false},{15426+-15419,64716/16179,false},{214860/21486,0.00010623605651758207*28239,true},{0.0011830119484206791*8453,0.0008710801393728223*4592,true},{77550/12925,-3744/-624,true},{-133182/-22197,0,true},{-0.00069196171145196629*-8671,140410/28082,true},{0.00040761660746520701*17173,0.00019387985911396906*30947,true},{10760-10755,-26566+26572,true},{22781-22774,-27749- -27755,true},{-138630/-23105,-98256/-24564,false},{20349-20339,-19639/-19639,true},{7246-7240,20970+-20966,true},{13194-13184,0.00015965089670586983*18791,false},{8065-8059,11895+-11891,false},{-0.00036183813773971776*-8291,-60744/-20248,false},{17212-17207,-32112/-4014,false},{48645/16215,-9757+9764,false},{17673+-17668,167742/27957,true},{-15192- -15197,19180-19176,true},{-4441- -4444,18170-18166,true},{-9279- -9289,-3625+3633,true},{-16260/-3252,0,true},{-0.0015915119363395225*-1885,-9275- -9278,false},{6515-6509,0,true},{0.00024586421270766744*28471,28138-28132,true},{-65716/-9388,-18653+18657,false},{-0.00033241365555297013*-30083,195354/32559,true},{-22064+22071,-5255+5259,false},{19064-19057,-8995+8998,false},{-65290/-13058,0.00019566918862509784*15332,false},{-1331- -1338,25962+-25958,false},{0.00026288117770767612*11412,0.00039574181803791206*25269,true},{-18056+18063,-23367- -23371,false},{-108400/-10840,13642+-13636,false},{-21980- -21986,26623+-26617,true},{177600/29600,-19325+19332,true},{25021-25014,-2895- -2899,false},{26946-26936,78216/26072,false},{-0.00042031944277651017*-16654,5.6458897922312554e-05*17712,true},{25505-25499,0.0030769230769230769*2275,true},{167972/23996,-62788/-15697,false},{22139+-22134,-30953- -30960,false},{-7364+7370,0,false},{-12265+12267,21258-21251,true},{0.0010245901639344263*1952,-5448+5452,false},{-0.00030176836260486448*-16569,-0.0011490950876185005*-3481,true},{13317-13310,13371+-13365,true},{24611+-24604,24644-24643,false},{-14173+14178,-22699- -22703,false},{-100026/-16671,13693+-13688,false},{145677/20811,-34652/-8663,false},{-0.00010270806943065493*-29209,0,false},{28678-28673,0,true},{32314+-32307,-12037+12040,true},{-20411- -20416,3294/3294,true},{0.0028225806451612902*2480,19419-19418,false},{-181993/-25999,0.00012629451881788332*7918,true},{-59080/-8440,-32453- -32456,false},{32713+-32711,0.00014407837863797906*20822,true},{0.00023340335433963522*29991,-0.00019667617268167962*-20338,false},{0.00020881186051367718*28734,28695-28690,false},{16754+-16747,27054+-27047,true},{-1807- -1813,-0.00011559357299734135*-25953,false},{-1855+1862,-19582+19586,false},{-0.0003569425322523074*-19611,-0.090909090909090912*-44,false},{14780+-14770,0.00028421202216853773*14074,true},{-31186+31193,16490-16489,false},{20080+-20074,-32395/-32395,false},{-3152- -3155,10167+-10160,false},{0.00027659456768269069*18077,114256/28564,false},{22678-22671,-11021- -11024,false},{0.0023121387283236996*2595,-76390/-7639,true},{-27261- -27263,-3143+3151,true},{108773/15539,-31489- -31493,false},{-14734- -14741,6217+-6210,true},{-0.00033901588531576906*-20648,21000/3500,true},{28199-28197,0,false},{-41545/-5935,0,true},{-25338+25343,-21851- -21861,false},{31774+-31769,-32198- -32202,false},{-5693- -5700,58324/14581,true},{312050/31205,-9469- -9472,true},{-43852/-21926,-34557/-11519,false},{-319220/-31922,106055/21211,false},{0.00011648675933835521*25754,-31354- -31355,true},{-0.0010767574219350869*-6501,22983+-22975,false},{-0.00012403100775193799*-16125,0.0019390581717451524*3610,true},{-19934+19939,12319+-12313,true},{0.00018729514593413454*32035,27314+-27311,false},{15009+-15004,-12704- -12712,true},{4009+-4002,-75696/-12616,true},{27337-27330,-0.00045163718479488145*-13285,true},{-0.0002618486514794449*-22914,-0.00088198976891868059*-5669,false},{19016-19010,23191-23190,false},{-89061/-12723,6200-6192,true},{-12731+12734,-0.00023446658851113716*-21325,true},{-9957- -9959,0,false},{56796/18932,17815-17810,true},{-0.0010554885404101327*-6632,5784+-5780,false},{23710-23703,73384/18346,true},{17176+-17166,20065/20065,true},{17089-17082,-26527+26528,false},{-0.00033600268802150415*-17857,-20118/-3353,false},{-25649- -25655,-22318+22322,false},{2448/816,29152+-29146,false},{-31774- -31779,30520-30517,false},{52495/10499,-10434- -10441,true},{-0.0001487357461576599*-20170,-32589- -32594,true},{33820/16910,-25770+25780,true},{-0.00061819980217606325*-8088,-7334+7337,false},{1732-1725,18155-18151,false},{0.0013939224979091162*3587,-0.00016388740934977672*-24407,true},{-834+844,0,false},{-2516+2523,-1993+1997,false},{0.0010857763300760044*4605,-0.00013511231210944097*-29605,true},{20916-20910,-13590+13591,false},{-29725- -29731,29826-29823,true},{8950-8944,0.00067419517950446657*11866,true},{0.00020927069163963587*9557,0,false},{208159/29737,21806+-21802,false},{28827-28820,-11908- -11913,false},{-66180/-13236,22162-22157,true},{-31274+31281,-2763/-2763,true},{0.0006172204505709289*9721,0,true},{-222930/-22293,-0.00019607843137254901*-25500,false},{-10965- -10970,0,true},{170968/24424,-119836/-29959,true},{-30267+30274,-22909+22913,false},{4077-4070,-28654/-28654,false},{-5630- -5633,42144/7024,true},{-0.00021857240991694248*-32026,-12908- -12912,false},{4553+-4548,-152789/-21827,true},{-19987+19994,-0.00084979817293392816*-4707,false},{17881-17874,12341+-12340,true},{30304-30298,-185080/-23135,true},{2108-2098,-246+253,false},{108125/21625,100120/25030,false},{6409-6402,5563/5563,false},{-19038- -19044,3535-3534,false},{-8052+8059,27307-27297,true},{22893+-22888,14603+-14600,false},{113930/22786,-30992+30996,false},{7279-7269,25471+-25467,true},{-70160/-7016,1555-1550,true},{5469-5466,9698-9695,true},{-42140/-6020,-32726- -32729,true},{0.00085135365230716836*5873,-23821- -23825,false},{32729+-32722,-16442- -16450,false},{10683-10676,-12196/-3049,false},{-102246/-17041,0.00033541289327161737*29814,true},{-10667- -10672,161308/23044,true},{24555+-24549,0,false},{16770/1677,0.00040387722132471731*2476,false},{45260/9052,30271-30267,true},{32301+-32296,-12779- -12782,true},{-16412+16422,20482-20474,false},{0.00053768258804552378*11159,0.0056854074542008843*1583,false},{0.00033496348897970121*14927,51336/12834,true},{10475-10468,31381+-31377,false},{-8012+8017,28453+-28449,true},{-0.00075250206938069081*-13289,30243+-30237,false},{-714- -721,-17647+17651,false},{-124820/-24964,1692-1687,false},{-24613+24615,-796+800,false},{5818-5811,0,true},{13797+-13792,-30512- -30515,false},{10917+-10907,6861-6856,true},{-3409+3411,-30641+30647,false},{0.000213857998289136*23380,-13377- -13381,false},{-21564+21567,25581+-25575,false},{-0.00043569187870338099*-11476,19369+-19361,false},{-3947+3954,-11466- -11470,true},{-158634/-22662,-32460+32463,false},{31872-31865,31482-31478,false},{6843-6836,0.00023892008123282762*16742,false},{-21092+21097,-7086+7090,false},{-6754- -6764,12640-12639,false},{30893-30886,0.00012413878716404942*16111,false},{-0.0007646930303692375*-9154,-16106- -16116,false},{-29650+29653,-0.00496031746031746*-1008,false},{-130100/-26020,-16765+16769,true},{-3351+3356,-98424/-12303,true},{22780-22773,32000-31993,false},{8160-8154,0,false},{-118139/-16877,88910/17782,false},{-97773/-32591,-13740/-3435,false},{-1412+1419,0.00021513472812348733*18593,false},{32508+-32506,24458-24450,false},{61096/8728,-0.0001528584530724549*-26168,false},{20098+-20096,-0.00080723280594123341*-6194,true},{22459-22453,241696/30212,false},{-82029/-27343,-151130/-15113,false},{-20217- -20223,0,true},{0.00042725913266396069*4681,45768/5721,false},{-7744- -7749,-0.00031689981438725158*-22089,true},{40746/6791,-6470- -6476,true},{-20226+20233,2983+-2982,false},{-28780- -28782,-108546/-18091,true},{-0.00040922111580957577*-7331,-18755- -18759,true},{14673-14667,-79992/-26664,false},{22558+-22551,89968/22492,true},{-24333- -24339,-31935+31945,false},{-534- -541,14266-14264,false},{149058/21294,14732/3683,false},{-17587+17592,-19519- -19524,true},{-0.00056031377571440005*-12493,10775+-10773,false},{9539+-9532,651-647,false},{-0.0021216407355021216*-1414,27227-27223,false}},[21036-16064]={}}
+local Td=(function(re_)
+    local qa=gf[4972][re_]
+    if(qa)then
+        return qa
+    end
+    local wd=1
+    local function ve()
+        local ad,za,t_,kb,bc,me,cd,tb,pe,b_,ff,Gd,Qe,Ac,rb,na,_c,m,Oe,Bf,Db,zc,ne,L,Bb,u_,Ad,ta,Ea,Yb,Ib,p;
+        Bb,u_={},function(wf,Md,Da)
+            Bb[Md]=ec(wf,17904)-ec(Da,45393)
+            return Bb[Md]
+        end;
+        Oe=Bb[-2531]or u_(96450,-2531,23051)
+        while Oe~=1519 do
+            if Oe>=34823 then
+                if Oe>51140 then
+                    if Oe>=59850 then
+                        if Oe>62949 then
+                            if Oe>=63721 then
+                                if Oe<64540 then
+                                    if Oe<=63721 then
+                                        Ib=Ib+b_;
+                                        Ea=Ib
+                                        if Ib~=Ib then
+                                            Oe=2786
+                                        else
+                                            Oe=62949
+                                        end
+                                    else
+                                        ff=Ea
+                                        if pe~=pe then
+                                            Oe=Bb[-11765]or u_(96704,-11765,4299)
+                                        else
+                                            Oe=Bb[26918]or u_(91135,26918,61261)
+                                        end
+                                    end
+                                elseif Oe>64540 then
+                                    Ad,Oe=nil,24420
+                                else
+                                    Oe=Bb[-4845]or u_(73940,-4845,3318)
+                                    continue
+                                end
+                            elseif Oe<63171 then
+                                ne=Db;
+                                ad,t_=fc(ne),false;
+                                Ib,Bf,b_,Oe=150,(ne)+149,1,Bb[-1202]or u_(91967,-1202,33022)
+                            elseif Oe>63171 then
+                                Oe,_c=Bb[-7457]or u_(44326,-7457,38536),nil
+                            else
+                                ta=Ne(Pc('\21','W'),re_,wd);
+                                wd,Oe=wd+1,Bb[15622]or u_(95311,15622,28235)
+                            end
+                        elseif Oe<61728 then
+                            if Oe<60745 then
+                                if Oe<=59850 then
+                                    _c,Oe=Jf(kb,173),Bb[5385]or u_(42281,5385,4049)
+                                    continue
+                                else
+                                    if(me>=0 and cd>L)or((me<0 or me~=me)and cd<L)then
+                                        Oe=Bb[-12570]or u_(44241,-12570,61685)
+                                    else
+                                        Oe=Bb[-5163]or u_(31986,-5163,46041)
+                                    end
+                                end
+                            elseif Oe<=60745 then
+                                _c,Oe=kb,Bb[-12283]or u_(44628,-12283,39926)
+                            else
+                                Oe=Bb[6825]or u_(47017,6825,4889)
+                                continue
+                            end
+                        elseif Oe<=62673 then
+                            if Oe<=62486 then
+                                if Oe<=61728 then
+                                    Ea=Ib
+                                    if Bf~=Bf then
+                                        Oe=Bb[14147]or u_(24115,14147,41392)
+                                    else
+                                        Oe=Bb[29250]or u_(68681,29250,57989)
+                                    end
+                                else
+                                    Oe,b_=Bb[-10839]or u_(68916,-10839,21622),nil
+                                end
+                            else
+                                Oe,za=Bb[640]or u_(49598,640,57563),Jf(na,173)
+                                continue
+                            end
+                        elseif Oe<=62757 then
+                            if(m>=0 and Ea>pe)or((m<0 or m~=m)and Ea<pe)then
+                                Oe=30523
+                            else
+                                Oe=40773
+                            end
+                        else
+                            if(b_>=0 and Ib>Bf)or((b_<0 or b_~=b_)and Ib<Bf)then
+                                Oe=2786
+                            else
+                                Oe=Bb[-18698]or u_(83613,-18698,32729)
+                            end
+                        end
+                    elseif Oe>=54890 then
+                        if Oe<57856 then
+                            if Oe>=56412 then
+                                if Oe>56412 then
+                                    if Ac==2 then
+                                        Oe=Bb[-10496]or u_(85872,-10496,29080)
+                                        continue
+                                    end
+                                    Oe=Bb[-5675]or u_(59577,-5675,48169)
+                                else
+                                    cd,Oe=nil,Bb[4513]or u_(58676,4513,61634)
+                                end
+                            elseif Oe<=54890 then
+                                Oe,cd=Bb[-14583]or u_(66996,-14583,696),nil
+                            else
+                                Oe,t_=Bb[-14269]or u_(48382,-14269,45428),false
+                            end
+                        elseif Oe>=58308 then
+                            if Oe<=58308 then
+                                Oe,kb=Bb[-9644]or u_(110141,-9644,20437),Yb
+                                continue
+                            else
+                                ad=ad+Ib;
+                                Bf=ad
+                                if ad~=ad then
+                                    Oe=Bb[15705]or u_(48153,15705,6281)
+                                else
+                                    Oe=Bb[16846]or u_(84322,16846,52745)
+                                end
+                            end
+                        elseif Oe>57856 then
+                            ff=Ea
+                            if pe~=pe then
+                                Oe=30523
+                            else
+                                Oe=62757
+                            end
+                        else
+                            Ad=ff;
+                            Bf=Pd(Bf,ma(kc(Ad,127),(m-131)*7))
+                            if not Rd(Ad,128)then
+                                Oe=Bb[-3805]or u_(68594,-3805,18166)
+                                continue
+                            end
+                            Oe=Bb[12863]or u_(14091,12863,57376)
+                        end
+                    elseif Oe<53176 then
+                        if Oe<=52672 then
+                            if Oe>=52115 then
+                                if Oe<=52115 then
+                                    zc[50642]=kc(sf(ff,8),255);
+                                    cd=kc(sf(ff,16),65535);
+                                    zc[49245]=cd;
+                                    L=nil;
+                                    L=if cd<32768 then cd else cd-65536;
+                                    zc[54622],Oe=L,Bb[18662]or u_(33937,18662,50765)
+                                else
+                                    _c,Oe=id(kb[1],1,kb[2]),Bb[-852]or u_(115760,-852,29074)
+                                end
+                            else
+                                if(m>=0 and Ea>pe)or((m<0 or m~=m)and Ea<pe)then
+                                    Oe=39574
+                                else
+                                    Oe=65346
+                                end
+                            end
+                        else
+                            zc=kc(sf(_c,10),1023);
+                            Oe,Ad[4699]=Bb[-7019]or u_(41665,-7019,63025),b_[zc+1]
+                        end
+                    elseif Oe<54118 then
+                        if Oe<=53176 then
+                            zc=Yb
+                            if(zc==0)then
+                                Oe=Bb[-15316]or u_(86775,-15316,61071)
+                                continue
+                            else
+                                Oe=Bb[324]or u_(98904,324,16495)
+                                continue
+                            end
+                            Oe=Bb[14156]or u_(84103,14156,26144)
+                        else
+                            Oe=Bb[26768]or u_(69420,26768,4817)
+                            continue
+                        end
+                    elseif Oe<=54118 then
+                        kb=Ne(Pc('\226','\160'),re_,wd);
+                        Oe,wd=59850,wd+1
+                    else
+                        m=m+Ad;
+                        Ac=m
+                        if m~=m then
+                            Oe=Bb[-8047]or u_(93435,-8047,12542)
+                        else
+                            Oe=Bb[-4473]or u_(91168,-4473,5590)
+                        end
+                    end
+                elseif Oe>42508 then
+                    if Oe<=47479 then
+                        if Oe<=45947 then
+                            if Oe<43844 then
+                                if Oe<=42844 then
+                                    Oe,Ea=Bb[-17879]or u_(71078,-17879,519),Jf(pe,1176180093)
+                                    continue
+                                else
+                                    Oe,Yb=53176,Jf(zc,1176180093)
+                                    continue
+                                end
+                            elseif Oe>44801 then
+                                bc=Ne(Pc('\194','\128'),re_,wd);
+                                wd,Oe=wd+1,Bb[-22984]or u_(88605,-22984,28580)
+                            elseif Oe<=43844 then
+                                if(L>=0 and zc>cd)or((L<0 or L~=L)and zc<cd)then
+                                    Oe=Bb[-6926]or u_(64961,-6926,34282)
+                                else
+                                    Oe=16126
+                                end
+                            else
+                                p,Oe,tb=rb,45947,nil
+                            end
+                        elseif Oe>=46976 then
+                            if Oe>46976 then
+                                if(pe>=0 and b_>Ea)or((pe<0 or pe~=pe)and b_<Ea)then
+                                    Oe=Bb[-23461]or u_(54814,-23461,33086)
+                                else
+                                    Oe=Bb[-14070]or u_(34057,-14070,4608)
+                                end
+                            else
+                                m,Oe=nil,30762
+                            end
+                        elseif Oe>46587 then
+                            Oe,kb=42160,mf''
+                            continue
+                        else
+                            Yb=0;
+                            cd,L,Oe,zc=39,1,Bb[-3876]or u_(54041,-3876,33201),35
+                        end
+                    elseif Oe<=49405 then
+                        if Oe>=48644 then
+                            if Oe>48644 then
+                                b_[(ff-69)],Oe=_c,Bb[-7794]or u_(56105,-7794,8211)
+                            else
+                                Oe,ff=57856,Jf(Ad,173)
+                                continue
+                            end
+                        elseif Oe<=48187 then
+                            cd,L=kc(sf(ff,8),16777215),nil;
+                            L=if cd<8388608 then cd else cd-16777216;
+                            Oe,zc[38548]=Bb[-6696]or u_(3732,-6696,45134),L
+                        else
+                            L=cd;
+                            zc[61031]=L;
+                            _e(ad,{});
+                            Oe=Bb[20066]or u_(62056,20066,51817)
+                        end
+                    elseif Oe>50213 then
+                        zc,cd=kc(sf(_c,10),1023),kc(sf(_c,0),1023);
+                        Ad[4699]=b_[zc+1];
+                        Ad[7820],Oe=b_[cd+1],Bb[-28120]or u_(90218,-28120,13464)
+                    elseif Oe<=49726 then
+                        if(Ac>=0 and ff>Ad)or((Ac<0 or Ac~=Ac)and ff<Ad)then
+                            Oe=Bb[-8815]or u_(50192,-8815,55194)
+                        else
+                            Oe=20781
+                        end
+                    else
+                        if _c==5 then
+                            Oe=Bb[4767]or u_(70676,4767,14080)
+                            continue
+                        elseif(_c==6)then
+                            Oe=Bb[-28254]or u_(65896,-28254,14604)
+                            continue
+                        else
+                            Oe=Bb[-25021]or u_(92221,-25021,21209)
+                            continue
+                        end
+                        Oe=Bb[-8932]or u_(53522,-8932,64460)
+                    end
+                elseif Oe>=38362 then
+                    if Oe<=40913 then
+                        if Oe>40192 then
+                            if Oe<=40773 then
+                                Ad=ad[(ff-74)];
+                                Ac=Ad[36967]
+                                if(Ac==8)then
+                                    Oe=Bb[-30242]or u_(24887,-30242,47909)
+                                    continue
+                                else
+                                    Oe=Bb[-20157]or u_(89619,-20157,21115)
+                                    continue
+                                end
+                                Oe=Bb[-7022]or u_(73190,-7022,2324)
+                            else
+                                Ea=Ea+m;
+                                ff=Ea
+                                if Ea~=Ea then
+                                    Oe=Bb[-10704]or u_(89397,-10704,4315)
+                                else
+                                    Oe=Bb[-12945]or u_(110249,-12945,18277)
+                                end
+                            end
+                        elseif Oe<=39574 then
+                            if Oe>38362 then
+                                Ea,m,Oe,pe=75,1,Bb[-15924]or u_(96822,-15924,60466),(ne)+74
+                            else
+                                Oe,Ad=Bb[23504]or u_(60565,23504,42576),Jf(Ac,173)
+                                continue
+                            end
+                        else
+                            pe=Ea;
+                            m=fc(pe);
+                            Ad,Ac,Oe,ff=(pe)+21,1,Bb[25309]or u_(117832,25309,21245),22
+                        end
+                    elseif Oe<=42507 then
+                        if Oe>=42160 then
+                            if Oe<=42160 then
+                                Oe,_c=Bb[-26219]or u_(117951,-26219,30979),id(kb[1],1,kb[2])
+                            else
+                                Oe,_c=Bb[23651]or u_(118895,23651,29544),nil
+                            end
+                        else
+                            ne=0;
+                            Oe,Ib,t_,ad=Bb[-1692]or u_(42492,-1692,57377),1,151,147
+                        end
+                    else
+                        _c=ff
+                        if Ad~=Ad then
+                            Oe=Bb[-26126]or u_(1865,-26126,38645)
+                        else
+                            Oe=49726
+                        end
+                    end
+                elseif Oe>=37127 then
+                    if Oe<37618 then
+                        if Oe>37127 then
+                            Ac=Ad
+                            if Ac==0 then
+                                Oe=Bb[13960]or u_(29331,13960,42862)
+                                continue
+                            elseif(Ac==5)then
+                                Oe=Bb[-9551]or u_(37554,-9551,14656)
+                                continue
+                            else
+                                Oe=Bb[-21105]or u_(97616,-21105,1428)
+                                continue
+                            end
+                            Oe=49405
+                        else
+                            Oe,Qe,Db=Bb[-18993]or u_(65527,-18993,43102),Gd,nil
+                        end
+                    elseif Oe>37828 then
+                        Ad[43129],Oe=b_[Ad[61031]+1],Bb[23933]or u_(92747,23933,16059)
+                    elseif Oe<=37618 then
+                        _c=Ad[61031];
+                        kb,Yb=sf(_c,30),kc(sf(_c,20),1023);
+                        Ad[43129]=b_[Yb+1];
+                        Ad[51269]=kb
+                        if kb==2 then
+                            Oe=Bb[-20935]or u_(96929,-20935,49572)
+                            continue
+                        elseif kb==3 then
+                            Oe=Bb[2339]or u_(67655,2339,13474)
+                            continue
+                        end
+                        Oe=Bb[2260]or u_(35653,2260,40885)
+                    else
+                        ff=m;
+                        Ad=kc(ff,255);
+                        Ac=gf[27042][Ad+1];
+                        _c,kb,Yb=Ac[1],Ac[2],Ac[3];
+                        zc={[61031]=0,[4699]=0,[57937]=0,[45479]=nil,[36423]=Ad,[38548]=0,[50642]=0,[36967]=kb,[49245]=0,[43129]=0,[54622]=0,[7820]=0,[59172]=0,[16496]=0,[51269]=0};
+                        _e(ad,zc)
+                        if(_c==7)then
+                            Oe=Bb[-21495]or u_(30378,-21495,47869)
+                            continue
+                        else
+                            Oe=Bb[9270]or u_(118787,9270,24735)
+                            continue
+                        end
+                        Oe=Bb[31606]or u_(3745,31606,45149)
+                    end
+                elseif Oe<36154 then
+                    if Oe<=34823 then
+                        ff=ff+Ac;
+                        _c=ff
+                        if ff~=ff then
+                            Oe=6933
+                        else
+                            Oe=49726
+                        end
+                    else
+                        L=Ne(Pc('\208','\179')..zc,re_,wd);
+                        wd,Oe=wd+zc,Bb[-13575]or u_(63067,-13575,34348)
+                    end
+                elseif Oe<=36154 then
+                    if(Ib>=0 and ad>t_)or((Ib<0 or Ib~=Ib)and ad<t_)then
+                        Oe=Bb[-5710]or u_(96128,-5710,21262)
+                    else
+                        Oe=62486
+                    end
+                else
+                    Bf=ad
+                    if t_~=t_ then
+                        Oe=Bb[-17965]or u_(62328,-17965,55078)
+                    else
+                        Oe=Bb[12270]or u_(57623,12270,42748)
+                    end
+                end
+            elseif Oe>19568 then
+                if Oe<=26463 then
+                    if Oe<=24369 then
+                        if Oe>21090 then
+                            if Oe<=22107 then
+                                if Oe<21530 then
+                                    na,Oe=Jf(ta,173),Bb[-602]or u_(10724,-602,46467)
+                                    continue
+                                elseif Oe<=21530 then
+                                    p=Ne(Pc('\211','\145'),re_,wd);
+                                    Oe,wd=5438,wd+1
+                                else
+                                    Oe=Bb[-12325]or u_(39501,-12325,52591)
+                                    continue
+                                end
+                            else
+                                L=Ne(Pc('\182\195\190','\138'),re_,wd);
+                                wd,Oe=wd+4,1572
+                            end
+                        elseif Oe>=20781 then
+                            if Oe<=20952 then
+                                if Oe<=20781 then
+                                    m[(_c-21)],Oe=ve(),Bb[-18609]or u_(77976,-18609,23600)
+                                else
+                                    Oe,rb=21530,nil
+                                end
+                            else
+                                kb,Oe=mf(nil),Bb[-8017]or u_(43985,-8017,35191)
+                            end
+                        elseif Oe>20273 then
+                            Oe,Db=Bb[17599]or u_(108938,17599,18203),Jf(ne,1176180093)
+                            continue
+                        else
+                            Oe,kb=29816,nil
+                        end
+                    elseif Oe<25501 then
+                        if Oe<25285 then
+                            if Oe<=24420 then
+                                Ac=Ne(Pc('}','?'),re_,wd);
+                                wd,Oe=wd+1,38362
+                            else
+                                zc=0;
+                                Oe,L,cd,me=4447,189,185,1
+                            end
+                        elseif Oe>25285 then
+                            Ib,Oe=Jf(Bf,1176180093),Bb[17426]or u_(46623,17426,5678)
+                            continue
+                        else
+                            Oe,b_=Bb[25568]or u_(52478,25568,52751),Jf(Ea,173)
+                            continue
+                        end
+                    elseif Oe<=26434 then
+                        if Oe<26121 then
+                            Ea=Ne(Pc('\154','\216'),re_,wd);
+                            Oe,wd=Bb[-18447]or u_(37140,-18447,49998),wd+1
+                        elseif Oe<=26121 then
+                            me=zc
+                            if cd~=cd then
+                                Oe=Bb[-4735]or u_(56834,-4735,43309)
+                            else
+                                Oe=Bb[-8102]or u_(85796,-8102,61121)
+                            end
+                        else
+                            ta=na;
+                            zc=Pd(zc,ma(kc(ta,127),(za-185)*7))
+                            if(not Rd(ta,128))then
+                                Oe=Bb[18775]or u_(124035,18775,5126)
+                                continue
+                            else
+                                Oe=Bb[-17462]or u_(67599,-17462,32424)
+                                continue
+                            end
+                            Oe=Bb[-31995]or u_(82388,-31995,14159)
+                        end
+                    else
+                        m=b_
+                        if Ea~=Ea then
+                            Oe=Bb[-4146]or u_(89733,-4146,1703)
+                        else
+                            Oe=47479
+                        end
+                    end
+                elseif Oe<30762 then
+                    if Oe<27697 then
+                        if Oe<26674 then
+                            t_,Oe=pe,Bb[8622]or u_(119046,8622,11612)
+                        elseif Oe>26674 then
+                            Oe,bc,Gd=27697,tb,nil
+                        else
+                            pe=0;
+                            Oe,m,ff,Ad=19112,104,108,1
+                        end
+                    elseif Oe>30413 then
+                        Oe,Ea=Bb[-21625]or u_(67381,-21625,27586),nil
+                    elseif Oe>=29816 then
+                        if Oe<=29816 then
+                            Yb=Ne(Pc('\16H',','),re_,wd);
+                            Oe,wd=Bb[24229]or u_(101862,24229,21763),wd+8
+                        else
+                            if Ac==7 then
+                                Oe=Bb[-15864]or u_(57853,-15864,41034)
+                                continue
+                            elseif(Ac==3)then
+                                Oe=Bb[25576]or u_(45070,25576,31703)
+                                continue
+                            else
+                                Oe=Bb[30255]or u_(115936,30255,5452)
+                                continue
+                            end
+                            Oe=Bb[-23705]or u_(67346,-23705,4672)
+                        end
+                    else
+                        Qe=Ne(Pc('\198','\132'),re_,wd);
+                        wd,Oe=wd+1,Bb[1656]or u_(91147,1656,16615)
+                    end
+                elseif Oe>32262 then
+                    if Oe>=33755 then
+                        if Oe>33755 then
+                            zc=zc+L;
+                            me=zc
+                            if zc~=zc then
+                                Oe=Bb[-31444]or u_(38570,-31444,65205)
+                            else
+                                Oe=Bb[-14703]or u_(41350,-14703,34915)
+                            end
+                        else
+                            if Ac==4 then
+                                Oe=Bb[-6021]or u_(36305,-6021,50414)
+                                continue
+                            elseif Ac==3 then
+                                Oe=Bb[9905]or u_(109977,9905,24233)
+                                continue
+                            end
+                            Oe=Bb[27706]or u_(119318,27706,26552)
+                        end
+                    else
+                        Oe,kb=52672,mf(Jf(Yb,1176180093))
+                        continue
+                    end
+                elseif Oe<32073 then
+                    if Oe>30762 then
+                        Oe,cd=Bb[31057]or u_(74571,31057,22956),L
+                        continue
+                    else
+                        ff=Ne(Pc('\127\nw','C'),re_,wd);
+                        wd,Oe=wd+4,Bb[-31022]or u_(13273,-31022,61051)
+                    end
+                elseif Oe<=32190 then
+                    if Oe>32073 then
+                        Oe,kb=Bb[-1197]or u_(122678,-1197,18247),mf(cd)
+                        continue
+                    else
+                        if(Ad>=0 and m>ff)or((Ad<0 or Ad~=Ad)and m<ff)then
+                            Oe=Bb[-12429]or u_(119027,-12429,23798)
+                        else
+                            Oe=Bb[-29678]or u_(61786,-29678,49102)
+                        end
+                    end
+                else
+                    cd=cd+me;
+                    za=cd
+                    if cd~=cd then
+                        Oe=Bb[-15591]or u_(92050,-15591,52148)
+                    else
+                        Oe=Bb[23867]or u_(106197,23867,16818)
+                    end
+                end
+            elseif Oe>11791 then
+                if Oe>14974 then
+                    if Oe>=18871 then
+                        if Oe<=19112 then
+                            if Oe<19013 then
+                                Ad[43129],Oe=b_[Ad[50642]+1],Bb[-9686]or u_(85859,-9686,56211)
+                            elseif Oe<=19013 then
+                                if(Yb)then
+                                    Oe=Bb[-30597]or u_(115060,-30597,6521)
+                                    continue
+                                else
+                                    Oe=Bb[-26342]or u_(54361,-26342,58392)
+                                    continue
+                                end
+                                Oe=Bb[-22276]or u_(58502,-22276,54343)
+                            else
+                                Ac=m
+                                if ff~=ff then
+                                    Oe=Bb[-18978]or u_(48193,-18978,58116)
+                                else
+                                    Oe=32073
+                                end
+                            end
+                        else
+                            Bf=Ib;
+                            b_=fc(Bf);
+                            Oe,m,Ea,pe=Bb[27326]or u_(101674,27326,32151),1,70,(Bf)+69
+                        end
+                    elseif Oe>=16126 then
+                        if Oe<=16126 then
+                            za,Oe=nil,Bb[23773]or u_(46016,23773,29877)
+                        else
+                            Oe,tb=Bb[-29057]or u_(65600,-29057,27511),Jf(bc,173)
+                            continue
+                        end
+                    else
+                        pe,Oe=Yb,Bb[17706]or u_(69400,17706,21020)
+                        continue
+                    end
+                elseif Oe<=13830 then
+                    if Oe<12996 then
+                        if Oe<=12357 then
+                            Oe,Gd=Bb[8625]or u_(59399,8625,44449),Jf(Qe,173)
+                            continue
+                        else
+                            na=Ne(Pc('Q','\19'),re_,wd);
+                            Oe,wd=Bb[7659]or u_(73405,7659,55085),wd+1
+                        end
+                    elseif Oe<=13541 then
+                        if Oe<=12996 then
+                            na=za;
+                            Yb=Pd(Yb,ma(kc(na,127),(me-35)*7))
+                            if not Rd(na,128)then
+                                Oe=Bb[15526]or u_(61393,15526,57074)
+                                continue
+                            end
+                            Oe=Bb[-18193]or u_(37288,-18193,64931)
+                        else
+                            if t_ then
+                                Oe=Bb[18614]or u_(65785,18614,55330)
+                                continue
+                            else
+                                Oe=Bb[-15443]or u_(61711,-15443,16289)
+                                continue
+                            end
+                            Oe=Bb[-7219]or u_(70383,-7219,61287)
+                        end
+                    else
+                        Oe,Yb=Bb[-1371]or u_(62383,-1371,58823),nil
+                    end
+                elseif Oe<14521 then
+                    if Oe>13946 then
+                        Bf=0;
+                        Oe,pe,Ea,b_=Bb[27149]or u_(74525,27149,20191),1,135,131
+                    else
+                        Oe,na=63171,nil
+                    end
+                elseif Oe>14521 then
+                    Oe=Bb[-30489]or u_(91449,-30489,11266)
+                    continue
+                else
+                    if Ac==9 then
+                        Oe=Bb[-3538]or u_(1539,-3538,42165)
+                        continue
+                    elseif(Ac==6)then
+                        Oe=Bb[-16434]or u_(64266,-16434,39103)
+                        continue
+                    else
+                        Oe=Bb[8959]or u_(79477,8959,19945)
+                        continue
+                    end
+                    Oe=Bb[1796]or u_(96705,1796,11569)
+                end
+            elseif Oe<6933 then
+                if Oe<=4447 then
+                    if Oe<2786 then
+                        if Oe<=1572 then
+                            cd,Oe=Jf(L,-442411690),Bb[17088]or u_(44999,17088,39964)
+                            continue
+                        else
+                            Ea=b_;
+                            ne=Pd(ne,ma(kc(Ea,127),(Bf-147)*7))
+                            if(not Rd(Ea,128))then
+                                Oe=Bb[23462]or u_(86954,23462,39284)
+                                continue
+                            else
+                                Oe=Bb[-8862]or u_(85160,-8862,38163)
+                                continue
+                            end
+                            Oe=Bb[23718]or u_(122215,23718,720)
+                        end
+                    elseif Oe<=3479 then
+                        if Oe>2786 then
+                            Ea=Ea+m;
+                            ff=Ea
+                            if Ea~=Ea then
+                                Oe=39574
+                            else
+                                Oe=51187
+                            end
+                        else
+                            Oe,Ib=Bb[-19638]or u_(85903,-19638,25406),nil
+                        end
+                    else
+                        za=cd
+                        if L~=L then
+                            Oe=Bb[6482]or u_(124370,6482,18932)
+                        else
+                            Oe=Bb[22665]or u_(120750,22665,6477)
+                        end
+                    end
+                elseif Oe>=5887 then
+                    if Oe<=5887 then
+                        m,Oe=Jf(ff,-442411690),37828
+                        continue
+                    else
+                        Ad[43129]=b_[z(Ad[61031],0,24)+1];
+                        Oe,Ad[59172]=Bb[32105]or u_(83889,32105,54049),z(Ad[61031],31,1)==1
+                    end
+                elseif Oe<=5438 then
+                    rb,Oe=Jf(p,173),44801
+                    continue
+                else
+                    Ad=Ne(Pc('b',' '),re_,wd);
+                    wd,Oe=wd+1,Bb[12494]or u_(78021,12494,1632)
+                end
+            elseif Oe>8793 then
+                if Oe>11128 then
+                    Oe,Ad[43129]=Bb[-28860]or u_(86141,-28860,50413),b_[Ad[38548]+1]
+                elseif Oe<=10158 then
+                    if Oe<=9743 then
+                        Oe,pe=46976,nil
+                    else
+                        zc[50642]=kc(sf(ff,8),255);
+                        zc[16496]=kc(sf(ff,16),255);
+                        Oe,zc[57937]=Bb[-20613]or u_(97232,-20613,17034),kc(sf(ff,24),255)
+                    end
+                else
+                    Oe,Ad[43129]=Bb[-2855]or u_(36466,-2855,39648),b_[Ad[54622]+1]
+                end
+            elseif Oe<=8484 then
+                if Oe<=7592 then
+                    if Oe>6933 then
+                        Oe,ff=Bb[-2276]or u_(58457,-2276,14921),nil
+                    else
+                        return{[48515]=ad,[12756]=m,[17788]=bc,[40863]=p,[38716]='',[23378]=Qe}
+                    end
+                else
+                    Oe,kb=Bb[15783]or u_(94025,15783,17890),mf(nil)
+                end
+            elseif Oe>8586 then
+                kb=_c;
+                pe=Pd(pe,ma(kc(kb,127),(Ac-104)*7))
+                if not Rd(kb,128)then
+                    Oe=Bb[-13548]or u_(74513,-13548,10033)
+                    continue
+                end
+                Oe=Bb[22085]or u_(125302,22085,26337)
+            else
+                b_=b_+pe;
+                m=b_
+                if b_~=b_ then
+                    Oe=Bb[-10318]or u_(12765,-10318,41471)
+                else
+                    Oe=Bb[-4549]or u_(126830,-4549,16502)
+                end
+            end
+        end
+    end
+    local Mb=ve();
+    gf[4972][re_]=Mb
+    return Mb
+end)
+local gb=(function(k,Af)
+    k=Td(k)
+    local da=Hb()
+    local function S(Ud,E)
+        local T=(function(...)
+            return{...},Q('#',...)
+        end)
+        local rd;
+        rd=(function(tf,Gf,Nb)
+            if Gf>Nb then
+                return
+            end
+            return tf[Gf],rd(tf,Gf+1,Nb)
+        end)
+        local function ab(Re,Tb,Od,sb)
+            local Ab,Ie,_f,Gb,se_,yf,eb,wb,ke,N,Ec,ha,Ef,Cf,Sa,ga,Tc,Sc,jf,Pa,bb,Ld,xc,ja;
+            yf,N=function(Ka,Ce,jd)
+                N[Ce]=ec(Ka,2514)-ec(jd,42478)
+                return N[Ce]
+            end,{};
+            Sa=N[23824]or yf(122610,23824,32397)
+            repeat
+                if Sa>=32524 then
+                    if Sa>52011 then
+                        if Sa>57234 then
+                            if Sa>62308 then
+                                if Sa<=64376 then
+                                    if Sa<64035 then
+                                        if Sa<63196 then
+                                            Pa=false;
+                                            ke+=1
+                                            if(ja>127)then
+                                                Sa=N[-2366]or yf(48962,-2366,56047)
+                                                continue
+                                            else
+                                                Sa=N[-1883]or yf(23770,-1883,44555)
+                                                continue
+                                            end
+                                            Sa=N[12626]or yf(20882,12626,33851)
+                                        elseif Sa>63196 then
+                                            Ie,Ld=Gb[57937],Gb[50642];
+                                            se_,Sc=Se(Na,Re,'',Ie,Ld)
+                                            if not se_ then
+                                                Sa=N[-11066]or yf(62447,-11066,18619)
+                                                continue
+                                            end
+                                            Sa=57053
+                                        else
+                                            ke-=1;
+                                            Od[ke],Sa={[36423]=121,[50642]=Jf(Gb[50642],45),[16496]=Jf(Gb[16496],28),[57937]=0},N[22636]or yf(23688,22636,47873)
+                                        end
+                                    elseif Sa<64341 then
+                                        Gb[36423]=30;
+                                        ke+=1;
+                                        Sa=N[-15537]or yf(35016,-15537,61249)
+                                    elseif Sa>64341 then
+                                        sd(sb[61733],1,Ld,Ie,Re);
+                                        Sa=N[-19138]or yf(63406,-19138,28159)
+                                    else
+                                        xc=wb
+                                        if Ab~=Ab then
+                                            Sa=N[15891]or yf(71566,15891,39172)
+                                        else
+                                            Sa=31206
+                                        end
+                                    end
+                                elseif Sa>64655 then
+                                    wb=wb+Ef;
+                                    xc=wb
+                                    if wb~=wb then
+                                        Sa=N[-25058]or yf(65931,-25058,33545)
+                                    else
+                                        Sa=N[12522]or yf(45432,12522,39722)
+                                    end
+                                elseif Sa<64450 then
+                                    bb,ke,Sa,eb,Cf,Pa=-1,1,13931,Sd({},{[Pc('\229\\\148\213g\156','\186\3\249')]=Pc('72','A')}),Sd({},{[Pc('\194\129+\242\186#','\157\222F')]=Pc(';#','P')}),false
+                                elseif Sa<=64450 then
+                                    Ie=Gb[43129];
+                                    Re[Gb[16496]]=Re[Gb[57937]][Ie];
+                                    ke+=1;
+                                    Sa=N[-24305]or yf(22780,-24305,48941)
+                                else
+                                    Ab=Ab+xc;
+                                    Tc=Ab
+                                    if Ab~=Ab then
+                                        Sa=N[-22233]or yf(55831,-22233,12032)
+                                    else
+                                        Sa=N[-28395]or yf(86571,-28395,5700)
+                                    end
+                                end
+                            elseif Sa<59176 then
+                                if Sa<=58605 then
+                                    if Sa>=57716 then
+                                        if Sa>57716 then
+                                            if(ja>112)then
+                                                Sa=N[-15763]or yf(66087,-15763,46557)
+                                                continue
+                                            else
+                                                Sa=N[-11772]or yf(67976,-11772,13841)
+                                                continue
+                                            end
+                                            Sa=N[-32415]or yf(70799,-32415,17180)
+                                        else
+                                            if Re[Gb[50642]]then
+                                                Sa=N[-17439]or yf(57365,-17439,64234)
+                                                continue
+                                            end
+                                            Sa=N[4019]or yf(39732,4019,63893)
+                                        end
+                                    else
+                                        Ld,Sa=ga,N[-12156]or yf(84358,-12156,2202)
+                                        continue
+                                    end
+                                elseif Sa<=58704 then
+                                    if ja>56 then
+                                        Sa=N[-25080]or yf(15359,-25080,44225)
+                                        continue
+                                    else
+                                        Sa=N[-11163]or yf(67682,-11163,24781)
+                                        continue
+                                    end
+                                    Sa=N[7003]or yf(50761,7003,15582)
+                                else
+                                    Ld,se_,Sc=Cf
+                                    if Fe(Ld)~=Pc('|\158%\22n\130$\27','\26\235Ku')then
+                                        Sa=N[-31686]or yf(83442,-31686,51552)
+                                        continue
+                                    end
+                                    Sa=N[-798]or yf(51842,-798,46246)
+                                end
+                            elseif Sa<=61639 then
+                                if Sa>=61633 then
+                                    if Sa>61633 then
+                                        Ld,se_,Sc=Ie[Pc('\237\213\166\198\239\189','\178\138\207')](Ld);
+                                        Sa=N[20916]or yf(54315,20916,36383)
+                                    else
+                                        if(ja>204)then
+                                            Sa=N[-25520]or yf(90648,-25520,10513)
+                                            continue
+                                        else
+                                            Sa=N[6792]or yf(77044,6792,59900)
+                                            continue
+                                        end
+                                        Sa=N[-14352]or yf(45435,-14352,10192)
+                                    end
+                                elseif Sa<=59176 then
+                                    Sc,Sa=Ab,21685
+                                    continue
+                                else
+                                    ke-=1;
+                                    Sa,Od[ke]=N[26871]or yf(71619,26871,16968),{[36423]=31,[50642]=Jf(Gb[50642],64),[16496]=Jf(Gb[16496],13),[57937]=0}
+                                end
+                            elseif Sa>61865 then
+                                Ie,Ld=nil,Jf(Gb[49245],56288);
+                                Ie=if Ld<32768 then Ld else Ld-65536;
+                                se_=Ie;
+                                Re[Jf(Gb[50642],64)],Sa=se_,N[17658]or yf(18483,17658,44696)
+                            else
+                                if(wb>=0 and Sc>ga)or((wb<0 or wb~=wb)and Sc<ga)then
+                                    Sa=N[29279]or yf(25102,29279,37023)
+                                else
+                                    Sa=N[30172]or yf(116319,30172,21349)
+                                end
+                            end
+                        elseif Sa>55718 then
+                            if Sa<=57035 then
+                                if Sa<56367 then
+                                    if Sa>56006 then
+                                        Ld=sb[10837];
+                                        bb,Sa=Ie+Ld-1,N[7609]or yf(66491,7609,43807)
+                                    elseif Sa>55853 then
+                                        ga,wb=Ld(se_,Sc);
+                                        Sc=ga
+                                        if Sc==nil then
+                                            Sa=58824
+                                        else
+                                            Sa=47598
+                                        end
+                                    else
+                                        Ab=Ab+xc;
+                                        Tc=Ab
+                                        if Ab~=Ab then
+                                            Sa=N[16517]or yf(52327,16517,10916)
+                                        else
+                                            Sa=N[9094]or yf(48470,9094,57528)
+                                        end
+                                    end
+                                elseif Sa<56978 then
+                                    if ja>137 then
+                                        Sa=N[-3884]or yf(91252,-3884,21505)
+                                        continue
+                                    else
+                                        Sa=N[-25628]or yf(37959,-25628,9425)
+                                        continue
+                                    end
+                                    Sa=N[1082]or yf(51502,1082,12159)
+                                elseif Sa>56978 then
+                                    Ie=E[Gb[16496]+1];
+                                    Sa,Ie[3][Ie[2]]=N[-25060]or yf(53923,-25060,232),Re[Gb[50642]]
+                                else
+                                    Sc..=Re[Ef];
+                                    Sa=N[-9271]or yf(85199,-9271,20996)
+                                end
+                            elseif Sa<=57097 then
+                                if Sa>=57065 then
+                                    if Sa>57065 then
+                                        if(ja>83)then
+                                            Sa=N[2101]or yf(86954,2101,14352)
+                                            continue
+                                        else
+                                            Sa=N[6144]or yf(61664,6144,20484)
+                                            continue
+                                        end
+                                        Sa=N[-31844]or yf(47958,-31844,55799)
+                                    else
+                                        Sa,Ab=N[-13444]or yf(42695,-13444,11288),se_-1
+                                    end
+                                else
+                                    Re[Gb[16496]],Sa=Sc,N[-5541]or yf(63944,-5541,7233)
+                                end
+                            elseif Sa>57193 then
+                                Ie=Hf(Ld)
+                                if Ie~=nil and Ie[Pc('\134\186\48\173\128+','\217\229Y')]~=nil then
+                                    Sa=N[-16230]or yf(93653,-16230,54958)
+                                    continue
+                                elseif(Fe(Ld)==Pc('\216e\206h\201','\172\4'))then
+                                    Sa=N[7347]or yf(83360,7347,24911)
+                                    continue
+                                else
+                                    Sa=N[-32104]or yf(51948,-32104,46296)
+                                    continue
+                                end
+                                Sa=N[-6906]or yf(75623,-6906,55619)
+                            else
+                                if ja>209 then
+                                    Sa=N[-16697]or yf(53347,-16697,1704)
+                                    continue
+                                else
+                                    Sa=N[-13433]or yf(83044,-13433,63771)
+                                    continue
+                                end
+                                Sa=N[21803]or yf(72151,21803,31860)
+                            end
+                        elseif Sa>=55222 then
+                            if Sa>55578 then
+                                if Sa>55716 then
+                                    if ja>7 then
+                                        Sa=N[13332]or yf(82446,13332,1654)
+                                        continue
+                                    else
+                                        Sa=N[3451]or yf(45227,3451,14143)
+                                        continue
+                                    end
+                                    Sa=N[-11700]or yf(64099,-11700,6312)
+                                else
+                                    if(Tc>=0 and Ef>xc)or((Tc<0 or Tc~=Tc)and Ef<xc)then
+                                        Sa=N[-27283]or yf(8129,-27283,42473)
+                                    else
+                                        Sa=N[2577]or yf(53071,2577,37542)
+                                    end
+                                end
+                            elseif Sa>55572 then
+                                ke+=Gb[54622];
+                                Sa=N[2097]or yf(76654,2097,18879)
+                            elseif Sa<55554 then
+                                Sa,Re[Gb[50642]]=N[-6534]or yf(105844,-6534,26957),se_
+                            elseif Sa>55554 then
+                                Sa,Ie,Ld=N[-32170]or yf(32169,-32170,59497),Od[ke],nil
+                            else
+                                Ef=Od[ke];
+                                ke+=1;
+                                xc=Ef[50642]
+                                if xc==0 then
+                                    Sa=N[24244]or yf(42315,24244,46620)
+                                    continue
+                                elseif xc==2 then
+                                    Sa=N[-26895]or yf(80122,-26895,16890)
+                                    continue
+                                end
+                                Sa=N[-6205]or yf(30344,-6205,52959)
+                            end
+                        elseif Sa>=53101 then
+                            if Sa<53831 then
+                                if(ja>107)then
+                                    Sa=N[28494]or yf(51479,28494,63829)
+                                    continue
+                                else
+                                    Sa=N[-4362]or yf(92390,-4362,10181)
+                                    continue
+                                end
+                                Sa=N[21085]or yf(61118,21085,5359)
+                            elseif Sa>53831 then
+                                wb[1]=wb[3][wb[2]];
+                                wb[3]=wb;
+                                wb[2]=1;
+                                eb[ga],Sa=nil,N[28347]or yf(25648,28347,35125)
+                            else
+                                wb[(Tc-33)],Sa=E[ha[16496]+1],N[-11286]or yf(90939,-11286,13650)
+                            end
+                        elseif Sa<=52878 then
+                            if Sa>52120 then
+                                ha=Ef
+                                if xc~=xc then
+                                    Sa=N[5558]or yf(31292,5558,63500)
+                                else
+                                    Sa=55716
+                                end
+                            else
+                                if ja>47 then
+                                    Sa=N[-20817]or yf(51108,-20817,15845)
+                                    continue
+                                else
+                                    Sa=N[-21701]or yf(103177,-21701,30909)
+                                    continue
+                                end
+                                Sa=N[27769]or yf(74737,27769,22102)
+                            end
+                        else
+                            Re[Gb[57937]]=fc(Gb[61031]);
+                            ke+=1;
+                            Sa=N[17723]or yf(35909,17723,60098)
+                        end
+                    elseif Sa>=43076 then
+                        if Sa<47456 then
+                            if Sa>44686 then
+                                if Sa<=45862 then
+                                    if Sa<45576 then
+                                        if(ja>188)then
+                                            Sa=N[-12010]or yf(92919,-12010,51759)
+                                            continue
+                                        else
+                                            Sa=N[13523]or yf(105399,13523,29513)
+                                            continue
+                                        end
+                                        Sa=N[-24841]or yf(50748,-24841,15469)
+                                    elseif Sa>45576 then
+                                        if Gb[57937]==42 then
+                                            Sa=N[-26289]or yf(107558,-26289,6998)
+                                            continue
+                                        else
+                                            Sa=N[-29160]or yf(84156,-29160,28153)
+                                            continue
+                                        end
+                                        Sa=N[-19656]or yf(31956,-19656,39797)
+                                    else
+                                        ga,wb=Ld(se_,Sc);
+                                        Sc=ga
+                                        if Sc==nil then
+                                            Sa=N[-30877]or yf(69382,-30877,32082)
+                                        else
+                                            Sa=32782
+                                        end
+                                    end
+                                elseif Sa>46682 then
+                                    Ie=Hf(Ld)
+                                    if Ie~=nil and Ie[Pc('\170\16\157\129*\134','\245O\244')]~=nil then
+                                        Sa=N[10350]or yf(78380,10350,7475)
+                                        continue
+                                    elseif Fe(Ld)==Pc('\130l\148a\147','\246\r')then
+                                        Sa=N[-26375]or yf(39163,-26375,47498)
+                                        continue
+                                    end
+                                    Sa=N[11601]or yf(53651,11601,13012)
+                                else
+                                    ke-=1;
+                                    Sa,Od[ke]=N[4918]or yf(40920,4918,64113),{[36423]=80,[50642]=Jf(Gb[50642],243),[16496]=Jf(Gb[16496],110),[57937]=0}
+                                end
+                            elseif Sa>=43634 then
+                                if Sa<44124 then
+                                    if Gb[57937]==38 then
+                                        Sa=N[-683]or yf(61150,-683,14880)
+                                        continue
+                                    elseif Gb[57937]==56 then
+                                        Sa=N[30315]or yf(20527,30315,62784)
+                                        continue
+                                    elseif(Gb[57937]==143)then
+                                        Sa=N[5992]or yf(16013,5992,42682)
+                                        continue
+                                    else
+                                        Sa=N[13321]or yf(49128,13321,40538)
+                                        continue
+                                    end
+                                    Sa=N[23810]or yf(74651,23810,22064)
+                                elseif Sa>44124 then
+                                    if(ja>179)then
+                                        Sa=N[-11910]or yf(86762,-11910,3122)
+                                        continue
+                                    else
+                                        Sa=N[-21753]or yf(29140,-21753,35811)
+                                        continue
+                                    end
+                                    Sa=N[-1879]or yf(56051,-1879,14680)
+                                else
+                                    Sc,Sa=bb-Ie+1,N[-18585]or yf(34555,-18585,48769)
+                                end
+                            elseif Sa>=43087 then
+                                if Sa<=43087 then
+                                    if(xc>=0 and Ab>Ef)or((xc<0 or xc~=xc)and Ab<Ef)then
+                                        Sa=N[19569]or yf(47833,19569,53210)
+                                    else
+                                        Sa=31190
+                                    end
+                                else
+                                    ga,wb=Ld[4699],Gb[4699];
+                                    wb=Pc('\233MG-\251z\188','\243\248\197')..wb;
+                                    Ab='';
+                                    xc,Ef,Sa,Tc=(#ga-1)+181,181,7666,1
+                                end
+                            else
+                                ke+=Gb[54622];
+                                Sa=N[-6861]or yf(41082,-6861,54995)
+                            end
+                        elseif Sa<51275 then
+                            if Sa<48250 then
+                                if Sa<47598 then
+                                    bb,Sa=Ie+Ab-1,N[12238]or yf(29168,12238,63213)
+                                elseif Sa>47598 then
+                                    if ja>184 then
+                                        Sa=N[28662]or yf(73856,28662,29796)
+                                        continue
+                                    else
+                                        Sa=N[-11462]or yf(40871,-11462,10194)
+                                        continue
+                                    end
+                                    Sa=N[30826]or yf(62922,30826,24643)
+                                else
+                                    wb[1]=wb[3][wb[2]];
+                                    wb[3]=wb;
+                                    wb[2]=1;
+                                    eb[ga],Sa=nil,N[-5507]or yf(90687,-5507,13513)
+                                end
+                            elseif Sa>48520 then
+                                ke+=1;
+                                Sa=N[19642]or yf(77140,19642,19445)
+                            elseif Sa<=48250 then
+                                Ie,Ld,se_=Jf(Gb[57937],164),Jf(Gb[50642],196),Jf(Gb[16496],231);
+                                Sc,ga=Ld==0 and bb-Ie or Ld-1,Re[Ie];
+                                wb,Ab=T(ga(rd(Re,Ie+1,Ie+Sc)))
+                                if se_==0 then
+                                    Sa=N[-31195]or yf(49175,-31195,46475)
+                                    continue
+                                else
+                                    Sa=N[17020]or yf(58803,17020,43158)
+                                    continue
+                                end
+                                Sa=9503
+                            else
+                                Ld,se_,Sc=eb
+                                if Fe(Ld)~=Pc('e\241c\143w\237b\130','\3\132\r\236')then
+                                    Sa=N[-22662]or yf(81764,-22662,56285)
+                                    continue
+                                end
+                                Sa=N[31880]or yf(33488,31880,60437)
+                            end
+                        elseif Sa<=51808 then
+                            if Sa<=51636 then
+                                if Sa<51608 then
+                                    Ie=E[Gb[16496]+1];
+                                    Sa,Re[Gb[50642]]=N[-17138]or yf(19789,-17138,43994),Ie[3][Ie[2]]
+                                elseif Sa<=51608 then
+                                    if(ja>225)then
+                                        Sa=N[14598]or yf(9387,14598,47067)
+                                        continue
+                                    else
+                                        Sa=N[8750]or yf(14160,8750,45059)
+                                        continue
+                                    end
+                                    Sa=N[6915]or yf(75742,6915,21071)
+                                else
+                                    if Gb[57937]==68 then
+                                        Sa=N[-12443]or yf(49201,-12443,60425)
+                                        continue
+                                    elseif(Gb[57937]==254)then
+                                        Sa=N[14181]or yf(33400,14181,10049)
+                                        continue
+                                    else
+                                        Sa=N[-15242]or yf(40920,-15242,14317)
+                                        continue
+                                    end
+                                    Sa=N[-15352]or yf(49719,-15352,12436)
+                                end
+                            else
+                                Tc=Ab
+                                if Ef~=Ef then
+                                    Sa=N[7038]or yf(41210,7038,55123)
+                                else
+                                    Sa=N[-20668]or yf(60290,-20668,54988)
+                                end
+                            end
+                        elseif Sa<=51943 then
+                            if Ie==2 then
+                                Sa=N[-30614]or yf(23955,-30614,37594)
+                                continue
+                            elseif(Ie==3)then
+                                Sa=N[-5442]or yf(54729,-5442,39153)
+                                continue
+                            else
+                                Sa=N[17516]or yf(92048,17516,977)
+                                continue
+                            end
+                            Sa=N[-21071]or yf(106002,-21071,27219)
+                        else
+                            xc=xc+ha;
+                            Ec=xc
+                            if xc~=xc then
+                                Sa=N[5094]or yf(67756,5094,26798)
+                            else
+                                Sa=8969
+                            end
+                        end
+                    elseif Sa<=36698 then
+                        if Sa<34769 then
+                            if Sa<=32905 then
+                                if Sa>=32782 then
+                                    if Sa<=32782 then
+                                        _b(wb);
+                                        Cf[ga],Sa=nil,N[-22709]or yf(57610,-22709,37694)
+                                    else
+                                        ke+=Gb[54622];
+                                        Sa=N[-26040]or yf(71725,-26040,32378)
+                                    end
+                                elseif Sa>32524 then
+                                    ke-=1;
+                                    Sa,Od[ke]=N[708]or yf(47317,708,57202),{[36423]=175,[50642]=Jf(Gb[50642],253),[16496]=Jf(Gb[16496],10),[57937]=0}
+                                else
+                                    if(Gb[57937]==2)then
+                                        Sa=N[-14478]or yf(50901,-14478,26839)
+                                        continue
+                                    else
+                                        Sa=N[-27503]or yf(53945,-27503,46798)
+                                        continue
+                                    end
+                                    Sa=N[-12887]or yf(59835,-12887,3088)
+                                end
+                            elseif Sa>33569 then
+                                Ab=Sc
+                                if ga~=ga then
+                                    Sa=N[-15043]or yf(51382,-15043,12055)
+                                else
+                                    Sa=61865
+                                end
+                            else
+                                Ld,se_,Sc=Ie[Pc('\4\135\23/\189\f','[\216~')](Ld);
+                                Sa=N[-29853]or yf(17250,-29853,44103)
+                            end
+                        elseif Sa>=36640 then
+                            if Sa>=36693 then
+                                if Sa<=36693 then
+                                    Sa,Ab=N[23445]or yf(73319,23445,14407),Ab..Te(Jf(bf(ga,(ha-158)+1),bf(wb,(ha-158)%#wb+1)))
+                                else
+                                    Ie=Gb[43129];
+                                    Re[Gb[57937]][Ie]=Re[Gb[50642]];
+                                    ke+=1;
+                                    Sa=N[1453]or yf(56866,1453,1131)
+                                end
+                            else
+                                if(ja>38)then
+                                    Sa=N[852]or yf(116879,852,31203)
+                                    continue
+                                else
+                                    Sa=N[-22603]or yf(35163,-22603,64923)
+                                    continue
+                                end
+                                Sa=N[17025]or yf(21179,17025,33040)
+                            end
+                        elseif Sa<34815 then
+                            Ld,se_,Sc=nc(Ld);
+                            Sa=N[26872]or yf(78941,26872,11881)
+                        elseif Sa<=34815 then
+                            Ie=Hf(Ld)
+                            if Ie~=nil and Ie[Pc('6\96_\29ZD','i?6')]~=nil then
+                                Sa=N[-14866]or yf(32507,-14866,57680)
+                                continue
+                            elseif Fe(Ld)==Pc('\148\238\130\227\133','\224\143')then
+                                Sa=N[-32756]or yf(48665,-32756,48441)
+                                continue
+                            end
+                            Sa=N[-11203]or yf(82912,-11203,51842)
+                        else
+                            ke+=Gb[54622];
+                            Sa=N[22622]or yf(53374,22622,1711)
+                        end
+                    elseif Sa>=40692 then
+                        if Sa>41419 then
+                            if Sa>41780 then
+                                _f={[2]=jf,[3]=Re};
+                                Sa,eb[jf]=N[28315]or yf(70206,28315,20369),_f
+                            else
+                                ke+=Gb[54622];
+                                Sa=N[19576]or yf(27599,19576,36444)
+                            end
+                        elseif Sa<40700 then
+                            Ld,se_,Sc=nc(Ld);
+                            Sa=N[-11581]or yf(118148,-11581,19582)
+                        elseif Sa>40700 then
+                            jf={[1]=Re[ha[16496]],[2]=1};
+                            jf[3]=jf;
+                            wb[(Tc-33)],Sa=jf,N[-5835]or yf(101890,-5835,2125)
+                        else
+                            Sa,Re[Gb[50642]]=N[23709]or yf(80547,23709,52864),se_[Gb[4699]][Gb[7820]]
+                        end
+                    elseif Sa<38879 then
+                        if Sa>37600 then
+                            if(ja>175)then
+                                Sa=N[-7334]or yf(19199,-7334,46529)
+                                continue
+                            else
+                                Sa=N[-14941]or yf(78621,-14941,8775)
+                                continue
+                            end
+                            Sa=N[26880]or yf(22920,26880,48129)
+                        else
+                            Ie[43129]=Ld;
+                            Sa,Gb[36423]=N[18964]or yf(47325,18964,57162),211
+                        end
+                    elseif Sa<39079 then
+                        Ld,se_,Sc=eb
+                        if(Fe(Ld)~=Pc('>C5\235,_4\230','X6[\136'))then
+                            Sa=N[11282]or yf(58662,11282,49435)
+                            continue
+                        else
+                            Sa=N[-30904]or yf(115252,-30904,21710)
+                            continue
+                        end
+                        Sa=N[28310]or yf(102308,28310,3678)
+                    elseif Sa<=39079 then
+                        Tc={[1]=Re[Ef[16496]],[2]=1};
+                        Tc[3]=Tc;
+                        se_[(Ab-220)],Sa=Tc,N[988]or yf(42765,988,16216)
+                    else
+                        Sc,Sa=Ld-1,N[-24857]or yf(91192,-24857,24542)
+                    end
+                elseif Sa<13488 then
+                    if Sa>=7666 then
+                        if Sa<11136 then
+                            if Sa<9972 then
+                                if Sa>8969 then
+                                    if Sa<=9503 then
+                                        sd(wb,1,Ab,Ie,Re);
+                                        Sa=N[22308]or yf(34539,22308,64800)
+                                    else
+                                        if not Re[Gb[50642]]then
+                                            Sa=N[5875]or yf(51417,5875,58732)
+                                            continue
+                                        end
+                                        Sa=N[-14747]or yf(54353,-14747,758)
+                                    end
+                                elseif Sa<=7784 then
+                                    if Sa>7666 then
+                                        if Ec==1 then
+                                            Sa=N[29421]or yf(40364,29421,63168)
+                                            continue
+                                        elseif Ec==2 then
+                                            Sa=N[-14293]or yf(112684,-14293,31321)
+                                            continue
+                                        end
+                                        Sa=N[-6872]or yf(115838,-6872,22161)
+                                    else
+                                        ha=Ef
+                                        if xc~=xc then
+                                            Sa=N[4103]or yf(117451,4103,32287)
+                                        else
+                                            Sa=N[14125]or yf(42661,14125,56890)
+                                        end
+                                    end
+                                else
+                                    if(ha>=0 and xc>Tc)or((ha<0 or ha~=ha)and xc<Tc)then
+                                        Sa=N[-11762]or yf(65958,-11762,29144)
+                                    else
+                                        Sa=N[-26088]or yf(1128,-26088,44381)
+                                    end
+                                end
+                            elseif Sa>=10389 then
+                                if Sa>=10494 then
+                                    if Sa>10494 then
+                                        ke-=1;
+                                        Od[ke],Sa={[36423]=47,[50642]=Jf(Gb[50642],193),[16496]=Jf(Gb[16496],227),[57937]=0},N[-21684]or yf(72438,-21684,31063)
+                                    else
+                                        Ie,Ld,se_=Gb[50642],Gb[57937],Gb[43129];
+                                        Sc=Re[Ld];
+                                        Re[Ie+1]=Sc;
+                                        Re[Ie]=Sc[se_];
+                                        ke+=1;
+                                        Sa=N[27767]or yf(16069,27767,42306)
+                                    end
+                                else
+                                    if ja>219 then
+                                        Sa=N[-13790]or yf(40646,-13790,51038)
+                                        continue
+                                    else
+                                        Sa=N[-4651]or yf(84309,-4651,54476)
+                                        continue
+                                    end
+                                    Sa=N[-17124]or yf(37721,-17124,49614)
+                                end
+                            elseif Sa<10260 then
+                                se_,Sc=Ie[43129],Gb[43129];
+                                Sc=Pc('{\tW\191\191j.','a\188\213')..Sc;
+                                ga='';
+                                wb,Ab,Ef,Sa=195,(#se_-1)+195,1,64341
+                            elseif Sa>10260 then
+                                Ld[43129]=se_
+                                if(Ie==2)then
+                                    Sa=N[-22890]or yf(76648,-22890,27700)
+                                    continue
+                                else
+                                    Sa=N[-29111]or yf(10042,-29111,48306)
+                                    continue
+                                end
+                                Sa=64035
+                            else
+                                if ja>30 then
+                                    Sa=N[-19824]or yf(94175,-19824,19526)
+                                    continue
+                                else
+                                    Sa=N[-30472]or yf(30243,-30472,46978)
+                                    continue
+                                end
+                                Sa=N[-9025]or yf(20402,-9025,43547)
+                            end
+                        elseif Sa>=12961 then
+                            if Sa<13323 then
+                                if Sa<13054 then
+                                    Sa,Re[Gb[50642]]=N[27131]or yf(12562,27131,42939),Gb[43129]
+                                elseif Sa<=13054 then
+                                    Ie,Ld=Gb[51269],Gb[43129];
+                                    se_=da[Ld]or gf[5557][Ld]
+                                    if(Ie==1)then
+                                        Sa=N[-29500]or yf(89469,-29500,55575)
+                                        continue
+                                    else
+                                        Sa=N[17663]or yf(72842,17663,61343)
+                                        continue
+                                    end
+                                    Sa=51203
+                                else
+                                    if(Tc>=0 and Ef>xc)or((Tc<0 or Tc~=Tc)and Ef<xc)then
+                                        Sa=N[5106]or yf(85286,5106,63522)
+                                    else
+                                        Sa=30199
+                                    end
+                                end
+                            elseif Sa>=13374 then
+                                if Sa>13374 then
+                                    Ie=Re[Gb[57937]];
+                                    Re[Gb[16496]],Sa=if Ie then Ie else Gb[43129]or false,N[20190]or yf(59584,20190,3913)
+                                else
+                                    Sa,ga=18542,Ef
+                                    continue
+                                end
+                            else
+                                ke-=1;
+                                Od[ke],Sa={[36423]=112,[50642]=Jf(Gb[50642],132),[16496]=Jf(Gb[16496],134),[57937]=0},N[-12779]or yf(30585,-12779,60846)
+                            end
+                        elseif Sa>=12653 then
+                            if Sa<12907 then
+                                Sa,wb[(Tc-33)]=N[3674]or yf(58226,3674,46493),_f
+                            elseif Sa<=12907 then
+                                Ld,se_,Sc=Ie[Pc('\223\151\163\244\173\184','\128\200\202')](Ld);
+                                Sa=N[22055]or yf(101656,22055,4074)
+                            else
+                                if(wb[2]>=Gb[50642])then
+                                    Sa=N[11502]or yf(107340,11502,32233)
+                                    continue
+                                else
+                                    Sa=N[-6174]or yf(45456,-6174,53973)
+                                    continue
+                                end
+                                Sa=N[22234]or yf(54974,22234,15243)
+                            end
+                        elseif Sa>11136 then
+                            Sa=N[20983]or yf(74253,20983,5913)
+                            continue
+                        else
+                            if ja>211 then
+                                Sa=N[21771]or yf(48293,21771,10040)
+                                continue
+                            else
+                                Sa=N[13933]or yf(115303,13933,18850)
+                                continue
+                            end
+                            Sa=N[16607]or yf(45595,16607,8368)
+                        end
+                    elseif Sa>3304 then
+                        if Sa>=6975 then
+                            if Sa<=7057 then
+                                if Sa>6980 then
+                                    Ld[4699]=Sc;
+                                    ga,Sa=nil,2397
+                                elseif Sa>6975 then
+                                    Ie,Ld,se_=Gb[43129],Gb[59172],Re[Gb[50642]]
+                                    if(se_==Ie)~=Ld then
+                                        Sa=N[16638]or yf(58283,16638,46257)
+                                        continue
+                                    else
+                                        Sa=N[11634]or yf(84238,11634,23223)
+                                        continue
+                                    end
+                                    Sa=N[-4242]or yf(29833,-4242,58142)
+                                else
+                                    ga,wb=Ld[4699],Gb[4699];
+                                    wb=Pc('\206\201|\n\127A\155','\212|\254')..wb;
+                                    Ab='';
+                                    Tc,xc,Sa,Ef=1,(#ga-1)+158,52878,158
+                                end
+                            elseif Sa>7254 then
+                                Sa,Re[Gb[50642]]=N[-27641]or yf(77223,-27641,63900),se_[Gb[4699]]
+                            else
+                                Ie,Ld,se_=Gb[43129],Gb[59172],Re[Gb[50642]]
+                                if(se_==Ie)~=Ld then
+                                    Sa=N[-4250]or yf(84908,-4250,15012)
+                                    continue
+                                else
+                                    Sa=N[-18320]or yf(66014,-18320,5395)
+                                    continue
+                                end
+                                Sa=N[21237]or yf(54974,21237,3311)
+                            end
+                        elseif Sa<5177 then
+                            if Sa<=4661 then
+                                Ef=Ef+Tc;
+                                ha=Ef
+                                if Ef~=Ef then
+                                    Sa=N[8535]or yf(69299,8535,34263)
+                                else
+                                    Sa=13219
+                                end
+                            else
+                                Sc=Sc+wb;
+                                Ab=Sc
+                                if Sc~=Sc then
+                                    Sa=N[1176]or yf(13175,1176,41428)
+                                else
+                                    Sa=N[29064]or yf(82695,29064,64706)
+                                end
+                            end
+                        elseif Sa>5516 then
+                            Sc,Sa=Ab,N[21687]or yf(13117,21687,47792)
+                            continue
+                        elseif Sa>5177 then
+                            if Ie==3 then
+                                Sa=N[4562]or yf(80268,4562,30997)
+                                continue
+                            end
+                            Sa=N[11314]or yf(114529,11314,6526)
+                        else
+                            Ie,Ld=nil,Jf(Gb[49245],37114);
+                            Ie=if Ld<32768 then Ld else Ld-65536;
+                            se_=Ie;
+                            Sc=Tb[se_+1];
+                            ga=Sc[23378];
+                            wb=fc(ga);
+                            Re[Jf(Gb[50642],243)]=S(Sc,wb);
+                            xc,Sa,Ab,Ef=1,N[13822]or yf(75052,13822,51056),34,(ga)+33
+                        end
+                    elseif Sa>=2299 then
+                        if Sa>=2615 then
+                            if Sa>=3063 then
+                                if Sa<=3063 then
+                                    Ec=xc
+                                    if Tc~=Tc then
+                                        Sa=N[-19905]or yf(44585,-19905,54867)
+                                    else
+                                        Sa=N[25123]or yf(65466,25123,30385)
+                                    end
+                                else
+                                    Sc=Re[Ie];
+                                    wb,ga,Ab,Sa=Ld,Ie+1,1,N[11481]or yf(57581,11481,9213)
+                                end
+                            else
+                                if(Ab>=0 and ga>wb)or((Ab<0 or Ab~=Ab)and ga<wb)then
+                                    Sa=N[-6701]or yf(114537,-6701,29232)
+                                else
+                                    Sa=56978
+                                end
+                            end
+                        elseif Sa<=2383 then
+                            if Sa<=2299 then
+                                ke-=1;
+                                Sa,Od[ke]=N[28300]or yf(30433,28300,60710),{[36423]=161,[50642]=Jf(Gb[50642],251),[16496]=Jf(Gb[16496],38),[57937]=0}
+                            else
+                                ke-=1;
+                                Sa,Od[ke]=N[-24340]or yf(39627,-24340,63808),{[36423]=209,[50642]=Jf(Gb[50642],76),[16496]=Jf(Gb[16496],23),[57937]=0}
+                            end
+                        else
+                            wb,Ab=Ld[7820],Gb[7820];
+                            Ab=Pc('\3\218\247\199l\202V','\25ou')..Ab;
+                            Ef='';
+                            Tc,ha,Sa,xc=(#wb-1)+87,1,N[-30510]or yf(14298,-30510,38911),87
+                        end
+                    elseif Sa>1031 then
+                        if Sa>1287 then
+                            if ja>73 then
+                                Sa=N[-23387]or yf(74794,-23387,6491)
+                                continue
+                            else
+                                Sa=N[-32151]or yf(76973,-32151,21793)
+                                continue
+                            end
+                            Sa=N[-7780]or yf(40859,-7780,64048)
+                        else
+                            Sa,Ef=N[9692]or yf(115626,9692,23203),Ef..Te(Jf(bf(wb,(Ec-87)+1),bf(Ab,(Ec-87)%#Ab+1)))
+                        end
+                    elseif Sa<840 then
+                        if Sa>462 then
+                            Sc,ga=Ld[43129],Gb[43129];
+                            ga=Pc('B\155\151\134-\170\23','X.\21')..ga;
+                            wb='';
+                            Ab,xc,Ef,Sa=121,1,(#Sc-1)+121,14026
+                        else
+                            ke-=1;
+                            Sa,Od[ke]=N[-20476]or yf(47839,-20476,55628),{[36423]=75,[50642]=Jf(Gb[50642],182),[16496]=Jf(Gb[16496],212),[57937]=0}
+                        end
+                    elseif Sa<=840 then
+                        if(ja>75)then
+                            Sa=N[-10650]or yf(54803,-10650,50967)
+                            continue
+                        else
+                            Sa=N[-16504]or yf(20726,-16504,62706)
+                            continue
+                        end
+                        Sa=N[452]or yf(14163,452,44536)
+                    else
+                        Ie,Ld=Gb[50642],Gb[16496];
+                        se_=Ld-1
+                        if(se_==-1)then
+                            Sa=N[15316]or yf(56032,15316,33592)
+                            continue
+                        else
+                            Sa=N[2986]or yf(81342,2986,16124)
+                            continue
+                        end
+                        Sa=29626
+                    end
+                elseif Sa>22752 then
+                    if Sa<=29893 then
+                        if Sa<27739 then
+                            if Sa<=25388 then
+                                if Sa<=24921 then
+                                    if Sa<=24731 then
+                                        ha=Od[ke];
+                                        ke+=1;
+                                        Ec=ha[50642]
+                                        if(Ec==0)then
+                                            Sa=N[-16121]or yf(51825,-16121,33846)
+                                            continue
+                                        else
+                                            Sa=N[-30739]or yf(33441,-30739,51429)
+                                            continue
+                                        end
+                                        Sa=N[-21318]or yf(83206,-21318,55113)
+                                    else
+                                        if(ja>161)then
+                                            Sa=N[-27517]or yf(55304,-27517,63264)
+                                            continue
+                                        else
+                                            Sa=N[-26760]or yf(85358,-26760,52579)
+                                            continue
+                                        end
+                                        Sa=N[-13135]or yf(76281,-13135,19502)
+                                    end
+                                else
+                                    Ef=ga
+                                    if wb~=wb then
+                                        Sa=N[12823]or yf(62336,12823,48795)
+                                    else
+                                        Sa=2615
+                                    end
+                                end
+                            elseif Sa>25429 then
+                                if(ja>123)then
+                                    Sa=N[-32446]or yf(125348,-32446,23276)
+                                    continue
+                                else
+                                    Sa=N[-28353]or yf(108331,-28353,28642)
+                                    continue
+                                end
+                                Sa=N[7739]or yf(25898,7739,37731)
+                            else
+                                ga,Sa=ga..Te(Jf(bf(se_,(xc-195)+1),bf(Sc,(xc-195)%#Sc+1))),N[-12308]or yf(94229,-12308,57047)
+                            end
+                        elseif Sa<=28995 then
+                            if Sa>=28462 then
+                                if Sa>28462 then
+                                    Sa,Re[Gb[50642]]=N[-3474]or yf(63949,-3474,7258),#Re[Gb[16496]]
+                                else
+                                    if(xc>=0 and Ab>Ef)or((xc<0 or xc~=xc)and Ab<Ef)then
+                                        Sa=N[2340]or yf(53195,2340,10816)
+                                    else
+                                        Sa=24731
+                                    end
+                                end
+                            elseif Sa<=27739 then
+                                if Gb[57937]==207 then
+                                    Sa=N[17092]or yf(71452,17092,33308)
+                                    continue
+                                elseif Gb[57937]==214 then
+                                    Sa=N[20089]or yf(87061,20089,643)
+                                    continue
+                                else
+                                    Sa=N[-2254]or yf(18323,-2254,46937)
+                                    continue
+                                end
+                                Sa=N[14363]or yf(74262,14363,20663)
+                            else
+                                if ja>24 then
+                                    Sa=N[-27418]or yf(49207,-27418,62841)
+                                    continue
+                                else
+                                    Sa=N[1755]or yf(75932,1755,57926)
+                                    continue
+                                end
+                                Sa=N[-11875]or yf(30236,-11875,60557)
+                            end
+                        elseif Sa>29626 then
+                            Ld,se_,Sc=nc(Ld);
+                            Sa=N[-22865]or yf(26814,-22865,34187)
+                        else
+                            return rd(Re,Ie,Ie+Sc-1)
+                        end
+                    elseif Sa>31244 then
+                        if Sa>=31845 then
+                            if Sa<=31845 then
+                                if(ja>31)then
+                                    Sa=N[29651]or yf(106037,29651,15316)
+                                    continue
+                                else
+                                    Sa=N[30709]or yf(114817,30709,23153)
+                                    continue
+                                end
+                                Sa=N[-284]or yf(25317,-284,37154)
+                            else
+                                Sa,Ie,Ld,se_=590,Gb[51269],Od[ke+1],nil
+                            end
+                        elseif Sa>31366 then
+                            if(Gb[57937]==8)then
+                                Sa=N[-15183]or yf(74196,-15183,22528)
+                                continue
+                            else
+                                Sa=N[-20840]or yf(79677,-20840,12691)
+                                continue
+                            end
+                            Sa=N[-32751]or yf(75716,-32751,21061)
+                        else
+                            Re[Gb[50642]],Sa=nil,N[7843]or yf(55623,7843,16324)
+                        end
+                    elseif Sa>31190 then
+                        if Sa<=31206 then
+                            if(Ef>=0 and wb>Ab)or((Ef<0 or Ef~=Ef)and wb<Ab)then
+                                Sa=N[22015]or yf(77486,22015,58340)
+                            else
+                                Sa=25429
+                            end
+                        else
+                            Ef=Ef+Tc;
+                            ha=Ef
+                            if Ef~=Ef then
+                                Sa=N[-19552]or yf(37322,-19552,10210)
+                            else
+                                Sa=55716
+                            end
+                        end
+                    elseif Sa>31063 then
+                        wb,Sa=wb..Te(Jf(bf(Sc,(Tc-121)+1),bf(ga,(Tc-121)%#ga+1))),N[32195]or yf(107845,32195,5606)
+                    elseif Sa>31054 then
+                        Ie,Ld=Gb[50642],Gb[16496]-1
+                        if Ld==-1 then
+                            Sa=N[20081]or yf(113047,20081,29109)
+                            continue
+                        end
+                        Sa=N[30160]or yf(75696,30160,38660)
+                    elseif Sa>30199 then
+                        ke+=1;
+                        Sa=N[24701]or yf(43896,24701,51665)
+                    else
+                        Sa,Ab=N[29592]or yf(68314,29592,21821),Ab..Te(Jf(bf(ga,(ha-181)+1),bf(wb,(ha-181)%#wb+1)))
+                    end
+                elseif Sa>18281 then
+                    if Sa<19763 then
+                        if Sa>=18723 then
+                            if Sa<=18937 then
+                                if Sa>18723 then
+                                    if(ja>167)then
+                                        Sa=N[-27638]or yf(47427,-27638,48184)
+                                        continue
+                                    else
+                                        Sa=N[4357]or yf(44889,4357,57564)
+                                        continue
+                                    end
+                                    Sa=N[6682]or yf(39065,6682,65294)
+                                else
+                                    if(ja>72)then
+                                        Sa=N[-25932]or yf(108832,-25932,29803)
+                                        continue
+                                    else
+                                        Sa=N[28972]or yf(58464,28972,64380)
+                                        continue
+                                    end
+                                    Sa=N[-11229]or yf(56398,-11229,15071)
+                                end
+                            else
+                                se_[(Ab-220)],Sa=E[Ef[16496]+1],N[-324]or yf(21048,-324,57903)
+                            end
+                        elseif Sa>18542 then
+                            Sa,se_=10371,wb
+                            continue
+                        else
+                            Sa,Ld[7820]=N[24592]or yf(81138,24592,40723),ga
+                        end
+                    elseif Sa<=22287 then
+                        if Sa>21685 then
+                            ke+=1;
+                            Sa=N[4973]or yf(36156,4973,60269)
+                        elseif Sa<=21347 then
+                            if Sa>19763 then
+                                Sa,Sc=N[-26807]or yf(67569,-26807,22282),nil
+                            else
+                                ga=ga+Ab;
+                                Ef=ga
+                                if ga~=ga then
+                                    Sa=N[-18993]or yf(68379,-18993,34306)
+                                else
+                                    Sa=2615
+                                end
+                            end
+                        else
+                            Ld[4699],Sa=Sc,N[-27954]or yf(109220,-27954,3261)
+                        end
+                    elseif Sa<=22472 then
+                        Ie=Tb[Gb[43129]+1];
+                        Ld=Ie[23378];
+                        se_=fc(Ld);
+                        Re[Gb[50642]]=S(Ie,se_);
+                        Sa,wb,ga,Sc=N[13774]or yf(67939,13774,56511),1,(Ld)+220,221
+                    else
+                        Sc,Sa=nil,43504
+                    end
+                elseif Sa<=16030 then
+                    if Sa<=14223 then
+                        if Sa<=14026 then
+                            if Sa<=13931 then
+                                if Sa<=13488 then
+                                    Re[Gb[50642]]=Gb[57937]==1;
+                                    ke+=Gb[16496];
+                                    Sa=N[-6968]or yf(16402,-6968,46779)
+                                else
+                                    if(not Pa)then
+                                        Sa=N[-445]or yf(50050,-445,11868)
+                                        continue
+                                    else
+                                        Sa=N[-19567]or yf(119238,-19567,17955)
+                                        continue
+                                    end
+                                    Sa=N[-9490]or yf(118565,-9490,30558)
+                                end
+                            else
+                                Tc=Ab
+                                if Ef~=Ef then
+                                    Sa=N[11673]or yf(70478,11673,29739)
+                                else
+                                    Sa=N[15597]or yf(55264,15597,36877)
+                                end
+                            end
+                        else
+                            if(ja>189)then
+                                Sa=N[-19116]or yf(84398,-19116,23805)
+                                continue
+                            else
+                                Sa=N[357]or yf(89314,357,844)
+                                continue
+                            end
+                            Sa=N[5242]or yf(71145,5242,16446)
+                        end
+                    elseif Sa>=15501 then
+                        if Sa>15501 then
+                            Gb=Od[ke];
+                            Sa,ja=N[4498]or yf(91672,4498,56941),Gb[36423]
+                        else
+                            if ja>48 then
+                                Sa=N[3995]or yf(74340,3995,14770)
+                                continue
+                            else
+                                Sa=N[81]or yf(100282,81,26430)
+                                continue
+                            end
+                            Sa=N[16649]or yf(59709,16649,3946)
+                        end
+                    else
+                        Re[Gb[50642]],Sa=Re[Gb[16496]],N[-5226]or yf(31711,-5226,40524)
+                    end
+                elseif Sa>=16771 then
+                    if Sa>=18238 then
+                        if Sa>18238 then
+                            if ja>213 then
+                                Sa=N[12562]or yf(93563,12562,16127)
+                                continue
+                            else
+                                Sa=N[-13545]or yf(16939,-13545,34199)
+                                continue
+                            end
+                            Sa=N[283]or yf(40303,283,64444)
+                        else
+                            ke-=1;
+                            Sa,Od[ke]=N[18517]or yf(60931,18517,5256),{[36423]=167,[50642]=Jf(Gb[50642],58),[16496]=Jf(Gb[16496],171),[57937]=0}
+                        end
+                    else
+                        ke+=1;
+                        Sa=N[23183]or yf(22520,23183,33361)
+                    end
+                elseif Sa<=16647 then
+                    ga,wb=Ld(se_,Sc);
+                    Sc=ga
+                    if Sc==nil then
+                        Sa=N[3734]or yf(22092,3734,36061)
+                    else
+                        Sa=N[-11846]or yf(70728,-11846,20193)
+                    end
+                else
+                    jf=ha[16496];
+                    _f=eb[jf]
+                    if(_f==nil)then
+                        Sa=N[-5272]or yf(81965,-5272,1070)
+                        continue
+                    else
+                        Sa=N[2755]or yf(59904,2755,6027)
+                        continue
+                    end
+                    Sa=12653
+                end
+            until Sa==30952
+        end
+        return function(...)
+            local Kd,Vb,Fb,Za,Xc,we,Jb,La,Vc,Dd,Zb;
+            Xc,Fb=function(cc,gd,Yc)
+                Fb[Yc]=ec(gd,53400)-ec(cc,28446)
+                return Fb[Yc]
+            end,{};
+            La=Fb[22639]or Xc(46408,121669,22639)
+            while La~=55904 do
+                if La>=21076 then
+                    if La>=53530 then
+                        if La>53530 then
+                            return Dc(Za,0)
+                        else
+                            Dd,we=T(Se(ab,Zb,Ud[12756],Ud[48515],Jb))
+                            if Dd[1]then
+                                La=Fb[-2209]or Xc(21837,9486,-2209)
+                                continue
+                            else
+                                La=Fb[25990]or Xc(607,16592,25990)
+                                continue
+                            end
+                            La=17404
+                        end
+                    elseif La<=21076 then
+                        Dd,we=Ud[17788]+1,Kd[Pc('\19','}')]-Ud[17788];
+                        Jb[10837]=we;
+                        sd(Kd,Dd,Dd+we-1,1,Jb[61733]);
+                        La=Fb[-17605]or Xc(307,126943,-17605)
+                    else
+                        return rd(Dd,2,we)
+                    end
+                elseif La>=17226 then
+                    if La<=17226 then
+                        La,Za=Fb[7861]or Xc(36895,77517,7861),Me(Za)
+                    else
+                        La=Fb[-1583]or Xc(62616,107902,-1583)
+                        continue
+                    end
+                elseif La>8967 then
+                    Kd,Zb,Jb=kf(...),fc(Ud[40863]),{[10837]=0,[61733]={}};
+                    sd(Kd,1,Ud[17788],0,Zb)
+                    if(Ud[17788]<Kd[Pc('Q','?')])then
+                        La=Fb[-29011]or Xc(47170,129320,-29011)
+                        continue
+                    else
+                        La=Fb[-17684]or Xc(42772,84412,-17684)
+                        continue
+                    end
+                    La=53530
+                else
+                    Za,Vc=Dd[2],nil;
+                    Vb=Za;
+                    Vc=Me(Vb)==Pc('\130\133\186\152\159\175','\241\241\200')
+                    if(Vc==false)then
+                        La=Fb[-6203]or Xc(42978,122078,-6203)
+                        continue
+                    else
+                        La=Fb[13964]or Xc(35640,78818,13964)
+                        continue
+                    end
+                    La=Fb[31843]or Xc(38627,76233,31843)
+                end
+            end
+        end
+    end
+    return S(k,Af)
+end)
+local Rc
+local he,Id,Zc,Aa;
+Zc={};
+he,Id={},function(J,Ra,We)
+    he[We]=ec(Ra,58643)-ec(J,13569)
+    return he[We]
+end;
+Aa=he[32232]or Id(14770,35615,32232)
+repeat
+    if Aa>=64235-31400 then
+        if Aa>23685- -15114 then
+            Aa,Rc,te=he[-9538]or Id(2362,14041,-9538),Zc[1],function()
+                local Ja,f_,ie,mc;
+                Ja={};
+                f_,ie=function(w_,x,cb)
+                    ie[w_]=ec(cb,21649)-ec(x,59390)
+                    return ie[w_]
+                end,{};
+                mc=ie[-12869]or f_(-12869,39514,43221)
+                repeat
+                    if mc>13173- -30820 then
+                        if mc<=1.7729031069630357*32572 then
+                            if mc>2.7185158939056491*19756 then
+                                if mc<=-71604000/-1248 then
+                                    Ja[1],mc=45800,1.611324711639287*22888
+                                else
+                                    return Ja[2]
+                                end
+                            elseif mc>=255689018/4958 then
+                                if mc>61440-9869 then
+                                    Rc[0],mc=Ja[2],ie[23692]or f_(23692,169,102351)
+                                else
+                                    mc,Ja[1]=12790272/704,Ja[1]/Ja[3]
+                                end
+                            else
+                                Ja[3],mc=-31508,-948545403/-18393
+                            end
+                        elseif mc>=1022986248/16404 then
+                            if mc<=2.0284942913834043*30743 then
+                                Ja[3],mc=0,447707650/29947
+                            else
+                                Ja[2],mc=-10114,3.0419720647213389*14462
+                            end
+                        else
+                            Ja[1],mc=-31508,ie[20378]or f_(20378,50634,34087)
+                        end
+                    elseif mc<=10117- -12318 then
+                        if mc<-299852150/-20057 then
+                            if mc>-23092416/-5118 then
+                                Ja[2],mc={[Ja[2]]=Rc,[Ja[1]]=Ja[3]},ie[-21797]or f_(-21797,52480,88064)
+                            else
+                                Ja[1],mc=Ja[1]/Ja[3],-58557918/-939
+                            end
+                        elseif mc>17563- -605 then
+                            Ja[2],mc=Rc[Ja[2]],42062+20089
+                        elseif mc<=45402-30452 then
+                            mc,Ja[3]=-0.18022385118625364*-25374,Rc[Ja[3]]
+                        else
+                            mc,Ja[2]=ie[-10242]or f_(-10242,16341,130407),Ja[2]+Ja[1]
+                        end
+                    elseif mc>48.020833333333336*768 then
+                        Ja[1],mc=-10117,ie[-25949]or f_(-25949,5499,78581)
+                    elseif mc>1.7980918571111604*18028 then
+                        mc,Ja[3]=-0.21438753207260286*-21046,22900
+                    elseif mc>-1.1496395628245872*-25802 then
+                        Ja[2],mc=0,ie[18256]or f_(18256,37306,39286)
+                    else
+                        Ja[2],mc=Ja[2]-Ja[1],2.8630239520958085*20040
+                    end
+                until mc==42125-25609
+            end
+        elseif Aa>1.8123861566484518*18117 then
+            Aa,nb=he[-888]or Id(2771,14279,-888),gb
+            continue
+        else
+            Aa,Zc[1]=he[27951]or Id(52128,83666,27951),{[Zc[1]]=Zc[2]}
+        end
+    elseif Aa>17124+7797 then
+        Aa,Zc[2]=23421- -9414,0
+    else
+        Aa,Zc[1]=he[15901]or Id(54334,113079,15901),0
+    end
+until Aa==4.14106514084507*9088
+local Lc,Xd,Bc,rc;
+Lc={};
+Xd,Bc=function(Ff,ef,ye)
+    Bc[ef]=ec(ye,12686)-ec(Ff,63482)
+    return Bc[ef]
+end,{};
+rc=Bc[11112]or Xd(46085,11112,57309)
+repeat
+    if rc<-14.259954058192955*-2612 then
+        if rc>-17051- -19885 then
+            Lc[1],rc=mf(...),Bc[11450]or Xd(14769,11450,59603)
+        else
+            Lc[2],rc=mf(id(Lc[2][1],1,Lc[2][2])(id(Lc[1][1],1,Lc[1][2]))),Bc[13846]or Xd(50930,13846,62217)
+        end
+    elseif rc>1149889384/30872 then
+        Lc[2],rc=mf((function()
+            local dd,xf,uc,lb;
+            uc={};
+            xf,dd={},function(Je,lc,ze)
+                xf[lc]=ec(ze,6425)-ec(Je,52919)
+                return xf[lc]
+            end;
+            lb=xf[-26509]or dd(49497,-26509,12578)
+            repeat
+                if lb<7969-1748 then
+                    return id(uc[1][1],1,uc[1][2])
+                elseif lb<=0.27203953122266922*22868 then
+                    lb,uc[1]=xf[-20757]or dd(24740,-20757,84561),{[-418346081/-18479]=-0.00011200716845878136*-17856,[-524-19355]=-10019+10020,[-11301+-13107]=3149+-3148,[20463+1330]=9.6271099415955327e-05*31162,[-383603300/-31124]=-15582+15585,[75741810/-13470]=-98016/-24504,[20807+-18154]=-24661- -24662,[0.82805695401056301*32377]=-3048- -3049,[16190+-20607]=-0.00024277737314882253*-4119,[-11806-2690]=-27394/-13697}
+                else
+                    lb,uc[1]=xf[-32105]or dd(50538,-32105,14380),mf((function(F)
+                        local function Ta(R)
+                            return F[R-(-32658+7963)]
+                        end
+                        local Wd={[Ta(32858992/-15982)]=Ta(-21650+-22924),[27158-27157]=nb};
+                        Wd[Ta(-24416+12046)]=Wd
+                        local Zd={[-54086/-27043]=Ta(-1.8396208530805687*15825),[17072-17071]=cf};
+                        Zd[0.00017090121909536289*17554]=Zd
+                        local rf={[Ta(-10978- -13093)]=Mc,[29348+-29346]=-4.8167236645633639e-05*-20761};
+                        rf[Ta(-0.1944518895738408*14924)]=rf
+                        local ub={[21044-21043]=Ge,[Ta(-53017+13826)]=Ta(-22558+-26545)};
+                        ub[7559+-7556]=ub
+                        return nb(Ve'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',{[Ta(-808065654/26653)]=ub,[88983/29661]=rf,[Ta(-139636070/6335)]=Wd,[-6743- -6745]=Zd})
+                    end)(uc[1]))
+                end
+            until lb==-0.69534594669244576*-7241
+        end)()),31235-1223
+    else
+        return id(Lc[2][1],1,Lc[2][2])
+    end
+until rc==1233272397/32321
